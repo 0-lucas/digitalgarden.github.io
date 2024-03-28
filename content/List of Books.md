@@ -46,6 +46,7 @@ ___
 - [[Hands-On Unsupervised Learning Using Python How to Build Applied Machine Learning Solutions from Unlabeled Data (Ankur A. Patel).pdf|Hands-on: Unsupervised Learning]]
 - [[Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf|Pattern Recognition and Machine Learning]]
 ## ML Ops
+- [[Dataset Shift in Machine Learning.pdf|Dataset Shift in Machine Learning]]
 - [[Introducing MLOps How to Scale Machine Learning in the Enterprise (Mark Treveil, Nicolas Omont, Clément Stenac etc.).pdf|Introducing MLOPS]]
 - [[Machine Learning Design Patterns Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, Sara Robinson etc.).pdf|Machine Learning Design Patterns]]
 ## Natural Language Processing — NLP

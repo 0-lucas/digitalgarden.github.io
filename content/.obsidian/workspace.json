@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "00dc8f0019aed9b9",
+            "id": "5d2a80c563d85091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Distribution Shift.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Distribution Shift.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Distribution Shift.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Distribution Shift.md"
+                "file": "index.md"
               }
             }
           },
@@ -167,10 +167,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "00dc8f0019aed9b9",
+  "active": "5d2a80c563d85091",
   "lastOpenFiles": [
+    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+    "Machine Learning/Data-Centric AI/Distribution Shift.md",
+    "Machine Learning/Data-Centric AI/Confident Learning.md",
+    "Machine Learning/PCA.md",
+    "Machine Learning/Outlier Removal.md",
+    "Machine Learning/Kernel PCA.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Images/types of shift.png",
+    "Pasted image 20240328193818.png",
+    "List of Books.md",
+    "My Books/Dataset Shift in Machine Learning.pdf",
     "Machine Learning/Images/Covariate shift.png",
-    "Machine Learning/Distribution Shift.md",
     "Machine Learning/Entropy.md",
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Differentiation.md",
@@ -178,8 +188,6 @@
     "Mathematics/Calculus/Integration.md",
     "Mathematics/Riemann Sum.md",
     "Mathematics/Images/Calculus formulas.pdf",
-    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
-    "List of Books.md",
     "Mathematics/Mathematics.md",
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
@@ -190,14 +198,9 @@
     "Mathematics/Calculus/Limits.md",
     "Distribution Shift.md",
     "Machine Learning/Outlier.md",
-    "Machine Learning/Outlier Removal.md",
     "Machine Learning/Outlier Detection.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/PCA.md",
-    "Machine Learning/Kernel PCA.md",
     "Mathematics/Logarithms.md",
     "Machine Learning/Data-Centric AI/Images/outlier detection ml.png",
-    "Machine Learning/Data-Centric AI/Confident Learning.md",
     "Machine Learning/Data-Centric AI/Class Imbalance.md",
     "Machine Learning/Images/outlier pun.jpg",
     "Machine Learning/Mutual Information.md",
@@ -205,15 +208,12 @@
     "Untitled.canvas",
     "Pasted image 20240204141149.png",
     "Pasted image 20240204141153.png",
-    "Pasted image 20240203152553.png",
-    "Pasted image 20240203152642.png",
     "obsidian_repository",
     "remote",
     "Remote",
     "Homepage",
     "C-Sharp/Images",
     "C-Sharp",
-    "Machine Learning",
-    "Data-Centric AI/Images"
+    "Machine Learning"
   ]
 }
