@@ -33,6 +33,13 @@ ___
 In other words, the **target/ labels might change**, but the relationship between the features and target stay the same.
 ___
 # Detecting distribution shifts
-ml monitoring and mlops
+
+To detect *distribution shifts* in a deployed model, one need to have a solid [[MLOps]] workload. Most commonly, *distribution shifts* happens gradually, so one must continually monitor and evaluate the performance of a deployed model.
+
+In general, most common ways to detect *distribution shifts* is to **monitor model performance** and **data**.
+
+- #### Monitoring model performance
+Evaluate the model's metrics from time to time, like accuracy and precision, or any other statistical or evaluation metric
+
 
 # Dealing with distribution shifts
