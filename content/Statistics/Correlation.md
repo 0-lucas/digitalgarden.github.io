@@ -34,8 +34,21 @@ $$
 > Both concepts are **very similar**, and in fact, the above formula can be interpreted as the **ratio** between the *covariance* of $x, y$ and the product of their *standard deviation*.
 
 In [[Python]], one can easily calculate *correlation* between two numbers or two arrays:
+```python
+import pandas as pd
+import numpy as np
+from statistics import correlation
+
+first_array = np.array([1, 2, 3, 9, 10, 15])
+second_array = np.array([-4, -2, 1, 6, 9, 10])
+
+np.corrcoef(first_array, second_array)
+correlation(first_array, second_array)
+pd.DataFrame({"col1": first_array, "col2": second_array}).corr()
 ```
 
-```
+To interpret *Pearson's correlation*, take a look at some sample **scatter plots** and its respective *coefficients*:
 
 ![[Correlation examples.png]]
+___
+# Spearman's Correlation
