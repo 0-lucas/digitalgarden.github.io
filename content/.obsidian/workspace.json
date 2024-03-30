@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a837da078d25828e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Practical Statistics for Data Scientists.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -221,15 +231,18 @@
   },
   "active": "7ce0c517f821611d",
   "lastOpenFiles": [
-    "My Books/The basic practice of statistics.pdf",
+    "My Books/Practical Statistics for Data Scientists.pdf",
+    "List of Books.md",
     "Statistics/Correlation.md",
+    "My Books/2004_Book_AllOfStatistics.pdf",
+    "My Books/The basic practice of statistics.pdf",
+    "Statistics/Images/Monotonic relantionship.png",
     "Statistics/Statistics.md",
     "Statistics/Images/Correlation comic.png",
     "Statistics/Images/Correlation examples.png",
     "Statistics/Images",
     "Statistics",
     "Mathematics/Riemann Sum.md",
-    "List of Books.md",
     "My Books/The basic practice of statistics.pdf.crdownload",
     "Machine Learning/Mutual Information.md",
     "Mathematics/Logarithms.md",
@@ -262,10 +275,8 @@
     "Mathematics/Images/riemann sum comparison.png",
     "Mathematics/Calculus/Limits.md",
     "Machine Learning/Data-Centric AI/Images/outlier detection ml.png",
-    "Machine Learning/Images/outlier pun.jpg",
     "Untitled.canvas",
     "obsidian_repository",
-    "remote",
-    "Remote"
+    "remote"
   ]
 }

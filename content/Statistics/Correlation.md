@@ -11,17 +11,17 @@ ___
 
 The first thing to have in mind when thinking about **correlated variables**, is that the concept of *correlation* **applies only to linear relationships**. More complex, non-**linear relationships** are **not explained by correlation**. 
 
-*Correlation* is used in numerical format through a *correlation coefficient*, which is a [[Statistical Measure]] with values ranging from $-1$ to $+1$, normally written as $r$.
+*Correlation* is used in numerical format through a *correlation coefficient*, which is a [[Statistical Measure]] with values ranging from $-1$ to $+1$, normally written as $r$ — for *Pearson's correlation*.
 
-There are various to calculate a *correlation coefficient*, depending on the **type of data**, whether being a **ordinal**, **categorical** or **real-valued**. The most commonly used *coefficients* are [Pearson's](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) and [Spearman's](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient).
+There are various to calculate a *correlation coefficient*, depending on the **type of data**, whether being an **ordinal**, **categorical** or **real-valued**. The most commonly used *coefficients* are [Pearson's](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) and [Spearman's](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient).
 ___
 ## Pearson's Correlation Coefficient
 
 *Pearson's Correlation Coefficient*, also called *bivariate correlation*, is the most used *correlation coefficient*, and any that someone talks about *correlation*, one should assume they are talking about *Pearson's*.
 
-It evaluates **linear relationships** between **two continuous variables**, where a change is one variable relates to a **proportional change** in the other variable. The main takeaway is that it **only applies to linear relationships**.
+It evaluates **linear relationships** between **two continuous variables**, where a change is one variable relates to a **proportional change** in the other variable. To apply *Pearson's correlation*, one should assume that the data is **bivariate**, **linearly related**, and **normally distributed**.
 
-Given $n$ as the number of data point **pairs**, $\sigma$ as the **standard deviation** and $x, y$ as the variables to correlate,  and $\overline{x}, \overline{y}$ as the **average** of said variables, one can calculate *Pearson's correlation* using the formula:
+Given $n$ as the number of data point **pairs**, $\sigma$ as the **standard deviation** and $x, y$ as the variables to correlate, and $\overline{x}, \overline{y}$ as the **average** of said variables, one can calculate *Pearson's correlation* using the formula:
 
 $$
 r = \frac{1}{n-1} 
@@ -51,4 +51,20 @@ To interpret *Pearson's correlation*, take a look at some sample **scatter plots
 
 ![[Correlation examples.png]]
 ___
-# Spearman's Correlation
+## Spearman's Correlation
+
+*Spearman's Rank Correlation Coefficient*, named after [Charles Spearman](https://en.wikipedia.org/wiki/Charles_Spearman), is another *correlation coefficient* , which assesses a *monotonic relationship* between two variables, which means that it's not constrained to **linear relationships like *Pearson's correlation***.
+
+> [!tip] Monotonic relationships
+> A *monotonic relationship* of two variables describes the change in a variable when the other one also changes. *Monotonic relationships* are not constrained by a **constant rate**. The only constraint is that the function should have a **single direction**.
+
+![[Monotonic relantionship.png|700]]
+
+*Spearman's correlation* can be applied to both **continuous and discrete ordinal variables**, once it **doesn't use the raw data**, using **ranks** instead of the real values. 
+
+To apply *Spearman's correlation*, one should assume the data is **continuous or ordinal**, and **monotonically related**. Because **normality** is not an assumption, *Spearman's correlation* is also a **non-parametric statistic**.
+
+Given $\rho$ as *Pearson's correlation coefficient* applied to **ranked variables**, and $R(x), R(y)$ as the ranks of the variables $x, y$, one can calculate *Spearman's correlation* using the formula:
+$$
+
+$$
