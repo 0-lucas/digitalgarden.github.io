@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5d2a80c563d85091",
+            "id": "7ce0c517f821611d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Statistics/Correlation.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Statistics/Correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Statistics/Correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Statistics/Correlation.md"
               }
             }
           },
@@ -152,10 +152,25 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "1656574ff151df8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61f6b4dbd34589ed",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,18 +182,68 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "5d2a80c563d85091",
+  "floating": {
+    "id": "329e5d6b9d9a3e34",
+    "type": "floating",
+    "children": [
+      {
+        "id": "df2faa99e0aba46b",
+        "type": "window",
+        "children": [
+          {
+            "id": "fcdc3ebc8fc94a80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d2a80c563d85091",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "My Books/The basic practice of statistics.pdf"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2439,
+        "y": 73,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7ce0c517f821611d",
   "lastOpenFiles": [
+    "My Books/The basic practice of statistics.pdf",
+    "Statistics/Correlation.md",
+    "Statistics/Statistics.md",
+    "Statistics",
+    "Mathematics/Riemann Sum.md",
+    "List of Books.md",
+    "My Books/The basic practice of statistics.pdf.crdownload",
+    "Machine Learning/Mutual Information.md",
+    "Mathematics/Logarithms.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Calculus/Asymptote.md",
+    "Mathematics/Mathematics.md",
+    "Machine Learning/Outlier.md",
+    "Machine Learning/Kernel PCA.md",
+    "Machine Learning/Linear Regression.md",
+    "index.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Machine Learning/Data-Centric AI/Distribution Shift.md",
     "Machine Learning/Data-Centric AI/Confident Learning.md",
     "Machine Learning/PCA.md",
     "Machine Learning/Outlier Removal.md",
-    "Machine Learning/Kernel PCA.md",
-    "Machine Learning/Linear Regression.md",
     "Machine Learning/Images/types of shift.png",
     "Pasted image 20240328193818.png",
-    "List of Books.md",
     "My Books/Dataset Shift in Machine Learning.pdf",
     "Machine Learning/Images/Covariate shift.png",
     "Machine Learning/Entropy.md",
@@ -186,34 +251,21 @@
     "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Calculus/Integrals.md",
     "Mathematics/Calculus/Integration.md",
-    "Mathematics/Riemann Sum.md",
     "Mathematics/Images/Calculus formulas.pdf",
-    "Mathematics/Mathematics.md",
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
     "Mathematics/Images/area under curve.png",
-    "index.md",
     "homeimage.png",
     "Mathematics/Images/riemann sum comparison.png",
     "Mathematics/Calculus/Limits.md",
-    "Distribution Shift.md",
-    "Machine Learning/Outlier.md",
-    "Machine Learning/Outlier Detection.md",
-    "Mathematics/Logarithms.md",
     "Machine Learning/Data-Centric AI/Images/outlier detection ml.png",
-    "Machine Learning/Data-Centric AI/Class Imbalance.md",
     "Machine Learning/Images/outlier pun.jpg",
-    "Machine Learning/Mutual Information.md",
-    "Machine Learning/Machine Learning.md",
     "Untitled.canvas",
     "Pasted image 20240204141149.png",
     "Pasted image 20240204141153.png",
     "obsidian_repository",
     "remote",
     "Remote",
-    "Homepage",
-    "C-Sharp/Images",
-    "C-Sharp",
-    "Machine Learning"
+    "Homepage"
   ]
 }

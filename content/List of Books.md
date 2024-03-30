@@ -20,6 +20,7 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Practical Statistics for Data Scientists.pdf|Practical Statistics for Data Scientists]]
 - [[2009_Book_TheElementsOfStatisticalLearni.pdf|The Elements of Statistical Learning]]
 - [[thinkstats2.pdf|Think Stats]]
+- [[The basic practice of statistics.pdf|The Basic Practice of Statistics]]
 - [[Probabilidade - Um curso moderno com aplicações.pdf|Probabilidade - Um Curso Moderno com Aplicações]]
 ___
 # Data Science
