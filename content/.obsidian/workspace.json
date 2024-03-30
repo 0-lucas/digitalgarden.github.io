@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a837da078d25828e",
+            "id": "89d78044c0d6da85",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My Books/Practical Statistics for Data Scientists.pdf"
+                "file": "My Books/The basic practice of statistics.pdf"
               }
             }
           }
@@ -231,13 +231,23 @@
   },
   "active": "7ce0c517f821611d",
   "lastOpenFiles": [
-    "My Books/Practical Statistics for Data Scientists.pdf",
+    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+    "My Books/The basic practice of statistics.pdf",
     "List of Books.md",
     "Statistics/Correlation.md",
-    "My Books/2004_Book_AllOfStatistics.pdf",
-    "My Books/The basic practice of statistics.pdf",
-    "Statistics/Images/Monotonic relantionship.png",
+    "My Books/Practical Statistics for Data Scientists.pdf",
+    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
+    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
+    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
+    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
+    "Machine Learning/Data-Centric AI/Confident Learning.md",
     "Statistics/Statistics.md",
+    "Machine Learning/PCA.md",
+    "Machine Learning/Kernel PCA.md",
+    "Statistics/Images/rule of thumb.png",
+    "Statistics/Images/quadratic relationship.png",
+    "My Books/2004_Book_AllOfStatistics.pdf",
+    "Statistics/Images/Monotonic relantionship.png",
     "Statistics/Images/Correlation comic.png",
     "Statistics/Images/Correlation examples.png",
     "Statistics/Images",
@@ -250,13 +260,9 @@
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Mathematics.md",
     "Machine Learning/Outlier.md",
-    "Machine Learning/Kernel PCA.md",
     "Machine Learning/Linear Regression.md",
     "index.md",
-    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Machine Learning/Data-Centric AI/Distribution Shift.md",
-    "Machine Learning/Data-Centric AI/Confident Learning.md",
-    "Machine Learning/PCA.md",
     "Machine Learning/Outlier Removal.md",
     "Machine Learning/Images/types of shift.png",
     "Pasted image 20240328193818.png",
@@ -266,17 +272,10 @@
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Calculus/Integrals.md",
-    "Mathematics/Calculus/Integration.md",
     "Mathematics/Images/Calculus formulas.pdf",
-    "Mathematics/Calculus/First Derivative Test.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
     "Mathematics/Images/area under curve.png",
     "homeimage.png",
-    "Mathematics/Images/riemann sum comparison.png",
-    "Mathematics/Calculus/Limits.md",
-    "Machine Learning/Data-Centric AI/Images/outlier detection ml.png",
     "Untitled.canvas",
-    "obsidian_repository",
-    "remote"
+    "obsidian_repository"
   ]
 }

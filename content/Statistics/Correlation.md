@@ -66,5 +66,30 @@ To apply *Spearman's correlation*, one should assume the data is **continuous or
 
 Given $\rho$ as *Pearson's correlation coefficient* applied to **ranked variables**, and $R(x), R(y)$ as the ranks of the variables $x, y$, one can calculate *Spearman's correlation* using the formula:
 $$
-
+r_s = \rho_{R(x), R(y)}
 $$
+>[!tip] Using *Pearson's correlation* to calculate *Spearman's*
+> In fact, *Sperman's correlation* has extra steps to rank the data before applying the usual *Pearson's*. 
+> One should **rank both variables** from **smallest to highest**, **without changing the pair order**, and applying *Pearson's correlation* to the **rank number**, instead of the real value.
+
+**Ranking the variables before applying *Pearson's correlation*** distributes data more evenly, making it usable to *monotonic relationships* and **resilient against outliers**.
+___
+# Interpreting correlation values
+
+To interpret a *correlation coefficient* value, one must first analyse if the data is **linearly or monotonically** related, depending of the coefficient used. For example, a perfect **quadratic relationship** may result in $r=0$:
+
+![[quadratic relationship.png|600]]
+
+Still, it shows a clear relationship between variables that can be easily understood using a **quadratic relationship**.
+
+If the assumptions hold, one then, can use a **rule of thumb** to evaluate how correlated is the variables:
+
+![[rule of thumb.png]]
+___
+# References
+
+- ##### [[The basic practice of statistics.pdf|The Basic Practice of Statistics]] - David S. Moore, p. 81.
+
+- #### [[Practical Statistics for Data Scientists.pdf|Practical Statistics for Data Scientists]] - Peter Gedeck, p. 68.
+
+- #### [Spearman's correlation](https://www.statstutor.ac.uk/resources/uploaded/spearmans.pdf) - Statstutor lecture.
