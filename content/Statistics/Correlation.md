@@ -22,13 +22,20 @@ ___
 It evaluates **linear relationships** between **two continuous variables**, where a change is one variable relates to a **proportional change** in the other variable. The main takeaway is that it **only applies to linear relationships**.
 
 Given $n$ as the number of data point **pairs**, $\sigma$ as the **standard deviation** and $x, y$ as the variables to correlate,  and $\overline{x}, \overline{y}$ as the **average** of said variables, one can calculate *Pearson's correlation* using the formula:
+
 $$
 r = \frac{1}{n-1} 
 \sum^n_{i=1} 
 \left(\frac{x_i - \overline{x}}{\sigma_x} \right)
 \left(\frac{y_i - \overline{x}}{\sigma_y} \right)
 $$
-> [!tip] Using $r$ to calculate changes
-> This will result in $r \in [-1, 1]$, where a change in a variable will result in $(\text{change value} * r)$ in the other variable. 
+
+> [!tip] Correlation and covariance
+> Both concepts are **very similar**, and in fact, the above formula can be interpreted as the **ratio** between the *covariance* of $x, y$ and the product of their *standard deviation*.
+
+In [[Python]], one can easily calculate *correlation* between two numbers or two arrays:
+```
+
+```
 
 ![[Correlation examples.png]]
