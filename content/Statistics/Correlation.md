@@ -9,6 +9,8 @@ ___
 The first thing to have in mind when thinking about **correlated variables**, is that the concept of *correlation* **applies only to linear relationships**. More complex, non-**linear relationships** are **not explained by correlation**. 
 
 *Correlation* is used in numerical format through a *correlation coefficient*, which is a [[Statistical Measure]] with values ranging from $-1$ to $+1$, normally written as $r$.
-There are two common ways to calculate a *correlation coefficient*, being []
+
+There are various to calculate a *correlation coefficient*, depending on the **type of data**, whether being a **ordinal**, **categorical** or **real-valued**. The most commonly used *coefficients* are [Pearson's](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) and [Spearman's](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient).
+___
 
 
