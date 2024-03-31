@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Calculus/Integration.md",
+                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Calculus/Integration.md",
+                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Calculus/Integration.md"
+                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf"
               }
             }
           },
@@ -192,12 +191,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "7ce0c517f821611d",
+  "active": "07706b53204ed591",
   "lastOpenFiles": [
+    "Mathematics/Calculus/Integration.md",
+    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Mathematics/Calculus/Integrals.md",
     "Statistics/Correlation.md",
     "My Books/The basic practice of statistics.pdf",
-    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "List of Books.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric AI.md",
@@ -234,7 +234,6 @@
     "Machine Learning/Images/Covariate shift.png",
     "Machine Learning/Entropy.md",
     "Mathematics/Calculus/Derivatives.md",
-    "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Images/Calculus formulas.pdf",
     "Mathematics/Images/area under curve.png",
     "homeimage.png",
