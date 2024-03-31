@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Mathematics/Calculus/Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Mathematics/Calculus/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Mathematics/Calculus/Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Correlation.md"
+                "file": "Mathematics/Calculus/Integration.md"
               }
             }
           },
@@ -192,49 +192,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "floating": {
-    "id": "329e5d6b9d9a3e34",
-    "type": "floating",
-    "children": [
-      {
-        "id": "df2faa99e0aba46b",
-        "type": "window",
-        "children": [
-          {
-            "id": "fcdc3ebc8fc94a80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5d2a80c563d85091",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "My Books/The basic practice of statistics.pdf"
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2439,
-        "y": 73,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "7ce0c517f821611d",
   "lastOpenFiles": [
-    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
-    "My Books/The basic practice of statistics.pdf",
-    "List of Books.md",
+    "Mathematics/Calculus/Integrals.md",
     "Statistics/Correlation.md",
+    "My Books/The basic practice of statistics.pdf",
+    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+    "List of Books.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric AI.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
@@ -271,7 +235,6 @@
     "Machine Learning/Entropy.md",
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Differentiation.md",
-    "Mathematics/Calculus/Integrals.md",
     "Mathematics/Images/Calculus formulas.pdf",
     "Mathematics/Images/area under curve.png",
     "homeimage.png",
