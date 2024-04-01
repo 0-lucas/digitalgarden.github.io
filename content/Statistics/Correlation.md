@@ -90,6 +90,6 @@ ___
 
 - ##### [[The basic practice of statistics.pdf|The Basic Practice of Statistics]] - David S. Moore, p. 81.
 
-- #### [[Practical Statistics for Data Scientists.pdf|Practical Statistics for Data Scientists]] - Peter Gedeck, p. 68.
+- ##### [[Practical Statistics for Data Scientists.pdf|Practical Statistics for Data Scientists]] - Peter Gedeck, p. 68.
 
-- #### [Spearman's correlation](https://www.statstutor.ac.uk/resources/uploaded/spearmans.pdf) - Statstutor lecture.
+- ##### [Spearman's correlation](https://www.statstutor.ac.uk/resources/uploaded/spearmans.pdf) - Statstutor lecture.

@@ -20,39 +20,19 @@
             }
           },
           {
-            "id": "7ce0c517f821611d",
+            "id": "fd940e38f02c9f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Calculus/Integration.md",
+                "file": "scikit-learn.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "89d78044c0d6da85",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mathematics/Images/Calculus formulas.pdf"
-              }
-            }
-          },
-          {
-            "id": "9ad12bb756a7ba97",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mathematics/Images/Calculus formulas.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Images/Calculus formulas.pdf",
+                "file": "scikit-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Images/Calculus formulas.pdf",
+                "file": "scikit-learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Images/Calculus formulas.pdf"
+                "file": "scikit-learn.md"
               }
             }
           },
@@ -202,26 +182,31 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "9ad12bb756a7ba97",
+  "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
-    "Mathematics/Calculus/Integrals.md",
-    "Mathematics/Calculus/Differentiation.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
+    "Machine Learning/Mutual Information.md",
+    "scikit-learn.md",
+    "Machine Learning/Outlier.md",
+    "Statistics/Statistics.md",
+    "Statistics/Correlation.md",
+    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
+    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Mathematics/Calculus/Integration.md",
-    "Mathematics/Calculus/Derivatives.md",
-    "Mathematics/Calculus/First Derivative Test.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Mathematics/Images/Calculus formulas.pdf",
+    "Mathematics/Calculus/Asymptote.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Calculus/Derivatives.md",
+    "Mathematics/Calculus/Differentiation.md",
+    "Mathematics/Calculus/Differentiation Optimization.md",
+    "Mathematics/Calculus/First Derivative Test.md",
+    "Mathematics/Calculus/Integrals.md",
     "My Books/The basic practice of statistics.pdf",
-    "Statistics/Correlation.md",
     "List of Books.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric AI.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
-    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
-    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
     "Machine Learning/Data-Centric AI/Confident Learning.md",
-    "Statistics/Statistics.md",
     "Machine Learning/PCA.md",
     "Machine Learning/Kernel PCA.md",
     "Statistics/Images/rule of thumb.png",
@@ -234,15 +219,10 @@
     "Statistics",
     "Mathematics/Riemann Sum.md",
     "My Books/The basic practice of statistics.pdf.crdownload",
-    "Machine Learning/Mutual Information.md",
     "Mathematics/Logarithms.md",
-    "Mathematics/Calculus/Calculus.md",
-    "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Mathematics.md",
-    "Machine Learning/Outlier.md",
     "Machine Learning/Linear Regression.md",
     "index.md",
-    "Machine Learning/Data-Centric AI/Distribution Shift.md",
     "Machine Learning/Images/types of shift.png",
     "Pasted image 20240328193818.png",
     "My Books/Dataset Shift in Machine Learning.pdf",

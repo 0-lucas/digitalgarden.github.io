@@ -50,8 +50,6 @@ Let's start with an example. Given a function $f(x) = x + 1$, we can calculate t
 $$
 \int (x+1) = \frac{x^2}{2} + x + C
 $$
-*Because the rules used in integration are just the reverse of the ones used in [[Differentiation]], consult the [[Calculus formulas.pdf|Integration Rules]]* for easier calculations.
-
 >[!tip] The $C$ constant
 >For *indefinite integrals*, we insert the $C$ constant in any integral, to account any constant in the original function that **could not be retrieved**.
 ___

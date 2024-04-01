@@ -2,8 +2,8 @@
 
 A *outlier* is **basically a data point that doesn't fit the dataset distribution** and/ or **differs significantly from other data points**. It may have different meanings depending of the context.
 
-For example, in a facial recognition dataset, a dog picture can be determined as an *outlier*, 
-but this rule would be incomprehensible for a normally distributed random variable.
+>[!tip] Defining an outlier depends on the context
+>For example, in a facial recognition dataset, a dog picture can be determined as an *outlier*, but this rule would be incomprehensible for a normally distributed random variable.
 
 *Outliers* can be caused by **measurement errors**, **bad data collection**, **malicious inputs** and **rare events**.
 
