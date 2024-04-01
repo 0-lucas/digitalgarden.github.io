@@ -40,8 +40,21 @@
                 "file": "Mathematics/Images/Calculus formulas.pdf"
               }
             }
+          },
+          {
+            "id": "9ad12bb756a7ba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Calculus/Differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+                "file": "Mathematics/Calculus/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+                "file": "Mathematics/Calculus/Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Calculus ALL IN ONE - Mark Ryan.pdf"
+                "file": "Mathematics/Calculus/Differentiation.md"
               }
             }
           },
@@ -191,10 +204,14 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "07706b53204ed591",
+  "active": "9ad12bb756a7ba97",
   "lastOpenFiles": [
-    "Mathematics/Images/Calculus formulas.pdf",
+    "Mathematics/Calculus/Derivatives.md",
+    "Mathematics/Calculus/Differentiation.md",
+    "Mathematics/Calculus/Differentiation Optimization.md",
+    "Mathematics/Calculus/First Derivative Test.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
+    "Mathematics/Images/Calculus formulas.pdf",
     "Mathematics/Calculus/Integration.md",
     "Mathematics/Calculus/Integrals.md",
     "My Books/The basic practice of statistics.pdf",
@@ -228,13 +245,10 @@
     "Machine Learning/Linear Regression.md",
     "index.md",
     "Machine Learning/Data-Centric AI/Distribution Shift.md",
-    "Machine Learning/Outlier Removal.md",
     "Machine Learning/Images/types of shift.png",
     "Pasted image 20240328193818.png",
     "My Books/Dataset Shift in Machine Learning.pdf",
     "Machine Learning/Images/Covariate shift.png",
-    "Machine Learning/Entropy.md",
-    "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Images/area under curve.png",
     "homeimage.png",
     "Untitled.canvas",
