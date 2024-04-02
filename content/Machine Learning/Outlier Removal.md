@@ -56,5 +56,5 @@ plot_difference(array, filtered_array);
 ```
 
 ![[Outlier Removal Cleanlab.png]]
-> *Notice the **distribution has not changed much**, compared to the quantile method.*
+> *Notice the **distribution has not changed much**, compared to the quantile method, but some data was lost.*
 ___

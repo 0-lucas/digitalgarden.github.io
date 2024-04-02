@@ -4,7 +4,7 @@ For a given [[Machine Learning]] model, it's possible for the loss of a **specif
 
 A model prediction **should not depend on which subpopulation a data point belongs to**, and needs to be able to generalize proportionally well across the **entire distribution.**
 
-This is different from [[Class Imbalance]], where it focus is on the **target variable**. Here the focus is on the **features itself**.
+This is different from [[Class Imbalance]], where it focuses on the **target variable**. Here the focus is on the **features itself**.
 ___
 # Discovering underperforming samples
 
