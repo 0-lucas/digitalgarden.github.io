@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +168,7 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
     "Statistics/Images/sampling bias.png",
     "Pasted image 20240402074921.png",

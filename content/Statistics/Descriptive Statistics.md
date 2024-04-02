@@ -15,7 +15,7 @@ The process of extracting a *sample* from a *population* can yield bad *samples*
 ___
 ## Intentional sampling
 
-*Intentional sampling* methods are **non-randomized procedures**, which results in a **biased sample**. The purpose of *intentional sampling* is to **deliberately select a group of elements which satisfy specific prescribed criteria**. 
+*Intentional sampling* methods are **non-randomized and non-probabilistic procedures**, which results in a **biased sample**. The purpose of *intentional sampling* is to **deliberately select a group of elements which satisfy specific prescribed criteria**. 
 
 It should be used only with **enough previous knowledge of the population**.
 ___
