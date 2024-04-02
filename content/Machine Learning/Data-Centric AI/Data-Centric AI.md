@@ -1,3 +1,5 @@
+# What is it?
+
 Basically, **Data Centric AI** (*DCAI*, for short), is a way to **improve predictions of a [[Machine Learning]] model focusing on the training data of the model**. 
 ___
 

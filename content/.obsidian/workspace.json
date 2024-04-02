@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scikit-learn.md",
+                "file": "Statistics/Statistics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scikit-learn.md",
+                "file": "Statistics/Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scikit-learn.md",
+                "file": "Statistics/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scikit-learn.md"
+                "file": "Statistics/Statistics.md"
               }
             }
           },
@@ -182,15 +182,23 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fd940e38f02c9f73",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Machine Learning/Data-Centric AI/Confident Learning.md",
+    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
+    "Machine Learning/Data-Centric AI/Class Imbalance.md",
+    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
+    "Machine Learning/Data-Centric AI/Distribution Shift.md",
+    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
+    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
+    "Machine Learning/Dimensionality Reduction.md",
+    "Machine Learning/scikit-learn.md",
+    "Machine Learning/Images/scikit learn example.png",
+    "Bard_Chart_Image.png",
     "Machine Learning/Mutual Information.md",
-    "scikit-learn.md",
     "Machine Learning/Outlier.md",
     "Statistics/Statistics.md",
     "Statistics/Correlation.md",
-    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
-    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Mathematics/Calculus/Integration.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Mathematics/Images/Calculus formulas.pdf",
@@ -204,9 +212,6 @@
     "My Books/The basic practice of statistics.pdf",
     "List of Books.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
-    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
-    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
-    "Machine Learning/Data-Centric AI/Confident Learning.md",
     "Machine Learning/PCA.md",
     "Machine Learning/Kernel PCA.md",
     "Statistics/Images/rule of thumb.png",
@@ -220,15 +225,10 @@
     "Mathematics/Riemann Sum.md",
     "My Books/The basic practice of statistics.pdf.crdownload",
     "Mathematics/Logarithms.md",
-    "Mathematics/Mathematics.md",
-    "Machine Learning/Linear Regression.md",
-    "index.md",
     "Machine Learning/Images/types of shift.png",
     "Pasted image 20240328193818.png",
     "My Books/Dataset Shift in Machine Learning.pdf",
     "Machine Learning/Images/Covariate shift.png",
-    "Mathematics/Images/area under curve.png",
-    "homeimage.png",
     "Untitled.canvas",
     "obsidian_repository"
   ]
