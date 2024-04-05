@@ -4,4 +4,21 @@
 ___
 # Creating containers with Docker
 
-[[Docker]] is the most popular *containerization* tool available, 
+[[Docker]] is the most popular *containerization* tool available. [[Docker]] uses a **code abstraction** called [[Dockerfile]] to build *images*. The *image* is the *snapshot* of the [[Containers|container]].
+
+Given an example [[Dockerfile]], which uses a *slimmed Debian image*, with [[Python]] already installed, copies all code to a new directory and runs it:
+
+```
+FROM python:3.11-slim
+
+WORKDIR /NewFolder
+
+COPY requirements.txt .
+COPY main.py /main.py
+
+RUN pip install -r requirements.txt
+
+CMD ["python", "main.py"]
+```
+___
+slim

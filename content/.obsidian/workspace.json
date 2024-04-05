@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Software Engineering/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Software Engineering/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Correlation.md",
+                "file": "Software Engineering/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Correlation.md"
+                "file": "Software Engineering/Docker/Docker.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
-    "Statistical Measure.md",
-    "Statistics/Correlation.md",
-    "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Docker/Containers.md",
+    "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Docker/Docker.md",
+    "Software Engineering/Microservices.md",
+    "Statistics/Correlation.md",
+    "Statistical Measure.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Software Engineering/Docker",
     "Software Engineering/Kubernetes/Kubernetes Architecture.md",
@@ -188,7 +189,6 @@
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
-    "Software Engineering/Microservices.md",
     "Creating Containers.md",
     "Software Engineering/Images/container vs vm.png",
     "Software Engineering/Images/stop doing microservices.png",
