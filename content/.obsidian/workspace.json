@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers.md",
+                "file": "Statistics/Correlation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Containers.md",
+                "file": "Statistics/Correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Containers.md",
+                "file": "Statistics/Correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Containers.md"
+                "file": "Statistics/Correlation.md"
               }
             }
           },
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,19 +171,32 @@
   },
   "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
-    "Software Engineering/Docker.md",
-    "Containers.md",
-    "Software Engineering/Microservices.md",
-    "Software Engineering/Images/stop doing microservices.png",
-    "Software Engineering/Kubernetes/Kubernetes.md",
-    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
+    "Statistical Measure.md",
+    "Statistics/Correlation.md",
+    "Software Engineering/Docker/Containerization.md",
+    "Software Engineering/Docker/Containers.md",
+    "Software Engineering/Docker/Docker.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
+    "Software Engineering/Docker",
+    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
+    "Software Engineering/Kubernetes/Kubernetes.md",
+    "Mathematics/Ruffini's Rule.md",
+    "Mathematics/Riemann Sum.md",
+    "Mathematics/Mathematics.md",
+    "Mathematics/Calculus/Derivatives.md",
+    "Mathematics/Calculus/Differentiation.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Images/stop doing la.png",
+    "Mathematics/Linear Algebra",
+    "Software Engineering/Microservices.md",
+    "Creating Containers.md",
+    "Software Engineering/Images/container vs vm.png",
+    "Software Engineering/Images/stop doing microservices.png",
     "Machine Learning/scikit-learn.md",
     "Statistics/Statistics.md",
     "Statistics/Images/stop doing stats.png",
     "Pasted image 20240402193205.png",
     "List of Books.md",
-    "Mathematics/Mathematics.md",
     "Mathematics/Images/stop doing math.png",
     "Statistics/Descriptive Statistics.md",
     "Statistics/Images/sampling bias.png",
@@ -196,26 +210,13 @@
     "Machine Learning/PCA.md",
     "Machine Learning/Mutual Information.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
-    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
-    "Machine Learning/Data-Centric AI/Confident Learning.md",
-    "Machine Learning/Data-Centric AI/Curriculum Learning.md",
-    "Machine Learning/Data-Centric AI/Class Imbalance.md",
-    "Machine Learning/Data-Centric AI/Distribution Shift.md",
-    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
-    "Machine Learning/Dimensionality Reduction.md",
     "Machine Learning/Images/scikit learn example.png",
-    "Bard_Chart_Image.png",
-    "Machine Learning/Outlier.md",
-    "Statistics/Correlation.md",
     "Mathematics/Images/Calculus formulas.pdf",
     "My Books/The basic practice of statistics.pdf",
-    "Statistics/Images/rule of thumb.png",
     "Statistics/Images",
     "Statistics",
     "My Books/The basic practice of statistics.pdf.crdownload",
-    "My Books/Dataset Shift in Machine Learning.pdf",
-    "Untitled.canvas",
-    "obsidian_repository"
+    "Untitled.canvas"
   ]
 }
