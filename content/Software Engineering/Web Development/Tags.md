@@ -98,3 +98,6 @@ To insert lines into both types of lists, we use the **line tag** `<li>`:
 
 ![[lists html.png|350]]
 ___
+## Inserting links
+
+The `<a>` tag
