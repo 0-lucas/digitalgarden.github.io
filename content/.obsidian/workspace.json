@@ -129,11 +129,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,12 +146,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fd940e38f02c9f73",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
-    "Software Engineering/Web Development/Web Development.md",
+    "Software Engineering/Images/Html headings.png",
     "Software Engineering/Web Development/HTML.md",
-    "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/Web Development/Web Development.md",
+    "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Images/stop doing html.png",
     "List of Books.md",
