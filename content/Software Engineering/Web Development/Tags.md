@@ -20,7 +20,7 @@ The **`<head>`  tag** requires the **title element**, which is defined by the **
 <html lang="en">
 
 <head>
-	<meta charset="utf>
+	<meta charset="UTF-8">
 	<title>Title of the document</title>
 </head>
 
@@ -54,6 +54,47 @@ The **heading tag** `<h1>` is used to **create headings and titles**, and it goe
 <h5>Title 5</h5>
 ```
 
-Because *Obsidian* supports [[HTML]] content natively, we can run the example above and see its result:
-<h1>Title 1</h1> <h2>Title 2</h2> <h3>Title 3</h3> <h4>Title 4</h4>
+![[Html headings.png|300]]
+___
+## Inserting paragraphs and line breaks
+
+The **paragraph tag** `<p>` is used to **define a common paragraph of text**. Because [[HTML]] *sanitizes* the content inside the **paragraph tag**, any additional white spaces or line breaks **are not displayed**. 
+To achieve line breaks, use the **line break tag** `<br>` or **horizontal rule tag** `<hr>` to **add an blank line**.
+
+```html
+<p>This is my paragraph. <br> This is the second line </p>
+<hr> This is separated
+```
+
+![[paragraph html.png|300]]
+___
+## Creating bullet and numbered lists
+
+The **unordered list tag** `<ul>` is used to **create bullet/ unordered lists**. We can also create **numbered list** with `<ol>`. We can combine both types and nest them to create nested lists.
+
+To insert lines into both types of lists, we use the **line tag** `<li>`:
+
+```html
+<ul> Favorite bands
+	<li>Radiohead</li>
+	<li>Slowdive</li>
+	<li>American Football</li>
+</ul>
+
+<ol>Favorite musicians
+	<li>Thom Yorke</li>
+	<li>Josh Homme</li>
+	<li>Jimi Hendrix</li>
+</ol>
+
+<ul>Nested list
+	<li>First</li>
+	<ol>
+		<li>Second</li>
+	</ol>
+	<li>Third</li>
+</ul>
+```
+
+![[lists html.png|350]]
 ___
