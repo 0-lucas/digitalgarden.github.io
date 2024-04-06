@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/HTML.md",
+                "file": "Software Engineering/Web Development/Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/HTML.md",
+                "file": "Software Engineering/Web Development/Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/HTML.md",
+                "file": "Software Engineering/Web Development/Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/HTML.md"
+                "file": "Software Engineering/Web Development/Tags.md"
               }
             }
           }
@@ -147,11 +147,13 @@
   },
   "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
-    "Software Engineering/Images/stop doing html.png",
-    "My Books/HTML5NotesForProfessionals.pdf",
-    "List of Books.md",
-    "Software Engineering/Web Development/HTML.md",
     "Software Engineering/Web Development/Web Development.md",
+    "Software Engineering/Web Development/HTML.md",
+    "My Books/HTML5NotesForProfessionals.pdf",
+    "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/C-Sharp/C-Sharp.md",
+    "Software Engineering/Images/stop doing html.png",
+    "List of Books.md",
     "My Books/CSSNotesForProfessionals.pdf",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "Mathematics/Calculus/Limits.md",
@@ -181,8 +183,6 @@
     "Creating Containers.md",
     "Software Engineering/Images/container vs vm.png",
     "Software Engineering/Images/stop doing microservices.png",
-    "Machine Learning/scikit-learn.md",
-    "Statistics/Statistics.md",
     "Statistics/Images/stop doing stats.png",
     "Pasted image 20240402193205.png",
     "Mathematics/Images/stop doing math.png",
