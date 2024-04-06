@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "fd3970bd4e48d0f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Software Engineering/Images/A tag html.png"
+              }
+            }
+          },
+          {
+            "id": "6dab316d0615ef16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d418a52bc3f736e",
             "type": "leaf",
             "state": {
@@ -30,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/HTML5NotesForProfessionals.pdf",
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/HTML5NotesForProfessionals.pdf",
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/HTML5NotesForProfessionals.pdf"
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md"
               }
             }
           }
@@ -147,16 +169,22 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "4d418a52bc3f736e",
+  "active": "6dab316d0615ef16",
   "lastOpenFiles": [
+    "Statistics/Statistics.md",
+    "Statistics/Statistical Modelling/Statistical Modelling.md",
+    "Software Engineering/Web Development/HTML.md",
+    "Statistics/Descriptive Statistics",
+    "Statistics/Statistical Modelling",
     "Software Engineering/Web Development/Tags.md",
-    "A tag html.png",
+    "Software Engineering/Images/html table.png",
+    "Software Engineering/Images/dogs inserting images html.png",
+    "Software Engineering/Images/A tag html.png",
+    "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Images/lists html.png",
     "Software Engineering/Microservices.md",
     "Software Engineering/Images/paragraph html.png",
     "Software Engineering/Images/Html headings.png",
-    "Software Engineering/Web Development/HTML.md",
-    "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Web Development/Web Development.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Images/stop doing html.png",
@@ -177,7 +205,7 @@
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
     "Software Engineering/Docker/Docker.md",
     "Software Engineering/Docker/Containers.md",
-    "Statistics/Correlation.md",
+    "Statistics/Descriptive Statistics/Correlation.md",
     "Statistical Measure.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Software Engineering/Docker",
@@ -186,14 +214,9 @@
     "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
-    "Creating Containers.md",
     "Software Engineering/Images/container vs vm.png",
     "Software Engineering/Images/stop doing microservices.png",
-    "Statistics/Images/stop doing stats.png",
-    "Pasted image 20240402193205.png",
     "My Books/Practical Statistics for Data Scientists.pdf",
-    "My Books/2004_Book_AllOfStatistics.pdf",
-    "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Untitled.canvas"
   ]
 }

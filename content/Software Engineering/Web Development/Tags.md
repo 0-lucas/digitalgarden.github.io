@@ -125,6 +125,47 @@ ___
 The **image tag** `<img>` is used to **insert images**. It **doesn't require a closing tag**, but it needs at least the *attributes* `src` and `alt`.
 The *attribute* `src` defines the **path of the image**, while `alt` defines the **text to be shown if the image can't be displayed**.
 
+```html
+<p>
+	Look at this dog! <br>
+	It sure won't be used to undermine federal secrets! <br>
+	<img src="doge.jpg" alt="doge" style="width:50%"> <br>
+	<hr>
+	
+	This other dog lets you click on it to download its image! <br>
+	<a href="walter.jpg" download>
+		<img src="walter.jpg" alt="walter" style="width:25%">
+	</a>
+</p>
 ```
 
+![[dogs inserting images html.png]]
+___
+## Inserting tables
+
+The **table tag** `<table>` is used to **create a table structure**. But it comes with other *elements*, like`<th>`, which stands for **table heading**, `<tr>` which **creates a table row**, and `<td>`, which **creates each data cell**.
+
+```html
+<table border="1px" width="250">
+<!-- The caption tag adds the table title/description -->
+	<caption>Cool music and its genre</caption>
+	<!-- Header row -->
+	<tr>
+		<th>Band</th>
+		<th>Genre</th>
+	</tr>
+	
+	<tr>
+		<td>El Toro Fuerte</td>
+		<td>Rock Triste</td>
+	</tr>
+	<tr>
+		<td>MINTTT</td>
+		<td>Noise pop</td>	
+	</tr>
+</table>
 ```
+
+![[html table.png|350]]
+___
+
