@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Calculus/Limits.md",
+                "file": "Software Engineering/Web Development/HTML.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4d418a52bc3f736e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/HTML5NotesForProfessionals.pdf"
               }
             }
           }
@@ -77,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Calculus/Limits.md",
+                "file": "Software Engineering/Web Development/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Calculus/Limits.md",
+                "file": "Software Engineering/Web Development/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +117,19 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "44555a8f31cdc478",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering/Web Development/HTML.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,8 +145,16 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "010ca68019f3cfd3",
+  "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
+    "Software Engineering/Images/stop doing html.png",
+    "My Books/HTML5NotesForProfessionals.pdf",
+    "List of Books.md",
+    "Software Engineering/Web Development/HTML.md",
+    "Software Engineering/Web Development/Web Development.md",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "My Books/JavaScriptNotesForProfessionals.pdf",
+    "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Calculus.md",
@@ -138,7 +166,6 @@
     "Software Engineering/Kubernetes/Kubernetes.md",
     "Software Engineering/Docker/Containerization.md",
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
-    "List of Books.md",
     "Software Engineering/Docker/Docker.md",
     "Software Engineering/Docker/Containers.md",
     "Software Engineering/Microservices.md",
@@ -159,20 +186,12 @@
     "Statistics/Images/stop doing stats.png",
     "Pasted image 20240402193205.png",
     "Mathematics/Images/stop doing math.png",
-    "Statistics/Descriptive Statistics.md",
     "Statistics/Images/sampling bias.png",
     "Pasted image 20240402074921.png",
     "Pasted image 20240402073454.png",
-    "Machine Learning/Outlier Detection.md",
-    "Machine Learning/Machine Learning.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "My Books/2004_Book_AllOfStatistics.pdf",
-    "Machine Learning/Outlier Removal.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
-    "Machine Learning/Images/scikit learn example.png",
-    "Mathematics/Images/Calculus formulas.pdf",
-    "My Books/The basic practice of statistics.pdf",
-    "Statistics/Images",
     "Untitled.canvas"
   ]
 }

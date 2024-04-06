@@ -76,3 +76,8 @@ ___
 - [[Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf|Docker in Action]]
 - [[Kubernetes in Action (Marko Luksa).pdf|Kubernetes in Action]]
 ____
+# Software Engineering / Computer Science
+## Web Development
+- [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
+- [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]
+- [[JavaScriptNotesForProfessionals.pdf|Javascript Notes for Professionals]]
