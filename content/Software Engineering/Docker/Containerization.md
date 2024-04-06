@@ -8,7 +8,7 @@ ___
 
 Given an example [[Dockerfile]], which uses a *slimmed Debian image*, with [[Python]] already installed, copies all code to a new directory and runs it:
 
-```
+```dockerfile
 FROM python:3.11-slim
 
 WORKDIR /NewFolder
@@ -20,5 +20,16 @@ RUN pip install -r requirements.txt
 
 CMD ["python", "main.py"]
 ```
+
+To **build the *image***, one only needs to run in a terminal:
+
+```bash
+docker build -t <container_name> ./
+```
+
+And after the *image* is built, you can **spin up** the [[Containers|container]]:
+
+```bash
+docker run <container_name>
+```
 ___
-slim

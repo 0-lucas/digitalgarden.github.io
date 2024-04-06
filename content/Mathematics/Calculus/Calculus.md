@@ -5,9 +5,9 @@ ___
 Check some *calculus* topics:
 
 - [[Limits]]
-- [[Asymptote]]
 - [[Derivatives]]
 - [[First Derivative Test]]
 - [[Differentiation]]
+- [[Differentiation Optimization]]
 - [[Integrals]]
 - [[Integration]]

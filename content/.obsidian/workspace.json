@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Docker/Docker.md",
+                "file": "Mathematics/Calculus/Limits.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,16 +68,28 @@
     "type": "split",
     "children": [
       {
-        "id": "45b685381e1a9992",
+        "id": "ef5432eaf4f217a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f95bcb62f09e98",
+            "id": "dfe10337c04f6a52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics/Calculus/Limits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "010ca68019f3cfd3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Docker/Docker.md",
+                "file": "Mathematics/Calculus/Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,75 +101,19 @@
             }
           },
           {
-            "id": "a27d0481309553f4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Software Engineering/Docker/Docker.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a281fc5bdc730cb9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "43907a9cf177e8a1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Software Engineering/Docker/Docker.md"
-              }
-            }
-          },
-          {
-            "id": "c0e2af57dfc46a28",
+            "id": "d1bde0b27f283814",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "26e5e3c17e58c609",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "1656574ff151df8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61f6b4dbd34589ed",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,24 +125,30 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fd940e38f02c9f73",
+  "active": "010ca68019f3cfd3",
   "lastOpenFiles": [
-    "Software Engineering/Docker/Containers.md",
+    "Mathematics/Calculus/Asymptote.md",
+    "Mathematics/Calculus/Derivatives.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Mathematics.md",
+    "Mathematics/Logarithms.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
+    "Software Engineering/Web Development",
+    "Software Engineering/Kubernetes/Kubernetes.md",
     "Software Engineering/Docker/Containerization.md",
+    "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
+    "List of Books.md",
     "Software Engineering/Docker/Docker.md",
+    "Software Engineering/Docker/Containers.md",
     "Software Engineering/Microservices.md",
     "Statistics/Correlation.md",
     "Statistical Measure.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Software Engineering/Docker",
-    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
-    "Software Engineering/Kubernetes/Kubernetes.md",
     "Mathematics/Ruffini's Rule.md",
     "Mathematics/Riemann Sum.md",
-    "Mathematics/Mathematics.md",
-    "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Differentiation.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
     "Creating Containers.md",
@@ -196,7 +158,6 @@
     "Statistics/Statistics.md",
     "Statistics/Images/stop doing stats.png",
     "Pasted image 20240402193205.png",
-    "List of Books.md",
     "Mathematics/Images/stop doing math.png",
     "Statistics/Descriptive Statistics.md",
     "Statistics/Images/sampling bias.png",
@@ -207,16 +168,11 @@
     "My Books/Practical Statistics for Data Scientists.pdf",
     "My Books/2004_Book_AllOfStatistics.pdf",
     "Machine Learning/Outlier Removal.md",
-    "Machine Learning/PCA.md",
-    "Machine Learning/Mutual Information.md",
-    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",
     "Machine Learning/Images/scikit learn example.png",
     "Mathematics/Images/Calculus formulas.pdf",
     "My Books/The basic practice of statistics.pdf",
     "Statistics/Images",
-    "Statistics",
-    "My Books/The basic practice of statistics.pdf.crdownload",
     "Untitled.canvas"
   ]
 }
