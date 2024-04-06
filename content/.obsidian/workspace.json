@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/Tags.md",
+                "file": "My Books/HTML5NotesForProfessionals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/Tags.md",
+                "file": "My Books/HTML5NotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/Tags.md"
+                "file": "My Books/HTML5NotesForProfessionals.pdf"
               }
             }
           }
@@ -146,11 +147,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fd940e38f02c9f73",
+  "active": "4d418a52bc3f736e",
   "lastOpenFiles": [
+    "Software Engineering/Web Development/Tags.md",
+    "A tag html.png",
     "Software Engineering/Images/lists html.png",
     "Software Engineering/Microservices.md",
-    "Software Engineering/Web Development/Tags.md",
     "Software Engineering/Images/paragraph html.png",
     "Software Engineering/Images/Html headings.png",
     "Software Engineering/Web Development/HTML.md",
@@ -158,7 +160,7 @@
     "Software Engineering/Web Development/Web Development.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Images/stop doing html.png",
-    "List of Books.md",
+    "Software Engineering/Images/List of Books.md",
     "My Books/CSSNotesForProfessionals.pdf",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "Mathematics/Calculus/Limits.md",
@@ -189,8 +191,6 @@
     "Software Engineering/Images/stop doing microservices.png",
     "Statistics/Images/stop doing stats.png",
     "Pasted image 20240402193205.png",
-    "Mathematics/Images/stop doing math.png",
-    "Statistics/Images/sampling bias.png",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "My Books/2004_Book_AllOfStatistics.pdf",
     "My Books/Calculus ALL IN ONE - Mark Ryan.pdf",

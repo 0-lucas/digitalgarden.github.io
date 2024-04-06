@@ -100,4 +100,31 @@ To insert lines into both types of lists, we use the **line tag** `<li>`:
 ___
 ## Inserting links
 
-The `<a>` tag
+The **anchor tag** `<a>` is used to **define a *hyperlink***, which is a **link from one page to another**. It uses the *attribute* `href` to **indicate the link** and the content between tags as the display text.
+
+Other *attributes* like `download` can be used, which **indicates the the file will be download when the user clicks on the hyperlink**. On click, a prompt will appear to save the file.
+
+```html
+<p>
+	This is my paragraph. <br>
+	<a href="https://www.w3schools.com/">Link to W3Schools.</a>
+</p>
+
+<p>
+	This is another paragraph. <br>
+	<a href="interlinked.html">This is another local HTML.</a> <br>
+	<a href="interlinked.html" download>
+		Click here to download the interlinked html.</a>
+</p>
+```
+
+![[A tag html.png|350]]
+___
+## Inserting images
+
+The **image tag** `<img>` is used to **insert images**. It **doesn't require a closing tag**, but it needs at least the *attributes* `src` and `alt`.
+The *attribute* `src` defines the **path of the image**, while `alt` defines the **text to be shown if the image can't be displayed**.
+
+```
+
+```
