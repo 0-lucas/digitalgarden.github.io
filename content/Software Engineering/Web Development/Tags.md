@@ -1,4 +1,4 @@
-*Tags* are used in [[HTML]] to define different *elements* and the structure of web pages. Each *tag* **represents a different *element***.
+*Tags* are used in [[HTML]] to define different *elements* and the structure of web pages for [[Web Development]]. Each *tag* **represents a different *element***.
 ___
 ## Declaring the HTML file
 

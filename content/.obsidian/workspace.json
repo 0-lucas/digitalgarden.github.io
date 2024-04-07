@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eca0774e07015a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Web Development/Internal Stylesheets.md",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
+                "file": "Software Engineering/Web Development/CSS.md"
               }
             }
           }
@@ -183,23 +171,26 @@
       }
     ]
   },
-  "active": "fd940e38f02c9f73",
+  "active": "70bac37ea97939e3",
   "lastOpenFiles": [
     "Software Engineering/Web Development/HTML.md",
-    "Software Engineering/Web Development/External Stylesheets.md",
-    "Software Engineering/Web Development/Internal Stylesheets.md",
-    "Software Engineering/Web Development/Semantic HTML.md",
-    "Software Engineering/Web Development/CSS.md",
-    "Software Engineering/Web Development/Stylesheets.md",
-    "My Books/CSSNotesForProfessionals.pdf",
+    "Software Engineering/Web Development/Web Development.md",
+    "Statistics/Statistics.md",
+    "Data Engineering/Data Engineering.md",
+    "Machine Learning/Machine Learning.md",
+    "Mathematics/Mathematics.md",
     "Software Engineering/Microservices.md",
+    "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Web Development/Internal Stylesheets.md",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "Software Engineering/Web Development/External Stylesheets.md",
+    "Software Engineering/Web Development/Semantic HTML.md",
+    "Software Engineering/Web Development/Stylesheets.md",
     "List of Books.md",
     "Software Engineering/Images/css hello world.png",
-    "Software Engineering/Web Development/Web Development.md",
-    "Software Engineering/Web Development/Tags.md",
     "index.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Statistics/Statistics.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Software Engineering/Images/A tag html.png",
     "Statistics/Descriptive Statistics",
@@ -217,15 +208,12 @@
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Calculus/Calculus.md",
-    "Mathematics/Mathematics.md",
     "Mathematics/Logarithms.md",
     "Software Engineering/Kubernetes/Kubernetes Architecture.md",
     "Software Engineering/Web Development",
     "Software Engineering/Kubernetes/Kubernetes.md",
     "Software Engineering/Kubernetes/Docker/Containerization.md",
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
-    "Software Engineering/Kubernetes/Docker/Docker.md",
-    "Software Engineering/Kubernetes/Docker/Containers.md",
     "Software Engineering/Kubernetes/Docker",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",

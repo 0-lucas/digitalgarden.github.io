@@ -1,5 +1,3 @@
-# What is it?
-
 *Machine Learning* is the science about programming algorithms that can **learn from data**, to improve its **performance** at a given task. It's also a sub-field inside *artificial intelligence*. It uses [[Mathematics|applied math]] and [[Statistics]] for basically every algorithm.
 
 ![[ml comic.png|600]]

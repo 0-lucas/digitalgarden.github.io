@@ -1,5 +1,3 @@
-# What is it?
-
 *Data Engineering* is the field which concerns itself with the **availability and quality of data for other users**. 
 ___
 ![[Pipeline Comic.png]]
