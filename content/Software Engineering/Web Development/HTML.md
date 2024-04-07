@@ -5,8 +5,6 @@
 >[!tip] Creating *HTML* files
 >To create a *HTML* file, one needs only to **create a text file** with the **.html** **extension**. This way, other software can recognize the text is, in fact, *HTML*.
 
-![[stop doing html.png]]
-
 While *HTML* is most commonly used to **create websites**, it can also be applied to  **different use-cases**, like **building custom e-mails** and **formatting text**. To achieve all that, *HTML* uses *tags* and to define *elements*
 
 ___

@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/Tags.md",
+                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fd3970bd4e48d0f8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Software Engineering/Images/A tag html.png"
               }
             }
           },
@@ -40,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4d418a52bc3f736e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/HTML5NotesForProfessionals.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/Statistical Modelling.md"
+                "file": "Mathematics/Linear Algebra/Linear Algebra.md"
               }
             }
           }
@@ -169,17 +148,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6dab316d0615ef16",
+  "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
+    "Software Engineering/Web Development/Semantic HTML.md",
+    "Software Engineering/Web Development/HTML.md",
+    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/Web Development/Web Development.md",
     "Statistics/Statistics.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
-    "Software Engineering/Web Development/HTML.md",
+    "Software Engineering/Images/A tag html.png",
     "Statistics/Descriptive Statistics",
     "Statistics/Statistical Modelling",
-    "Software Engineering/Web Development/Tags.md",
     "Software Engineering/Images/html table.png",
     "Software Engineering/Images/dogs inserting images html.png",
-    "Software Engineering/Images/A tag html.png",
     "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Images/lists html.png",
     "Software Engineering/Microservices.md",
@@ -209,9 +191,6 @@
     "Statistical Measure.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Software Engineering/Docker",
-    "Mathematics/Ruffini's Rule.md",
-    "Mathematics/Riemann Sum.md",
-    "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
     "Software Engineering/Images/container vs vm.png",
