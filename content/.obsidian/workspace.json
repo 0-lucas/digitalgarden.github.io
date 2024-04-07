@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd940e38f02c9f73",
+            "id": "70bac37ea97939e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
+                "file": "Software Engineering/Web Development/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6dab316d0615ef16",
+            "id": "eca0774e07015a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "file": "Software Engineering/Web Development/Internal Stylesheets.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
+                "file": "My Books/CSSNotesForProfessionals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Algebra.md",
+                "file": "My Books/CSSNotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Algebra.md"
+                "file": "My Books/CSSNotesForProfessionals.pdf"
               }
             }
           }
@@ -148,13 +148,57 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
+  "floating": {
+    "id": "2c98a8c620904c76",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e8b0d444ae30fb16",
+        "type": "window",
+        "children": [
+          {
+            "id": "aea4b0bedcb47cdb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd940e38f02c9f73",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "My Books/CSSNotesForProfessionals.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2218,
+        "y": 24,
+        "width": 1622,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "fd940e38f02c9f73",
   "lastOpenFiles": [
-    "Software Engineering/Web Development/Semantic HTML.md",
     "Software Engineering/Web Development/HTML.md",
+    "Software Engineering/Web Development/External Stylesheets.md",
+    "Software Engineering/Web Development/Internal Stylesheets.md",
+    "Software Engineering/Web Development/Semantic HTML.md",
     "Software Engineering/Web Development/CSS.md",
-    "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/Web Development/Stylesheets.md",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "Software Engineering/Microservices.md",
+    "List of Books.md",
+    "Software Engineering/Images/css hello world.png",
     "Software Engineering/Web Development/Web Development.md",
+    "Software Engineering/Web Development/Tags.md",
+    "index.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Statistics/Statistics.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Software Engineering/Images/A tag html.png",
@@ -164,14 +208,10 @@
     "Software Engineering/Images/dogs inserting images html.png",
     "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Images/lists html.png",
-    "Software Engineering/Microservices.md",
     "Software Engineering/Images/paragraph html.png",
     "Software Engineering/Images/Html headings.png",
-    "Software Engineering/Web Development/Web Development.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Images/stop doing html.png",
-    "Software Engineering/Images/List of Books.md",
-    "My Books/CSSNotesForProfessionals.pdf",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
@@ -179,22 +219,17 @@
     "Mathematics/Calculus/Calculus.md",
     "Mathematics/Mathematics.md",
     "Mathematics/Logarithms.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/Kubernetes/Kubernetes Architecture.md",
     "Software Engineering/Web Development",
     "Software Engineering/Kubernetes/Kubernetes.md",
-    "Software Engineering/Docker/Containerization.md",
+    "Software Engineering/Kubernetes/Docker/Containerization.md",
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
-    "Software Engineering/Docker/Docker.md",
-    "Software Engineering/Docker/Containers.md",
-    "Statistics/Descriptive Statistics/Correlation.md",
-    "Statistical Measure.md",
-    "Software Engineering/Kubernetes/Kubernetes Desired State.md",
-    "Software Engineering/Docker",
+    "Software Engineering/Kubernetes/Docker/Docker.md",
+    "Software Engineering/Kubernetes/Docker/Containers.md",
+    "Software Engineering/Kubernetes/Docker",
     "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
     "Software Engineering/Images/container vs vm.png",
-    "Software Engineering/Images/stop doing microservices.png",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Untitled.canvas"
   ]
