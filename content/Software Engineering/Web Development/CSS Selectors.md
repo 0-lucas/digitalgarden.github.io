@@ -45,4 +45,25 @@ The **id selector** `#id-name` applies the *style* only to the **element with co
 ___
 ## Class selector
 
-The **class selector** `.class` applies the *style* only to the **elements from a specific class**. You can **define the class as an attribute of the element**, and specify it from [[CSS]]
+The **class selector** `.class` applies the *style* only to the **elements from a specific class**. You can **define the class as an attribute of the element**, and specify it from [[CSS]].
+
+```html
+<head>
+	<style>
+		.right-align {
+			text-align: right;
+		}
+
+		.violet {
+			color:violet;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- You can combine multiple classes simultaneously -->
+	<h1 class="right-align violet">
+		Hello World!
+	</h1>
+</body>
+```

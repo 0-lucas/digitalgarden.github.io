@@ -26,6 +26,7 @@ selector1, selector2, selector3 sub-selector {
 
 >[!tip] *CSS* selectors
 >There are various different *selectors* in *CSS*, each with its intricacies. Check them out on the note **[[CSS Selectors]]**.
+
 ___
 # Adding CSS to a web page
 
@@ -39,4 +40,8 @@ There are three different ways of adding *stylesheets* using *CSS*:
 
 - #### Inline Styles
 	*Inline styling* is bound to a **unique *element***, the one which defines the styling. Instead of using a [[Tags|tag]] inside the *element*, *inline styles* uses the *style attribute* to define [[CSS Properties]].
+
+>[!tip] *CSS* hierarchy with multiple styles
+>If multiple styles are **specified to the same element**, the one with **highest *specificity*** will be applied.
+
 ___

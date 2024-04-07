@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Selectors.md",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Selectors.md",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Selectors.md",
+                "file": "Software Engineering/Web Development/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Selectors.md"
+                "file": "Software Engineering/Web Development/CSS.md"
               }
             }
           }
@@ -162,10 +162,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 5,
-        "y": 5,
-        "width": 948,
-        "height": 1070,
+        "x": 499,
+        "y": 195,
+        "width": 1622,
+        "height": 1000,
         "maximize": false,
         "zoom": 0
       }
@@ -174,10 +174,10 @@
   "active": "70bac37ea97939e3",
   "lastOpenFiles": [
     "My Books/CSSNotesForProfessionals.pdf",
+    "Software Engineering/Web Development/CSS.md",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/External Stylesheets.md",
     "Software Engineering/Web Development/Tags.md",
-    "Software Engineering/Web Development/CSS.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Stylesheets.md",
     "Software Engineering/Web Development/HTML.md",
