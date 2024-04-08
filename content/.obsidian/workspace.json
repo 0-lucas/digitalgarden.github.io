@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS.md",
+                "file": "Software Engineering/Web Development/CSS Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/CSS.md",
+                "file": "Software Engineering/Web Development/CSS Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS.md",
+                "file": "Software Engineering/Web Development/CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/CSS.md"
+                "file": "Software Engineering/Web Development/CSS Properties.md"
               }
             }
           }
@@ -171,12 +171,14 @@
       }
     ]
   },
-  "active": "70bac37ea97939e3",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
-    "My Books/CSSNotesForProfessionals.pdf",
-    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Images/css box model.png",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/External Stylesheets.md",
+    "Software Engineering/Web Development/CSS Properties.md",
+    "Software Engineering/Web Development/CSS.md",
+    "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/Web Development/Tags.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Stylesheets.md",
@@ -210,7 +212,6 @@
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Calculus/Derivatives.md",
-    "Mathematics/Calculus/Calculus.md",
     "Software Engineering/Web Development",
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
     "Software Engineering/Kubernetes/Docker",
