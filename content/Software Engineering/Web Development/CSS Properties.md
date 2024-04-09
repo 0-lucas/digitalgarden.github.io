@@ -61,8 +61,100 @@ ___
 
 ![[css box model.png]]
 
-Then, you can **specify each property and customize it**.
+Then, you can **specify each property and customize it**. For example, you can use `height` and `width` as *auto* to let the browser calculate or specifying a value:
+
+```css
+#heading {
+	height:100px;
+	width:250px;
+	background-color: chocolate;
+}
+
+#first-p {
+	width: 50%;
+	height: 200px;
+	background-color: blue
+}
+```
+
+![[css width height.png]]
 ___
 ## Borders
 
-The *borders* can be customized by specifying each border or by 
+The *borders* can be customized using the *`border` property*, which is a *shorthand* for other *properties* like `border-style`, `border-width` and `border-color`. Using the *shorthand*, you can **define all of them in a single declaration**, or specify each **border to apply to**:
+
+```css
+#heading {
+	border: ridge 5px cornflowerblue;
+}
+
+#first-p {
+	border-top: double red;
+	border-bottom: dotted pink;
+	border-left: solid blue;
+	border-right: ridge black;
+}
+```
+
+![[CSS borders.png]]
+___
+## Padding
+
+The *`padding` property* sets the **padding space** on all sides of the *element*. the **padding area** is the **space between the content and the border**.
+
+```css
+#heading { /* One value - all sides */
+	border: ridge 3px cornflowerblue;
+	padding: 50px;
+}
+
+#first-p {/* Two values - top/bottown left/right */
+	border: ridge 3px cornflowerblue;
+	padding: 50px 300px
+}
+
+#second-p {/* Three values - top left/right bottom */
+	border: ridge 3px cornflowerblue;
+	padding: 1px 150px 50px;
+}
+
+#third-p {/* Four values - top right bottom left */
+	border: ridge 3px cornflowerblue;
+	padding: 100px 100px 1px 100px
+}
+```
+
+![[css padding.png]]
+___
+## Margin
+
+*Margins* create space around the *element*. You can use the *`margin` property* to specify *margins*.
+
+```css
+#heading {
+	border: ridge 3px cornflowerblue;
+	padding: 50px;
+	margin:auto;
+}
+
+#first-p {
+	border: ridge 3px cornflowerblue;
+	padding: 50px 300px;
+	margin: 100px;
+}
+
+#second-p {
+	border: ridge 3px cornflowerblue;
+	padding: 1px 150px 50px;
+	margin: 50px 90px 10px;
+}
+
+#third-p {
+	border: ridge 3px cornflowerblue;
+	padding: 100px 100px 1px 100px;
+	margin: 10px 100px 500px 300px;
+}
+```
+
+![[margins css.png]]
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3b145e8fdf4242",
+        "id": "e379e0ab6105873e",
         "type": "tabs",
         "children": [
           {
-            "id": "70bac37ea97939e3",
+            "id": "fbf925ee71ffb8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Software Engineering/Web Development/CSS Selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Software Engineering/Web Development/CSS Selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Software Engineering/Web Development/CSS Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md"
+                "file": "Software Engineering/Web Development/CSS Selectors.md"
               }
             }
           }
@@ -166,19 +166,25 @@
         "y": 195,
         "width": 1622,
         "height": 1000,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
-    "Software Engineering/Images/css box model.png",
-    "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/External Stylesheets.md",
     "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Web Development/CSS.md",
+    "My Books/R in Action Data Analysis and Graphics with R, Second Edition (Robert Kabacoff).pdf",
+    "List of Books.md",
+    "Software Engineering/Images/css width height.png",
     "My Books/CSSNotesForProfessionals.pdf",
+    "Software Engineering/Images/margins css.png",
+    "Software Engineering/Images/css padding.png",
+    "Software Engineering/Images/CSS borders.png",
+    "Software Engineering/Images/css box model.png",
+    "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/Tags.md",
     "Software Engineering/Kubernetes/Kubernetes Desired State.md",
     "Stylesheets.md",
@@ -192,7 +198,6 @@
     "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Web Development/Semantic HTML.md",
     "Software Engineering/Web Development/Stylesheets.md",
-    "List of Books.md",
     "Software Engineering/Images/css hello world.png",
     "index.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
@@ -204,10 +209,7 @@
     "Software Engineering/Images/dogs inserting images html.png",
     "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Images/lists html.png",
-    "Software Engineering/Images/paragraph html.png",
-    "Software Engineering/Images/Html headings.png",
     "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/Images/stop doing html.png",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
@@ -215,10 +217,7 @@
     "Software Engineering/Web Development",
     "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
     "Software Engineering/Kubernetes/Docker",
-    "Mathematics/Images/stop doing la.png",
     "Mathematics/Linear Algebra",
-    "Software Engineering/Images/container vs vm.png",
-    "My Books/Practical Statistics for Data Scientists.pdf",
     "Untitled.canvas"
   ]
 }
