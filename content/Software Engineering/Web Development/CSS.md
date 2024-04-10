@@ -32,13 +32,13 @@ ___
 
 There are three different ways of adding *stylesheets* using *CSS*:
 
-- #### External Stylesheets
+- ##### External Stylesheets
 	[[External Stylesheets]] are by far the best way to manage *CSS* in a web page, which can **avoid a lot of refactoring** when using it **with multiple web pages** and a lot of styling **between different elements**.
 
-- #### Internal Styles
+- ##### Internal Styles
 	[[Internal Stylesheets]] are used to define the styling within the [[HTML]] document and **will only work with its own document**.
 
-- #### Inline Styles
+- ##### Inline Styles
 	*Inline styling* is bound to a **unique *element***, the one which defines the styling. Instead of using a [[Tags|tag]] inside the *element*, *inline styles* uses the *style attribute* to define [[CSS Properties]].
 
 >[!tip] *CSS* hierarchy with multiple styles
