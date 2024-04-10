@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Descriptive Statistics/Sampling.md",
+                "file": "Standard Deviation.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "26bdf7effd563086",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/2004_Book_AllOfStatistics.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/2004_Book_AllOfStatistics.pdf",
+                "file": "Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/2004_Book_AllOfStatistics.pdf",
+                "file": "Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/2004_Book_AllOfStatistics.pdf"
+                "file": "Standard Deviation.md"
               }
             }
           }
@@ -147,19 +136,27 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "26bdf7effd563086",
+  "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
-    "List of Books.md",
     "Statistics/Descriptive Statistics/Sampling.md",
+    "Standard Deviation.md",
+    "Variance.md",
+    "Statistics/Descriptive Statistics/Descriptive Statistics.md",
+    "Statistics/Descriptive Statistics/Correlation.md",
     "Statistics/Statistics.md",
+    "My Books/Statistics for Dummies.pdf",
+    "List of Books.md",
+    "My Books/Statistics for Dummies.pdf.crdownload",
+    "My Books/2004_Book_AllOfStatistics.pdf",
+    "My Books/Descriptive Statistics - Open Uni.pdf",
+    "My Books/Descriptive Statistics - Ooen Uni.pdf",
+    "My Books/- Descriptive Statistics-The Open University (2015).pdf",
     "Software Engineering/Web Development/CSS.md",
     "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Web Development/External Stylesheets.md",
     "Software Engineering/Web Development/HTML.md",
-    "Statistics/Descriptive Statistics/Descriptive Statistics.md",
     "My Books/thinkstats2.pdf",
     "My Books/The basic practice of statistics.pdf",
-    "Statistics/Descriptive Statistics/Correlation.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Software Engineering/Web Development/CSS Selectors.md",
     "My Books/R in Action Data Analysis and Graphics with R, Second Edition (Robert Kabacoff).pdf",
@@ -184,16 +181,9 @@
     "index.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/Images/A tag html.png",
-    "Statistics/Descriptive Statistics",
-    "Statistics/Statistical Modelling",
     "Software Engineering/Images/html table.png",
     "Software Engineering/Images/dogs inserting images html.png",
-    "My Books/HTML5NotesForProfessionals.pdf",
     "Software Engineering/Images/lists html.png",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "My Books/JavaScriptNotesForProfessionals.pdf",
-    "Software Engineering/Web Development",
-    "My Books/Docker in Action (Jeff Nickoloff, Stephen Kuenzli).pdf",
     "Untitled.canvas"
   ]
 }

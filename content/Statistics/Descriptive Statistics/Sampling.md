@@ -11,6 +11,12 @@ ___
 # Calculating sample size
 
 Some factors can determine the **optimal *sample* size**, like the **maximum error allowed**, **confidence** of the study, and **variance of the target variable**.
+
+For an **infinite, parametric population**, given $Z$ as the [[Z-value]] corresponding to the **confidence**, $P$ as the **estimated proportion,** which can be estimated to $0.5$ if unknown, and $e$ as the **margin of error**:
+$$
+\text{Sample size} = \frac{Z ^ 2 * P(1-P)}{e^2}
+$$
+___
 # Sampling techniques
 
 The process of extracting a *sample* from a *population* can yield bad *samples* that can **add bias to the analysis**. Because of it, we use ***sampling techniques* to collect representative samples** of the population.

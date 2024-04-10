@@ -21,7 +21,9 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[2009_Book_TheElementsOfStatisticalLearni.pdf|The Elements of Statistical Learning]]
 - [[thinkstats2.pdf|Think Stats]]
 - [[The basic practice of statistics.pdf|The Basic Practice of Statistics]]
+- [[Statistics for Dummies.pdf|Statistics for Dummies]]
 - [[Probabilidade - Um curso moderno com aplicações.pdf|Probabilidade - Um Curso Moderno com Aplicações]]
+- [[Descriptive Statistics - Open Uni.pdf|Descriptive Statistics]]
 ___
 # Data Science
 - [[o Data_Science_from_Scratch_First_Princ.pdf|Data Science from Scratch]]
