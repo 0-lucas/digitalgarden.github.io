@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Descriptive Statistics/Standard Deviation.md",
+                "file": "Linux/Fn Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Descriptive Statistics/Standard Deviation.md",
+                "file": "Linux/Fn Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Descriptive Statistics/Standard Deviation.md",
+                "file": "Linux/Fn Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Descriptive Statistics/Standard Deviation.md"
+                "file": "Linux/Fn Lock.md"
               }
             }
           }
@@ -136,10 +136,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
-    "Statistics/Descriptive Statistics/Sampling.md",
     "Statistics/Descriptive Statistics/Standard Deviation.md",
+    "Linux/Fn Lock.md",
+    "Linux/Untitled",
+    "Linux",
+    "Statistics/Descriptive Statistics/Sampling.md",
     "Statistics/Descriptive Statistics/Variance.md",
     "Statistics/Descriptive Statistics/Descriptive Statistics.md",
     "Statistics/Descriptive Statistics/Correlation.md",
@@ -159,9 +162,7 @@
     "My Books/The basic practice of statistics.pdf",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Software Engineering/Web Development/CSS Selectors.md",
-    "My Books/R in Action Data Analysis and Graphics with R, Second Edition (Robert Kabacoff).pdf",
     "Software Engineering/Images/css width height.png",
-    "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
     "Software Engineering/Images/CSS borders.png",
@@ -179,7 +180,6 @@
     "Software Engineering/Web Development/Stylesheets.md",
     "Software Engineering/Images/css hello world.png",
     "index.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/Images/A tag html.png",
     "Software Engineering/Images/html table.png",
     "Software Engineering/Images/dogs inserting images html.png",
