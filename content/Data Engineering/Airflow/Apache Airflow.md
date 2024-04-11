@@ -30,5 +30,5 @@ Check some other links regarding Airflow:
 - [[Creating pipelines in Airflow]]
 - [[Scheduling in Airflow]]
 - [[XCOMs]]
-- [[Connections]]
+- [[Airflow Connections]]
 - [[Variables]]

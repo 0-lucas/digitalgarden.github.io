@@ -1,6 +1,6 @@
 # What is it?
 
-*Correlation* is a [[Statistics|statistical measure]] that measures the **direction and strength** of the **linear relationship** between two numerical variables, meaning these two variables **change together at a constant rate**. 
+*Correlation* is a [[Statistics|statistical measurement]] that measures the **direction and strength** of the **linear relationship** between two numerical variables, meaning these two variables **change together at a constant rate**. 
 
 *Correlation* is a great for **describing simple relationships** between variables without making a statement about cause and effect. Even though two variables can be highly correlated, **it doesn't imply causation**.
 

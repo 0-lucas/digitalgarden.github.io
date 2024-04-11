@@ -1,6 +1,6 @@
 # What is it?
 
-*Variables* in [[Apache Airflow]] works like a normal Python variable. It **reduces hard-coding** and **duplicate code**. In *Airflow,* you can use the **same variables in different DAGs and Tasks**, and it works basically the same as [[XCOMs]] or [[Connections]].
+*Variables* in [[Apache Airflow]] works like a normal Python variable. It **reduces hard-coding** and **duplicate code**. In *Airflow,* you can use the **same variables in different DAGs and Tasks**, and it works basically the same as [[XCOMs]] or [[Airflow Connections]].
 
 *Variables* have three components; **key**, **value**, and **description**. The **key** is the unique identifier, the **value** needs to be a **serializable JSON**, and the description helps to identify each variable.
 ___
