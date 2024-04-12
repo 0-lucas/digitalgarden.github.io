@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbf925ee71ffb8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Flexbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b79fd7bbe24448d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "My Books/CSSNotesForProfessionals.pdf"
+              }
+            }
+          },
+          {
+            "id": "fbf925ee71ffb8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "Software Engineering/Web Development/CSS Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "Software Engineering/Web Development/CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
+                "file": "Software Engineering/Web Development/CSS Properties.md"
               }
             }
           }
@@ -146,12 +145,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "7b79fd7bbe24448d",
+  "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
-    "List of Books.md",
-    "My Books/CSSNotesForProfessionals.pdf",
-    "CSS Flexbox.md",
+    "Software Engineering/Web Development/CSS Flexbox.md",
     "Software Engineering/Web Development/CSS Grid.md",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "List of Books.md",
     "Software Engineering/Images/css grid 1.png",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/CSS Properties.md",
