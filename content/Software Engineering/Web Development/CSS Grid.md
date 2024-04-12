@@ -4,3 +4,6 @@ The *grid layout* is a [[CSS]] layout system which allows to divide a web page i
 
 ![[css grid.png]]
 ___
+# Creating grid layouts
+
+You can specify that the **wrapper element**, which can even bethe body of the page, if you want, and this element will house the specified grid to house every other sub-element within it.

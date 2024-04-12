@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "box",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,10 @@
   },
   "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
+    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Web Development/CSS Selectors.md",
+    "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Web Development/CSS Grid.md",
     "Software Engineering/Images/css grid.png",
     "My Books/CSSNotesForProfessionals.pdf",
@@ -174,8 +177,6 @@
     "Statistics/Descriptive Statistics/Sampling.md",
     "Statistics/Descriptive Statistics/Correlation.md",
     "Statistics/Statistics.md",
-    "Statistics/Descriptive Statistics/Descriptive Statistics.md",
-    "Linux/Fn Lock.md",
     "Linux/Untitled",
     "Linux",
     "My Books/Statistics for Dummies.pdf.crdownload",
@@ -183,7 +184,6 @@
     "My Books/Descriptive Statistics - Open Uni.pdf",
     "My Books/Descriptive Statistics - Ooen Uni.pdf",
     "My Books/- Descriptive Statistics-The Open University (2015).pdf",
-    "Software Engineering/Web Development/CSS.md",
     "My Books/thinkstats2.pdf",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
