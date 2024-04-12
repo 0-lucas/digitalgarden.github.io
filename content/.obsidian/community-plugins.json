@@ -1,8 +1,6 @@
 [
   "obsidian-kanban",
-  "syncthing-integration",
   "table-editor-obsidian",
-  "cmenu-plugin",
   "obsidian-plugin-toc",
   "highlightr-plugin",
   "cm-editor-syntax-highlight-obsidian",
@@ -10,7 +8,6 @@
   "quick-latex",
   "obsidian-languagetool-plugin",
   "handwritten-notes",
-  "obsidian-full-calendar",
   "obsidian-dangling-links",
   "auto-hide-cursor"
 ]

@@ -16,7 +16,7 @@ ___
 The **element selector** `<element>` applies the *style* only to the **elements with corresponding *tags***. For example, if specified the `<p>` element, all `<p>` elements **will be stylized**.
 
 ```css
-<p> {
+p {
 	text-align: center;
 	color: red;
 }

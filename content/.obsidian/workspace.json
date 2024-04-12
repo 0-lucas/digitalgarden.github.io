@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Grid.md",
+                "file": "CSS Flexbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -87,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Grid.md",
+                "file": "My Books/CSSNotesForProfessionals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Grid.md",
+                "file": "My Books/CSSNotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Grid.md"
+                "file": "My Books/CSSNotesForProfessionals.pdf"
               }
             }
           }
@@ -139,23 +141,23 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false,
-      "handwritten-notes:Create empty handwritten note": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
+      "command-palette:Open command palette": true,
+      "handwritten-notes:Create empty handwritten note": true,
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fbf925ee71ffb8a4",
+  "active": "7b79fd7bbe24448d",
   "lastOpenFiles": [
-    "Software Engineering/Web Development/CSS.md",
-    "Software Engineering/Web Development/Internal Stylesheets.md",
+    "List of Books.md",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "CSS Flexbox.md",
+    "Software Engineering/Web Development/CSS Grid.md",
+    "Software Engineering/Images/css grid 1.png",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/CSS Properties.md",
-    "Software Engineering/Web Development/CSS Grid.md",
+    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Images/css grid.png",
-    "My Books/CSSNotesForProfessionals.pdf",
-    "List of Books.md",
     "My Books/Statistics for Dummies.pdf",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
@@ -175,8 +177,6 @@
     "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Variance.md",
     "Statistics/Descriptive Statistics/Sampling.md",
-    "Statistics/Descriptive Statistics/Correlation.md",
-    "Statistics/Statistics.md",
     "Linux/Untitled",
     "Linux",
     "My Books/Statistics for Dummies.pdf.crdownload",
@@ -193,7 +193,6 @@
     "Software Engineering/Images/css hello world.png",
     "Software Engineering/Images/A tag html.png",
     "Software Engineering/Images/html table.png",
-    "Software Engineering/Images/dogs inserting images html.png",
     "Untitled.canvas"
   ]
 }
