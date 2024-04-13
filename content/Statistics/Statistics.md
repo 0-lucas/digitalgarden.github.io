@@ -8,6 +8,8 @@ ___
 - [[Descriptive Statistics]]
 - [[Sampling]]
 - [[Correlation]]
+- [[Standard Deviation]]
+- [[Variance]]
 ___
 # Statistical Modelling
 - [[Statistical Modelling]]

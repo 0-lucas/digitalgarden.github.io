@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e379e0ab6105873e",
+        "id": "ad3b145e8fdf4242",
         "type": "tabs",
         "children": [
           {
-            "id": "7b79fd7bbe24448d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
-              }
-            }
-          },
-          {
-            "id": "fbf925ee71ffb8a4",
+            "id": "07706b53204ed591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "box",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,28 +68,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef5432eaf4f217a8",
+        "id": "45b685381e1a9992",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe10337c04f6a52",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "010ca68019f3cfd3",
+            "id": "e2f95bcb62f09e98",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +89,40 @@
             }
           },
           {
-            "id": "d1bde0b27f283814",
+            "id": "a27d0481309553f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a281fc5bdc730cb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43907a9cf177e8a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md"
+              }
+            }
+          },
+          {
+            "id": "c0e2af57dfc46a28",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -120,78 +130,78 @@
             }
           },
           {
-            "id": "44555a8f31cdc478",
+            "id": "26e5e3c17e58c609",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "command-palette:Open command palette": true,
-      "handwritten-notes:Create empty handwritten note": true,
+      "command-palette:Open command palette": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fbf925ee71ffb8a4",
+  "active": "07706b53204ed591",
   "lastOpenFiles": [
-    "Software Engineering/Web Development/CSS Flexbox.md",
-    "Software Engineering/Web Development/CSS Grid.md",
-    "My Books/CSSNotesForProfessionals.pdf",
-    "List of Books.md",
-    "Software Engineering/Images/css grid 1.png",
+    "Statistics/Statistics.md",
+    "Statistics/Statistical Modelling/Statistical Modelling.md",
+    "Mathematics/Calculus/Integration.md",
+    "Software Engineering/Web Development/Web Development.md",
+    "Software Engineering/Web Development/Tags.md",
+    "Software Engineering/Web Development/Semantic HTML.md",
+    "Software Engineering/Web Development/Internal Stylesheets.md",
+    "Software Engineering/Web Development/HTML.md",
+    "Software Engineering/Web Development/CSS.md",
+    "Software Engineering/Web Development/External Stylesheets.md",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/CSS Properties.md",
-    "Software Engineering/Web Development/CSS.md",
-    "Software Engineering/Web Development/Internal Stylesheets.md",
-    "Software Engineering/Images/css grid.png",
-    "My Books/Statistics for Dummies.pdf",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
-    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
-    "Software Engineering/C-Sharp/Parameters as Reference.md",
-    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
-    "Software Engineering/C-Sharp/CLR.md",
-    "Mathematics/Mathematics.md",
-    "Mathematics/Calculus/First Derivative Test.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
-    "Mathematics/Calculus/Derivatives.md",
-    "Data Engineering/Airflow/Airflow Connections.md",
-    "Software Engineering/Web Development/Semantic HTML.md",
-    "Software Engineering/Web Development/Tags.md",
-    "Statistics/Descriptive Statistics/Standard Deviation.md",
+    "Software Engineering/Web Development/CSS Grid.md",
+    "Software Engineering/Web Development/CSS Flexbox.md",
+    "Software Engineering/Web Development",
+    "Software Engineering/Kubernetes/Docker/Docker.md",
+    "Software Engineering/Kubernetes/Docker/Containers.md",
+    "Software Engineering/Kubernetes/Docker/Containerization.md",
+    "Software Engineering/Kubernetes/Docker",
     "Statistics/Descriptive Statistics/Variance.md",
+    "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Sampling.md",
-    "Linux/Untitled",
-    "Linux",
-    "My Books/Statistics for Dummies.pdf.crdownload",
-    "My Books/2004_Book_AllOfStatistics.pdf",
-    "My Books/Descriptive Statistics - Open Uni.pdf",
-    "My Books/Descriptive Statistics - Ooen Uni.pdf",
-    "My Books/- Descriptive Statistics-The Open University (2015).pdf",
-    "My Books/thinkstats2.pdf",
-    "Software Engineering/Images/css width height.png",
+    "Statistics/Descriptive Statistics/Descriptive Statistics.md",
+    "Statistics/Images/stop doing stats.png",
+    "Statistics/Descriptive Statistics/Correlation.md",
+    "Statistics/Images/sampling bias.png",
+    "Statistics/Images/rule of thumb.png",
+    "Statistics/Images/quadratic relationship.png",
+    "Statistics/Images/Monotonic relantionship.png",
+    "Statistics/Images/Correlation examples.png",
+    "Statistics/Images/Correlation comic.png",
+    "Statistics/Statistical Modelling",
+    "Statistics/Descriptive Statistics",
+    "Statistics/Images",
+    "Statistics",
+    "Software Engineering/Images/stop doing html.png",
+    "Software Engineering/Images/paragraph html.png",
     "Software Engineering/Images/margins css.png",
-    "Software Engineering/Images/css padding.png",
-    "Software Engineering/Images/CSS borders.png",
-    "Software Engineering/Images/css box model.png",
-    "Software Engineering/Images/css hello world.png",
-    "Software Engineering/Images/A tag html.png",
-    "Software Engineering/Images/html table.png",
+    "My Books/The basic practice of statistics.pdf",
+    "My Books/Statistics for Dummies.pdf",
+    "My Books/JavaScriptNotesForProfessionals.pdf",
+    "My Books/HTML5NotesForProfessionals.pdf",
+    "Mathematics/Riemann Sum.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Linux/Fn Lock.md",
+    "Data Engineering/Airflow/Airflow Connections.md",
     "Untitled.canvas"
   ]
 }
