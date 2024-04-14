@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e379e0ab6105873e",
+        "id": "29e7e68f66672163",
         "type": "tabs",
         "children": [
           {
@@ -13,24 +13,29 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf"
+                "file": "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e379e0ab6105873e",
+        "type": "tabs",
+        "children": [
           {
             "id": "fbf925ee71ffb8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Statistics/Law of Large Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -88,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Statistics/Law of Large Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Statistics/Law of Large Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md"
+                "file": "Statistics/Law of Large Numbers.md"
               }
             }
           }
@@ -147,24 +153,24 @@
   },
   "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
+    "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
+    "List of Books.md",
+    "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
+    "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
-    "Statistics/Statistical Modelling/Law of Large Numbers.md",
+    "Statistics/Law of Large Numbers.md",
+    "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf.crdownload",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Data Engineering/Data Engineering.md",
-    "List of Books.md",
     "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
     "My Books/Think Like a Data Scientist.pdf",
     "My Books/The cartoon guide to statistics.pdf",
     "My Books/The basic practice of statistics.pdf",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf.crdownload",
-    "My Books/2004_Book_AllOfStatistics.pdf",
-    "My Books/CSSNotesForProfessionals.pdf",
     "Data Engineering/DAGs.md",
     "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Variance.md",
     "Statistics/Descriptive Statistics/Descriptive Statistics.md",
-    "Personal",
     "Software Engineering/Web Development/CSS Flexbox.md",
     "Software Engineering/Web Development/CSS Grid.md",
     "Software Engineering/Images/css grid 1.png",

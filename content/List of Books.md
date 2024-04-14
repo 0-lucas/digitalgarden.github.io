@@ -16,6 +16,7 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Mathematics for Machine Learning.pdf|Mathematics for Machine Learning]]
 ## Statistics
 - [[ISLP_website.pdf|Introduction to Statistical Learning]]
+- [[Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf|Introduction to Probability, Statistics, and Random Processes]]
 - [[2004_Book_AllOfStatistics.pdf|All of Statistics]]
 - [[Practical Statistics for Data Scientists.pdf|Practical Statistics for Data Scientists]]
 - [[2009_Book_TheElementsOfStatisticalLearni.pdf|The Elements of Statistical Learning]]
