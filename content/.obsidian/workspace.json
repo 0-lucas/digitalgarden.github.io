@@ -34,8 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9a4e16f9027a420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Central Limit Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Law of Large Numbers.md",
+                "file": "Central Limit Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Law of Large Numbers.md",
+                "file": "Central Limit Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Law of Large Numbers.md"
+                "file": "Central Limit Theorem.md"
               }
             }
           }
@@ -151,9 +164,10 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "fbf925ee71ffb8a4",
+  "active": "b9a4e16f9027a420",
   "lastOpenFiles": [
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
+    "Central Limit Theorem.md",
     "Statistics/Law of Large Numbers.md",
     "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
@@ -189,7 +203,6 @@
     "Software Engineering/C-Sharp/CLR.md",
     "Mathematics/Mathematics.md",
     "Mathematics/Calculus/First Derivative Test.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
