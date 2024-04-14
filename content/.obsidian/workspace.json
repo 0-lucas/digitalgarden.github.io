@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf"
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md"
               }
             }
           }
@@ -144,11 +145,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "7b79fd7bbe24448d",
+  "active": "fbf925ee71ffb8a4",
   "lastOpenFiles": [
+    "My Books/Modern introduction to probability and statistics.pdf",
+    "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Data Engineering/Data Engineering.md",
-    "My Books/Modern introduction to probability and statistics.pdf",
     "List of Books.md",
     "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
     "My Books/Think Like a Data Scientist.pdf",
@@ -182,7 +184,6 @@
     "Mathematics/Mathematics.md",
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
-    "Mathematics/Calculus/Derivatives.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
