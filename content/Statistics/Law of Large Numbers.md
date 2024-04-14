@@ -17,5 +17,5 @@ The *weak law of large numbers* states that the **mean of the sample will conver
 
 This can be mathematically translated to:
 $$
-\lim_{n\to\infty} P(|\overline{x}_n| - u)
+\lim_{n\to\infty} P(|\overline{x}_n - \mu)
 $$
