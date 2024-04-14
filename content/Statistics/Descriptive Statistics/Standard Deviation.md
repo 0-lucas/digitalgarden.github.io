@@ -7,7 +7,13 @@ ___
 
 Given $x$ as **the variable**, $\overline{x}$ as the **mean value of the variable**, and $n$ as the **total number of data points**, one can apply the following formula to get the *standard deviation* of a variable:
 $$
-\sigma = \sqrt{\frac{\sum(x_i - \overline{x})^2}{n}}
+\begin{align}
+&\text{For populations:} \\
+&\sigma = \sqrt{\frac{\sum(x_i - \overline{x})^2}{n}}
+\\ \\
+&\text{For samples:} \\
+&s = \sqrt{\frac{\sum(x_i - \overline{x})^2}{n -1}}
+\end{align}
 $$
 >[!tip] *Standard deviation* vs Variance
 >  One may notice that the formula for *standard deviation* is **quite similar to [[Variance]]**. In fact, *standard deviation* can be interpreted as the **square root of the [[Variance]] of the variable**.

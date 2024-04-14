@@ -24,6 +24,8 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Statistics for Dummies.pdf|Statistics for Dummies]]
 - [[Probabilidade - Um curso moderno com aplicações.pdf|Probabilidade - Um Curso Moderno com Aplicações]]
 - [[Descriptive Statistics - Open Uni.pdf|Descriptive Statistics]]
+- [[IntroductoryStatistics-OP_i6tAI7e.pdf|Introductory Statistics]]
+- [[Modern introduction to probability and statistics.pdf|A Modern Introduction to Probability and Statistics]]
 ___
 # Data Science
 - [[o Data_Science_from_Scratch_First_Princ.pdf|Data Science from Scratch]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
+                "file": "My Books/Modern introduction to probability and statistics.pdf"
               }
             }
           },
@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Statistical Modelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "My Books/Modern introduction to probability and statistics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md",
+                "file": "My Books/Modern introduction to probability and statistics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Development/CSS Properties.md"
+                "file": "My Books/Modern introduction to probability and statistics.pdf"
               }
             }
           }
@@ -145,20 +144,33 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "7b79fd7bbe24448d",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/Statistical Modelling.md",
+    "Data Engineering/Data Engineering.md",
+    "My Books/Modern introduction to probability and statistics.pdf",
+    "List of Books.md",
+    "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
+    "My Books/Think Like a Data Scientist.pdf",
+    "My Books/The cartoon guide to statistics.pdf",
+    "My Books/The basic practice of statistics.pdf",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf.crdownload",
+    "My Books/2004_Book_AllOfStatistics.pdf",
+    "My Books/CSSNotesForProfessionals.pdf",
+    "Data Engineering/DAGs.md",
+    "Statistics/Descriptive Statistics/Standard Deviation.md",
+    "Statistics/Descriptive Statistics/Variance.md",
+    "Statistics/Descriptive Statistics/Descriptive Statistics.md",
     "Personal",
     "Software Engineering/Web Development/CSS Flexbox.md",
     "Software Engineering/Web Development/CSS Grid.md",
-    "My Books/CSSNotesForProfessionals.pdf",
-    "List of Books.md",
     "Software Engineering/Images/css grid 1.png",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Web Development/CSS.md",
     "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Images/css grid.png",
-    "My Books/Statistics for Dummies.pdf",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
@@ -171,20 +183,6 @@
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
     "Mathematics/Calculus/Derivatives.md",
-    "Data Engineering/Airflow/Airflow Connections.md",
-    "Software Engineering/Web Development/Semantic HTML.md",
-    "Software Engineering/Web Development/Tags.md",
-    "Statistics/Descriptive Statistics/Standard Deviation.md",
-    "Statistics/Descriptive Statistics/Variance.md",
-    "Statistics/Descriptive Statistics/Sampling.md",
-    "Linux/Untitled",
-    "Personal/Linux",
-    "My Books/Statistics for Dummies.pdf.crdownload",
-    "My Books/2004_Book_AllOfStatistics.pdf",
-    "My Books/Descriptive Statistics - Open Uni.pdf",
-    "My Books/Descriptive Statistics - Ooen Uni.pdf",
-    "My Books/- Descriptive Statistics-The Open University (2015).pdf",
-    "My Books/thinkstats2.pdf",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
