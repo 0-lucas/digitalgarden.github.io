@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -166,10 +165,16 @@
   },
   "active": "b9a4e16f9027a420",
   "lastOpenFiles": [
-    "Software Engineering/Web Development/CSS.md",
-    "Central Limit Theorem.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
+    "Central Limit Theorem.md",
+    "Mathematics/Calculus/Differentiation.md",
     "Statistics/Law of Large Numbers.md",
+    "Mathematics/Calculus/Limits.md",
+    "Mathematics/Calculus/Differentiation Optimization.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Calculus/Integrals.md",
+    "Mathematics/Calculus/Derivatives.md",
+    "Software Engineering/Web Development/CSS.md",
     "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
     "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf",
@@ -197,12 +202,6 @@
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
-    "Software Engineering/C-Sharp/Parameters as Reference.md",
-    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
-    "Software Engineering/C-Sharp/CLR.md",
-    "Mathematics/Mathematics.md",
-    "Mathematics/Calculus/First Derivative Test.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",

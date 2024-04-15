@@ -17,4 +17,28 @@ ___
 
 It's possible to apply the *central limit theorem* to any variable that **comply with the assumptions** above. The **original distribution of the variable doesn't really matter** as long as it follows the assumptions. 
 
-Even though one can apply the *central limit theorem* conceptually,
+Even though one can apply the *central limit theorem* conceptually, here's the step-by-step:
+
+- ##### Write the variable of interest, $Y$ as the sum of $n$ *i.i.d* variable $X_i$'s:
+$$
+Y = X_1 + X_2 +...+X_n
+$$
+- ##### Find the expectation $EY$ and variance $Var(Y)$, noting that:
+$$\begin{align}
+&EY = n\mu, \quad Var(Y) = n\sigma^2 \\
+&\text{where} \ \ \mu=EX_i, \quad \sigma^2 = Var(X_i)
+\end{align}$$
+- ##### To find $P(y_1 \leq Y \leq y_2)$, one can follow:
+$$
+\begin{align}
+
+&P(y_1 \leq Y \leq y_2) = P\left(
+\frac{y_1 - n\mu}{\sqrt{n}\sigma} \leq \frac{Y - n\mu}{\sqrt{n}\sigma} \leq \frac{y_2 - n\mu}{\sqrt{n}\sigma}
+\right)
+\\
+& \approx \phi\left(\frac{y_2 - n\mu}{\sqrt{n}\sigma}\right) - \phi\left(\frac{y_1 - n\mu}{\sqrt{n}\sigma}\right)
+\\ \\
+&\text{where } \phi \text{ is the standard normal CDF.}\\ 
+\end{align}
+$$
+\phi\left(\frac{y_2 - n\mu}{\sqrt{n}\sigma}\right)
