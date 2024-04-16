@@ -17,7 +17,7 @@ ___
 
 It's possible to apply the *central limit theorem* to any variable that **comply with the assumptions** above. The **original distribution of the variable doesn't really matter** as long as it follows the assumptions. 
 
-Even though one can apply the *central limit theorem* conceptually, here's the step-by-step:
+Even though one can apply the *central limit theorem* conceptually, here's the step-by-step to get a probability from a [[Normal Distribution]] **regardless of the original distribution**:
 
 - ##### Write the variable of interest, $Y$ as the sum of $n$ *i.i.d* variable $X_i$'s:
 $$
@@ -41,4 +41,6 @@ $$
 &\text{where } \phi \text{ is the standard normal CDF.}\\ 
 \end{align}
 $$
-\phi\left(\frac{y_2 - n\mu}{\sqrt{n}\sigma}\right)
+>[!tip] What about $\phi$?
+> $\phi$ is normally denoted as the *cumulative distribution function*, or [[CDF]] in short. It gives us the probability that the standard normal variable is less than a value.
+> It can be easily calculated using [[SciPy]]'s *stats module*. The full method is `scipy.stats.norm.cdf`.
