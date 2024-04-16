@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "29e7e68f66672163",
+        "id": "d27021ffa351305c",
         "type": "tabs",
         "children": [
           {
-            "id": "7b79fd7bbe24448d",
+            "id": "29da6b6da8d71fba",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf"
+                "file": "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "e379e0ab6105873e",
+        "id": "5a0629c09889a186",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf925ee71ffb8a4",
+            "id": "278c196851567b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Law of Large Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9a4e16f9027a420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Limit Theorem.md",
+                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Limit Theorem.md",
+                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Limit Theorem.md",
+                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Limit Theorem.md"
+                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md"
               }
             }
           }
@@ -163,30 +151,33 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "b9a4e16f9027a420",
+  "active": "278c196851567b0a",
   "lastOpenFiles": [
-    "Central Limit Theorem.md",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
+    "Statistics/Probabiity Distributions/Binomial Distribution.md",
+    "List of Books.md",
+    "My Books/Statistics for Dummies.pdf",
+    "Statistics/Statistical Modelling/Central Limit Theorem.md",
+    "Statistics/Images/binomial plot.png",
+    "Statistics/Statistical Modelling/Statistical Modelling.md",
+    "Statistics/Statistical Modelling/Law of Large Numbers.md",
+    "Statistics/Images/central limit theorem.png",
+    "Statistics/Probabiity Distributions",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
     "Mathematics/Calculus/Differentiation.md",
-    "Statistics/Law of Large Numbers.md",
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
     "Mathematics/Calculus/Calculus.md",
     "Mathematics/Calculus/Integrals.md",
     "Mathematics/Calculus/Derivatives.md",
     "Software Engineering/Web Development/CSS.md",
-    "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
     "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf.crdownload",
-    "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Data Engineering/Data Engineering.md",
     "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
     "My Books/Think Like a Data Scientist.pdf",
-    "My Books/The cartoon guide to statistics.pdf",
-    "My Books/The basic practice of statistics.pdf",
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Data Engineering/DAGs.md",
     "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Variance.md",
@@ -201,15 +192,12 @@
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
-    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
     "Software Engineering/Images/CSS borders.png",
     "Software Engineering/Images/css box model.png",
     "Software Engineering/Images/css hello world.png",
-    "Software Engineering/Images/A tag html.png",
-    "Software Engineering/Images/html table.png",
     "Untitled.canvas"
   ]
 }
