@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5a0629c09889a186",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "278c196851567b0a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/Practical Statistics for Data Scientists.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +120,21 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "12fadf99bbc731ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa39005d74c961b2",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,10 +149,11 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "5b152578c119afa7",
+  "active": "44555a8f31cdc478",
   "lastOpenFiles": [
-    "Statistics/Statistical Modelling/ANOVA.md",
+    "Machine Learning/PCA.md",
     "One-Way ANOVA.md",
+    "Statistics/Statistical Modelling/ANOVA.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Statistics/Statistical Modelling/Central Limit Theorem.md",
@@ -195,7 +194,6 @@
     "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Images/css grid.png",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
