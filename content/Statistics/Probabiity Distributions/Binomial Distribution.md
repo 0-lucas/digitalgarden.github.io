@@ -44,6 +44,6 @@ $$
 P(x) = \frac{n!}{(n - x)!x!}p^x q^{n-x}
 $$
 
-![[Pasted image 20240416174818.png]]
+![[binomial forumla.png]]
 
 Because the **average always tend to $p$**, the mean of the *binomial probability distribution* is $\overline{x} = np$, and [[Variance]] is $\sigma ^ 2 = npq$.

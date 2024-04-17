@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "ec2580cdfe202694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b152578c119afa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One-Way ANOVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "5a0629c09889a186",
         "type": "tabs",
         "children": [
@@ -11,11 +29,9 @@
             "id": "278c196851567b0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/Practical Statistics for Data Scientists.pdf"
               }
             }
           }
@@ -61,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -77,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
+                "file": "One-Way ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md",
+                "file": "One-Way ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Binomial Distribution.md"
+                "file": "One-Way ANOVA.md"
               }
             }
           }
@@ -134,18 +151,23 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "278c196851567b0a",
+  "active": "5b152578c119afa7",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/ANOVA.md",
+    "One-Way ANOVA.md",
+    "My Books/Practical Statistics for Data Scientists.pdf",
+    "Statistics/Statistical Modelling/Law of Large Numbers.md",
+    "Statistics/Statistical Modelling/Central Limit Theorem.md",
+    "Statistics/Statistical Modelling/Statistical Modelling.md",
+    "Chi-Squared Distribution.md",
+    "List of Books.md",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
+    "Statistics/Images/binomial forumla.png",
+    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Pasted image 20240416174818.png",
     "Pasted image 20240416174814.png",
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
-    "Statistics/Probabiity Distributions/Binomial Distribution.md",
-    "List of Books.md",
     "My Books/Statistics for Dummies.pdf",
-    "Statistics/Statistical Modelling/Central Limit Theorem.md",
     "Statistics/Images/binomial plot.png",
-    "Statistics/Statistical Modelling/Statistical Modelling.md",
-    "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Statistics/Images/central limit theorem.png",
     "Statistics/Probabiity Distributions",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
@@ -162,7 +184,6 @@
     "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf.crdownload",
     "Data Engineering/Data Engineering.md",
     "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
-    "My Books/Think Like a Data Scientist.pdf",
     "Data Engineering/DAGs.md",
     "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Variance.md",
@@ -175,13 +196,9 @@
     "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Images/css grid.png",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
     "Software Engineering/Images/css padding.png",
-    "Software Engineering/Images/CSS borders.png",
-    "Software Engineering/Images/css box model.png",
     "Untitled.canvas"
   ]
 }
