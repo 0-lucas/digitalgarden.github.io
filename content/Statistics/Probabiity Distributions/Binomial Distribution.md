@@ -14,12 +14,12 @@ from scipy.stats import binom
 number_tosses = 10
 probability_success = 0.5  # Assuming a fair coin
 
-r_values = np.arange(0, n + 1)
+x_values = np.arange(0, n + 1)
 
-probabilities = binom.pmf(r_values, n, p)
+probabilities = binom.pmf(x_values, n, p)
 
 # Plot the binomial distribution
-sns.barplot(y=probabilities, x=r_values)
+sns.barplot(y=probabilities, x=x_values)
 plt.title("Binomial distribution for 10 coin tosses");
 ```
 
@@ -39,7 +39,11 @@ Each coin toss in the past example can be referred as a *Bernoulli trial*. In re
 ___
 # Calculating the probability
 
-Given the **number of successes** $r$, **number of trials** $n$, **probability of success** $p$, and **probability of failure** $q$, one could use the [[Probability Mass Function]] of the *binomial distribution* to calculate the distribution of a experiment:
+Given the **number of successes** $x$, **number of trials** $n$, **probability of success** $p$, and **probability of failure** $q$, one could use the [[Probability Mass Function]] of the *binomial distribution* to calculate the distribution of a experiment:
 $$
-P()
+P(x) = \frac{n!}{(n - x)!x!}p^x q^{n-x}
 $$
+
+![[Pasted image 20240416174818.png]]
+
+Because the **average always tend to $p$**, the mean of the *binomial probability distribution* is $\overline{x} = np$, and [[Variance]] is $\sigma ^ 2 = npq$.

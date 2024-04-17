@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d27021ffa351305c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29da6b6da8d71fba",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5a0629c09889a186",
         "type": "tabs",
         "children": [
@@ -77,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -153,6 +136,8 @@
   },
   "active": "278c196851567b0a",
   "lastOpenFiles": [
+    "Pasted image 20240416174818.png",
+    "Pasted image 20240416174814.png",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "List of Books.md",
@@ -197,7 +182,6 @@
     "Software Engineering/Images/css padding.png",
     "Software Engineering/Images/CSS borders.png",
     "Software Engineering/Images/css box model.png",
-    "Software Engineering/Images/css hello world.png",
     "Untitled.canvas"
   ]
 }
