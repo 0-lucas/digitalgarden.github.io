@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One-Way ANOVA.md",
+                "file": "Statistics/Statistical Modelling/One-Way ANOVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -78,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One-Way ANOVA.md",
+                "file": "Statistics/Statistical Modelling/One-Way ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One-Way ANOVA.md",
+                "file": "Statistics/Statistical Modelling/One-Way ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One-Way ANOVA.md"
+                "file": "Statistics/Statistical Modelling/One-Way ANOVA.md"
               }
             }
           }
@@ -128,6 +127,20 @@
         "children": [
           {
             "id": "fa39005d74c961b2",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dfe72a21ce5ff805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d45b2b01642cfb9f",
             "type": "leaf",
             "state": {
               "type": "dangling-links",
@@ -149,10 +162,11 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "44555a8f31cdc478",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/One-Way ANOVA.md",
+    "Statistics/Images/python anova.png",
     "Machine Learning/PCA.md",
-    "One-Way ANOVA.md",
     "Statistics/Statistical Modelling/ANOVA.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
@@ -192,11 +206,9 @@
     "Software Engineering/Images/css grid 1.png",
     "Software Engineering/Web Development/CSS Selectors.md",
     "Software Engineering/Web Development/CSS Properties.md",
-    "Software Engineering/Web Development/Internal Stylesheets.md",
     "Software Engineering/Images/css grid.png",
     "Software Engineering/Images/css width height.png",
     "Software Engineering/Images/margins css.png",
-    "Software Engineering/Images/css padding.png",
     "Untitled.canvas"
   ]
 }

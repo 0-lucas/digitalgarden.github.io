@@ -8,10 +8,25 @@ ___
 
 One could easily calculate the [[ANOVA]] table from multiples samples with a shared uni-variate variable using [[Python]]. The [[statsmodels]] library uses [[SciPy]] to easily return an [[ANOVA]] table.
 
+```python
+from statsmodels.formula.api import ols
+import statsmodels.api as sm
+
+data = pd.DataFrame({
+	"Group 1": [85, 86, 88, 75, 78, 94, 98, 79, 71, 80],
+	"Group 2": [91, 92, 93, 85, 87, 84, 82, 88, 95, 96],
+	"Group 3": [79, 78, 88, 94, 92, 85, 83, 85, 82, 81]
+})
+
+# Transform to Group Identifier / Value format
+data = data.melt(var_name="group") 
+
+lm = ols("value ~ group", data=data).fit()
+table = sm.stats.anova_lm(lm)
+table
 ```
 
-```
-
+![[python anova.png]]
 ___
 ## Calculating by hand
 
