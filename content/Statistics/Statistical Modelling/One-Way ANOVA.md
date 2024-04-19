@@ -1,6 +1,8 @@
 # What is it?
 
 In [[Statistics]], *one-way ANOVA* is a [[Statistical Modelling|statistical model]] which tests if **different samples are drawn from the same population**, taking into account **only one variable**. It's a subset of [[ANOVA]], applying it to a single variable.
+
+The main principle behind *one-way ANOVA* is to **compare different groups and samples**, making a [[Hypothesis Testing]] if the **means of different groups are equal or significantly different**.
 ___
 # Calculating ANOVA
 
@@ -27,6 +29,10 @@ table
 ```
 
 ![[python anova.png]]
+
+>[!tip] statsmodels summary
+>Another summary containing the fit metrics can be obtained by calling *`ols.summary()`* after fitting. This would return the [[F-statistic]], [[Coefficient of Determination|R squared]] and other metrics.
+
 ___
 ## Calculating by hand
 
@@ -40,7 +46,7 @@ Given the **number of samples** $k$, the **sample mean** $\overline{x}$, and the
 $$
 SS = \sum_{i=1}^k (\overline{x}_i -\overline{X})^2
 $$
-- #### Calculate the squared error, SSE.
+- #### Calculate the squared ___error, SSE.
 Similarly to [[Mean Squared Error]], calculate the **sum of squared errors** of each observation. Given $x_{ij}$ as **the $i^{th}$ observation in group $j$**, and $\overline{X}_j$ as the **mean of the group $j$**, and $n_j$ as the **number of observations of the sample**:
 $$
 SSE = \sum_{i=1}^{n_j} (x_{ij} - \overline{X}_j)^2
@@ -56,4 +62,3 @@ Now, just fill the [[ANOVA]] table with the metrics you just calculated.
 | Treatment | SS                 | $k-1$                  | $SS / DF_t$       | $MS_t / MS_r$ |
 | Residual  | SSE                | $n-k$                  | $SSE / DF_r$      |               |
 | Total     | SST                | $n-1$                  |                   |               |
-# Transform to Group Identifier / Value format
