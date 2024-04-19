@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2580cdfe202694",
+        "id": "36a8e1af02d0e86b",
         "type": "tabs",
         "children": [
           {
-            "id": "5b152578c119afa7",
+            "id": "736a6e415431600e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Books/R for Data Science_Hadley Wickham.pdf"
+                "file": "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/R for Data Science_Hadley Wickham.pdf",
+                "file": "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/R for Data Science_Hadley Wickham.pdf",
+                "file": "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/R for Data Science_Hadley Wickham.pdf"
+                "file": "Software Engineering/JavaScript/Defining Variables in JavaScript.md"
               }
             }
           }
@@ -160,8 +162,15 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "5b152578c119afa7",
+  "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "Software Engineering/JavaScript/JavaScript.md",
+    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
+    "Software Engineering/JavaScript/JS Quick Introduction.md",
+    "Software Engineering/C-Sharp/C-Sharp.md",
+    "Software Engineering/Images/stop doing js.png",
+    "Software Engineering/JavaScript",
+    "My Books/R for Data Science_Hadley Wickham.pdf",
     "List of Books.md",
     "Statistics/Images/anova example.png",
     "Statistics/Statistical Modelling/ANOVA.md",
@@ -193,20 +202,14 @@
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
     "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
-    "My Books/Hossein Pishro - Introduction to Probability, Statistics, and Random Processes-Kappa Research, LLC (2014).pdf.crdownload",
     "Data Engineering/Data Engineering.md",
-    "My Books/Probabilidade - Um curso moderno com aplicações.pdf",
     "Data Engineering/DAGs.md",
     "Statistics/Descriptive Statistics/Standard Deviation.md",
     "Statistics/Descriptive Statistics/Variance.md",
     "Statistics/Descriptive Statistics/Descriptive Statistics.md",
     "Software Engineering/Web Development/CSS Flexbox.md",
-    "Software Engineering/Web Development/CSS Grid.md",
     "Software Engineering/Images/css grid 1.png",
-    "Software Engineering/Web Development/CSS Selectors.md",
-    "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Images/css grid.png",
-    "Software Engineering/Images/css width height.png",
     "Untitled.canvas"
   ]
 }
