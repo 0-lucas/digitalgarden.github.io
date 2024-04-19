@@ -5,7 +5,7 @@ In [[Statistics]], *ANOVA* stands for **analysis of variance**. It's a [[Statist
 >[!caution] ANOVA's assumptions
 >Any *ANOVA* model assumes that the variables are [[Normal Distribution|normally distributed]] and *i.i.d.* - independent and identically distributed.
 
-![[Pasted image 20240419070010.png]]
+![[anova example.png]]
 > Example of *ANOVA* table made in [[R]].
 ___
 # Types of ANOVA

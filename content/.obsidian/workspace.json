@@ -11,11 +11,9 @@
             "id": "5b152578c119afa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/R for Data Science_Hadley Wickham.pdf"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
+                "file": "My Books/R for Data Science_Hadley Wickham.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
+                "file": "My Books/R for Data Science_Hadley Wickham.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md"
+                "file": "My Books/R for Data Science_Hadley Wickham.pdf"
               }
             }
           }
@@ -164,9 +162,10 @@
   },
   "active": "5b152578c119afa7",
   "lastOpenFiles": [
-    "Pasted image 20240419070010.png",
-    "Statistics/Statistical Modelling/One-Way ANOVA.md",
+    "List of Books.md",
+    "Statistics/Images/anova example.png",
     "Statistics/Statistical Modelling/ANOVA.md",
+    "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "Statistics/Images/python anova.png",
     "Machine Learning/PCA.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
@@ -174,7 +173,6 @@
     "Statistics/Statistical Modelling/Central Limit Theorem.md",
     "Statistics/Statistical Modelling/Statistical Modelling.md",
     "Chi-Squared Distribution.md",
-    "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Statistics/Images/binomial forumla.png",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
@@ -209,7 +207,6 @@
     "Software Engineering/Web Development/CSS Properties.md",
     "Software Engineering/Images/css grid.png",
     "Software Engineering/Images/css width height.png",
-    "Software Engineering/Images/margins css.png",
     "Untitled.canvas"
   ]
 }
