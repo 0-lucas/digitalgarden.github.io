@@ -56,3 +56,4 @@ Now, just fill the [[ANOVA]] table with the metrics you just calculated.
 | Treatment | SS                 | $k-1$                  | $SS / DF_t$       | $MS_t / MS_r$ |
 | Residual  | SSE                | $n-k$                  | $SSE / DF_r$      |               |
 | Total     | SST                | $n-1$                  |                   |               |
+# Transform to Group Identifier / Value format
