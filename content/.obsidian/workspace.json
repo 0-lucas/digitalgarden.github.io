@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/JavaScript/Objects in JavaScript.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/JavaScript/Objects in JavaScript.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/JavaScript/Objects in JavaScript.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/JavaScript/Objects in JavaScript.md"
+                "file": "Software Engineering/JavaScript/JavaScript.md"
               }
             }
           }
@@ -164,10 +164,21 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
-    "Software Engineering/JavaScript/JavaScript in HTML.md",
+    "My Books/JavaScriptNotesForProfessionals.pdf",
+    "List of Books.md",
+    "OOP in JavaScript.md",
     "Software Engineering/JavaScript/JavaScript.md",
-    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
+    "Software Engineering/JavaScript/JavaScript in HTML.md",
+    "Software Engineering/C-Sharp/C-Sharp.md",
+    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
+    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
+    "Data Engineering/Data Engineering.md",
+    "Mathematics/Mathematics.md",
+    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
+    "Software Engineering/C-Sharp/Methods in C-Sharp.md",
+    "Software Engineering/JavaScript/Functions in JavaScript.md",
     "Software Engineering/JavaScript/Objects in JavaScript.md",
+    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
     "Software Engineering/CSS/External Stylesheets.md",
     "Software Engineering/CSS/Internal Stylesheets.md",
     "Software Engineering/Microservices.md",
@@ -180,21 +191,14 @@
     "Python.md",
     "Statistics/Statistics.md",
     "Software Engineering/JavaScript/JS Quick Introduction.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Images/stop doing js.png",
     "Software Engineering/JavaScript",
     "My Books/R for Data Science_Hadley Wickham.pdf",
-    "List of Books.md",
     "Statistics/Images/anova example.png",
     "Statistics/Statistical Modelling/ANOVA.md",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "Statistics/Images/python anova.png",
-    "Machine Learning/PCA.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
-    "Statistics/Statistical Modelling/Law of Large Numbers.md",
-    "Statistics/Statistical Modelling/Central Limit Theorem.md",
-    "Statistics/Statistical Modelling/Statistical Modelling.md",
-    "Chi-Squared Distribution.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Statistics/Images/binomial forumla.png",
     "Pasted image 20240416174818.png",
@@ -204,10 +208,6 @@
     "Statistics/Images/central limit theorem.png",
     "Statistics/Probabiity Distributions",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
-    "Mathematics/Calculus/Differentiation.md",
-    "Mathematics/Calculus/Limits.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
-    "Mathematics/Calculus/Calculus.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf.crdownload",
     "Software Engineering/Images/css grid 1.png",
     "Untitled.canvas"

@@ -8,3 +8,9 @@ It's also possible to build **server-side applications** with [[Node.js]], **mob
 
 ![[stop doing js.png]]
 ___
+Some topics:
+- [[Defining Variables in JavaScript]]
+- [[JavaScript in HTML]]
+- [[Objects in JavaScript]]
+- [[Functions in JavaScript]]
+- [[OOP in JavaScript]]

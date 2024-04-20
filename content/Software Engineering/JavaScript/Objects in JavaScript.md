@@ -41,3 +41,33 @@ ___
 ## Using a object constructor
 
 Using a *object constructor* is a more concise way of creating *objects*, once it can be applied to **multiple different instances** without too much repeated code.
+
+```javascript
+function CreatePerson(name, favoriteBand){
+	this.name = name;
+	this.favoriteBand = favoriteBand;
+	this.Greet = function() {
+		console.log(`Hi! I am ${this.name}.`);
+	};
+}
+
+let me = new CreatePerson("Lucas", "Radiohead");
+me.Greet();
+```
+
+However, one would be better using a [[OOP in JavaScript|class]] constructor, which would serve the same purpose, but more flexible.
+
+```javascript
+class CreatePerson {
+	constructor(name, favoriteBand) {
+		this.name = name;
+		this.favoriteBand = favoriteBand;
+		this.Greet = function () {
+			console.log(`Hi! I am ${this.name}.`);
+		};
+	}
+}
+
+let me = new CreatePerson("Lucas", "Radiohead");
+me.Greet();
+```
