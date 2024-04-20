@@ -1,6 +1,6 @@
 # What is it?
 
-*XCOM* stands for **cross-communication**. They are used in [[Apache Airflow]] to **exchange data between tasks** with the objective of sharing the same state between different tasks. They are similar to [[Variables]], but much more flexible.
+*XCOM* stands for **cross-communication**. They are used in [[Apache Airflow]] to **exchange data between tasks** with the objective of sharing the same state between different tasks. They are similar to [[Airflow Variables]], but much more flexible.
 ___
 # How it works?
 

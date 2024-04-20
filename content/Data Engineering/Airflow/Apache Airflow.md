@@ -31,4 +31,4 @@ Check some other links regarding Airflow:
 - [[Scheduling in Airflow]]
 - [[XCOMs]]
 - [[Airflow Connections]]
-- [[Variables]]
+- [[Airflow Variables]]
