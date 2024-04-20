@@ -41,3 +41,8 @@ To add an *external [[JavaScript]] file* to an [[HTML]] file, one must **use the
 	
 </html>
 ```
+
+```javascript
+// JavaScript file
+alert("This is a popup");
+```
