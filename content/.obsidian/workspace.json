@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
+                "file": "Software Engineering/CSS/CSS Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
+                "file": "Software Engineering/CSS/CSS Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
+                "file": "Software Engineering/CSS/CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md"
+                "file": "Software Engineering/CSS/CSS Properties.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
-    "Software Engineering/HTML/Document Object Model.md",
+    "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
+    "Software Engineering/HTML/Document Object Model.md",
     "Software Engineering/HTML/HTML.md",
     "Software Engineering/HTML/Semantic HTML.md",
     "OOP in JavaScript.md",
@@ -194,7 +195,6 @@
     "Software Engineering/Images/js data types.png",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Python.md",
-    "Statistics/Statistics.md",
     "Software Engineering/Images/stop doing js.png",
     "Software Engineering/JavaScript",
     "My Books/R for Data Science_Hadley Wickham.pdf",
