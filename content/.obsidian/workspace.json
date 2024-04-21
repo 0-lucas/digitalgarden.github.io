@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Software Engineering/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Software Engineering/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Software Engineering/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md"
+                "file": "Software Engineering/CSS/CSS.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/HTML/Document Object Model.md",
@@ -188,7 +189,6 @@
     "Software Engineering/CSS/External Stylesheets.md",
     "Software Engineering/CSS/Internal Stylesheets.md",
     "Software Engineering/Microservices.md",
-    "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/HTML",
     "Software Engineering/CSS/CSS Grid.md",
     "Software Engineering/CSS",
