@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
+                "file": "My Books/JavaScriptNotesForProfessionals.pdf"
               }
             }
           }
@@ -59,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -76,7 +75,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "My Books/JavaScriptNotesForProfessionals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf",
+                "file": "My Books/JavaScriptNotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/CSSNotesForProfessionals.pdf"
+                "file": "My Books/JavaScriptNotesForProfessionals.pdf"
               }
             }
           }
@@ -164,6 +163,7 @@
   "active": "736a6e415431600e",
   "lastOpenFiles": [
     "List of Books.md",
+    "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/CSS/CSS.md",
     "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/CSS/CSS Selectors.md",
@@ -193,7 +193,6 @@
     "Software Engineering/CSS/CSS Grid.md",
     "Software Engineering/CSS",
     "Software Engineering/Images/js data types.png",
-    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Software Engineering/Images/stop doing js.png",
     "Software Engineering/JavaScript",
     "My Books/R for Data Science_Hadley Wickham.pdf",
@@ -208,7 +207,6 @@
     "Statistics/Images/binomial plot.png",
     "Statistics/Images/central limit theorem.png",
     "Statistics/Probabiity Distributions",
-    "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
     "Untitled.canvas"
   ]
 }
