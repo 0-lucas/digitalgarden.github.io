@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md",
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/CSS/CSS Properties.md"
+                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md"
               }
             }
           }
@@ -164,13 +164,16 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "My Books/Practical Statistics for Data Scientists.pdf",
+    "List of Books.md",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
+    "My Books/Modern introduction to probability and statistics.pdf",
+    "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/HTML/Tags.md",
     "Software Engineering/HTML/HTML.md",
     "My Books/JavaScriptNotesForProfessionals.pdf",
-    "List of Books.md",
     "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/CSS/CSS.md",
-    "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/HTML/Document Object Model.md",
@@ -193,7 +196,6 @@
     "Software Engineering/CSS/Internal Stylesheets.md",
     "Software Engineering/Microservices.md",
     "Software Engineering/HTML",
-    "Software Engineering/CSS/CSS Grid.md",
     "Software Engineering/CSS",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
@@ -201,15 +203,12 @@
     "My Books/R for Data Science_Hadley Wickham.pdf",
     "Statistics/Images/anova example.png",
     "Statistics/Images/python anova.png",
-    "My Books/Practical Statistics for Data Scientists.pdf",
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Statistics/Images/binomial forumla.png",
     "Pasted image 20240416174818.png",
     "Pasted image 20240416174814.png",
     "My Books/Statistics for Dummies.pdf",
     "Statistics/Images/binomial plot.png",
     "Statistics/Images/central limit theorem.png",
-    "Statistics/Probabiity Distributions",
     "Untitled.canvas"
   ]
 }
