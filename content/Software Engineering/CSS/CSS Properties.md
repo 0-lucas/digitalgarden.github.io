@@ -55,7 +55,7 @@ body {
 }
 ```
 ___
-	# Box Model
+# Box Model
 
 [[CSS]] works with [[HTML]] wrapping *elements* with the *[[CSS]] box model*. It consists of **content**, **padding**, **border**, and **margin**.
 

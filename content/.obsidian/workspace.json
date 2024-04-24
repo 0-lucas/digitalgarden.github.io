@@ -11,9 +11,11 @@
             "id": "736a6e415431600e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Books/JavaScriptNotesForProfessionals.pdf"
+                "file": "Software Engineering/CSS/CSS Properties.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/JavaScriptNotesForProfessionals.pdf",
+                "file": "Software Engineering/CSS/CSS Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/JavaScriptNotesForProfessionals.pdf",
+                "file": "Software Engineering/CSS/CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/JavaScriptNotesForProfessionals.pdf"
+                "file": "Software Engineering/CSS/CSS Properties.md"
               }
             }
           }
@@ -162,6 +164,9 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "Software Engineering/HTML/Tags.md",
+    "Software Engineering/HTML/HTML.md",
+    "My Books/JavaScriptNotesForProfessionals.pdf",
     "List of Books.md",
     "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/CSS/CSS.md",
@@ -169,12 +174,10 @@
     "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/HTML/Document Object Model.md",
-    "Software Engineering/HTML/HTML.md",
     "Software Engineering/HTML/Semantic HTML.md",
     "OOP in JavaScript.md",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/JavaScript/JavaScript.md",
-    "My Books/JavaScriptNotesForProfessionals.pdf",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
