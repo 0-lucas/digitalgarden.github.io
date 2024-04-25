@@ -11,15 +11,26 @@
             "id": "736a6e415431600e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
+              }
+            }
+          },
+          {
+            "id": "75ff552b86366f3f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/MVC.md",
+                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -77,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/MVC.md",
+                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/MVC.md",
+                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/MVC.md"
+                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md"
               }
             }
           }
@@ -164,15 +176,17 @@
   },
   "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "List of Books.md",
+    "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
+    "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
-    "Software Engineering/ASP.NET MVC/MVC.md",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Software Engineering/ASP.NET MVC",
     "Software Engineering/C-Sharp/Untitled",
     "My Books/Practical Statistics for Data Scientists.pdf",
-    "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Software Engineering/CSS/CSS Properties.md",
@@ -200,16 +214,13 @@
     "Software Engineering/JavaScript/Objects in JavaScript.md",
     "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
     "Software Engineering/HTML",
-    "Software Engineering/CSS",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
-    "Software Engineering/JavaScript",
     "Statistics/Images/anova example.png",
     "Statistics/Images/python anova.png",
     "Statistics/Images/binomial forumla.png",
     "Pasted image 20240416174818.png",
     "Pasted image 20240416174814.png",
-    "Statistics/Images/binomial plot.png",
     "Untitled.canvas"
   ]
 }
