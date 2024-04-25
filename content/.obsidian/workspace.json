@@ -174,9 +174,10 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "75ff552b86366f3f",
   "lastOpenFiles": [
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "List of Books.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/ASP.NET MVC/MVC.md",
@@ -212,7 +213,6 @@
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/JavaScript/Functions in JavaScript.md",
     "Software Engineering/JavaScript/Objects in JavaScript.md",
-    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
