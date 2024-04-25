@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Software Engineering/ASP.NET MVC/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Software Engineering/ASP.NET MVC/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md",
+                "file": "Software Engineering/ASP.NET MVC/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/Law of Large Numbers.md"
+                "file": "Software Engineering/ASP.NET MVC/MVC.md"
               }
             }
           }
@@ -162,8 +162,15 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "736a6e415431600e",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Software Engineering/Images/mvc example.png",
+    "Software Engineering/Images/mvc.png",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
+    "Software Engineering/ASP.NET MVC/MVC.md",
+    "Statistics/Statistical Modelling/Law of Large Numbers.md",
+    "Software Engineering/ASP.NET MVC",
+    "Software Engineering/C-Sharp/Untitled",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
@@ -192,23 +199,17 @@
     "Software Engineering/JavaScript/Functions in JavaScript.md",
     "Software Engineering/JavaScript/Objects in JavaScript.md",
     "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
-    "Software Engineering/CSS/External Stylesheets.md",
-    "Software Engineering/CSS/Internal Stylesheets.md",
-    "Software Engineering/Microservices.md",
     "Software Engineering/HTML",
     "Software Engineering/CSS",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
     "Software Engineering/JavaScript",
-    "My Books/R for Data Science_Hadley Wickham.pdf",
     "Statistics/Images/anova example.png",
     "Statistics/Images/python anova.png",
     "Statistics/Images/binomial forumla.png",
     "Pasted image 20240416174818.png",
     "Pasted image 20240416174814.png",
-    "My Books/Statistics for Dummies.pdf",
     "Statistics/Images/binomial plot.png",
-    "Statistics/Images/central limit theorem.png",
     "Untitled.canvas"
   ]
 }
