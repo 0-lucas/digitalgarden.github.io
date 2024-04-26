@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "Software Engineering/C-Sharp/Methods in C-Sharp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md"
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
               }
             }
           }
@@ -174,10 +173,18 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "75ff552b86366f3f",
+  "active": "736a6e415431600e",
   "lastOpenFiles": [
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/C-Sharp/Methods in C-Sharp.md",
+    "Software Engineering/C-Sharp/C-Sharp.md",
+    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
+    "Software Engineering/C-Sharp/CLR.md",
+    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
+    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
+    "Software Engineering/C-Sharp/Parameters as Reference.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "List of Books.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/ASP.NET MVC/MVC.md",
@@ -204,15 +211,8 @@
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/JavaScript/JavaScript.md",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Data Engineering/Data Engineering.md",
     "Mathematics/Mathematics.md",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
-    "Software Engineering/C-Sharp/Methods in C-Sharp.md",
-    "Software Engineering/JavaScript/Functions in JavaScript.md",
-    "Software Engineering/JavaScript/Objects in JavaScript.md",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
