@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/C-Sharp/Methods in C-Sharp.md",
+                "file": "Software Engineering/ASP.NET MVC/ASP.NET.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,6 +175,9 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
@@ -184,13 +187,10 @@
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "List of Books.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
-    "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
-    "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Software Engineering/ASP.NET MVC",
     "Software Engineering/C-Sharp/Untitled",
@@ -212,7 +212,6 @@
     "Software Engineering/JavaScript/JavaScript.md",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
     "Data Engineering/Data Engineering.md",
-    "Mathematics/Mathematics.md",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
