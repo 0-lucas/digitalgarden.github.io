@@ -1,6 +1,6 @@
 # What is it?
 
-The [[ASP.NET]] framework implements a **modular pipeline** that is executed between the **HTTP request** and the **server response**. This is the *middleware pipeline*.
+The [[ASP.NET]] framework implements a **modular pipeline** that is executed between the **HTTP request** and the **server response**. Think of it as the **entry point of the application**. This is the *middleware pipeline*.
 
 ![[ASP middleware.png]]
 

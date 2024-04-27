@@ -16,18 +16,6 @@
                 "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
               }
             }
-          },
-          {
-            "id": "75ff552b86366f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -71,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
