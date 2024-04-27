@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Software Engineering/ASP.NET MVC/Controllers.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Software Engineering/ASP.NET MVC/Controllers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Software Engineering/ASP.NET MVC/Controllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md"
+                "file": "Software Engineering/ASP.NET MVC/Controllers.md"
               }
             }
           }
@@ -183,15 +182,16 @@
   },
   "active": "89f5d89acbaeb607",
   "lastOpenFiles": [
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
-    "Software Engineering/ASP.NET MVC/Routing.md",
-    "Software Engineering/ASP.NET MVC/MVC.md",
-    "Software Engineering/ASP.NET MVC/ASP.NET.md",
-    "Dependency Injection.md",
     "Software Engineering/ASP.NET MVC/Services.md",
-    "Pasted image 20240427112918.png",
-    "Pasted image 20240427112911.png",
+    "Software Engineering/ASP.NET MVC/Routing.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
+    "Software Engineering/ASP.NET MVC/Dependency Injection.md",
+    "Software Engineering/ASP.NET MVC/MVC.md",
+    "Software Engineering/Images/dependency injection.png",
+    "Pasted image 20240427112911.png",
+    "Software Engineering/ASP.NET MVC/Controllers.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
@@ -221,7 +221,6 @@
     "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/HTML/Document Object Model.md",
-    "Software Engineering/HTML/Semantic HTML.md",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",

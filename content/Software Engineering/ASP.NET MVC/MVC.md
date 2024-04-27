@@ -13,7 +13,7 @@ The *model* also limits what data is allowed to be passed in by the HTTP request
 ___
 # Controllers
 
-The *controller* is a intermediary between the *model* and the *view*. It **receives requests from the *view***, **interprets it** and interact with the *model* to retrieve data necessary. Once it has processed the data, it instructs the *view* to **update itself accordingly with the processed data**.
+The [[Controllers|Controller]] is a intermediary between the *model* and the *view*. It **receives requests from the *view***, **interprets it** and interact with the *model* to retrieve data necessary. Once it has processed the data, it instructs the *view* to **update itself accordingly with the processed data**.
 
 ___
 # Views
