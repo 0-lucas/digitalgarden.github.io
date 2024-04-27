@@ -6,7 +6,7 @@
       {
         "id": "ebd829d794c2da5c",
         "type": "tabs",
-        "dimension": 49.30703624733476,
+        "dimension": 44.61620469083156,
         "children": [
           {
             "id": "2c1aa456350b178c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Services.md",
+                "file": "Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "36a8e1af02d0e86b",
         "type": "tabs",
-        "dimension": 50.69296375266524,
+        "dimension": 55.38379530916845,
         "children": [
           {
             "id": "736a6e415431600e",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Services.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Services.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Services.md"
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
               }
             }
           }
@@ -181,13 +181,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "2c1aa456350b178c",
+  "active": "736a6e415431600e",
   "lastOpenFiles": [
     "Dependency Injection.md",
     "Software Engineering/ASP.NET MVC/Services.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Pasted image 20240427112918.png",
     "Pasted image 20240427112911.png",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
