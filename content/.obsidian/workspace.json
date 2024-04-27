@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd829d794c2da5c",
+        "id": "cf1ec00395f156c8",
         "type": "tabs",
-        "dimension": 44.61620469083156,
         "children": [
           {
-            "id": "2c1aa456350b178c",
+            "id": "89f5d89acbaeb607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Injection.md",
+                "file": "Software Engineering/ASP.NET MVC/Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,18 +22,19 @@
         ]
       },
       {
-        "id": "36a8e1af02d0e86b",
+        "id": "ebd829d794c2da5c",
         "type": "tabs",
-        "dimension": 55.38379530916845,
         "children": [
           {
             "id": "736a6e415431600e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+                "file": "Software Engineering/ASP.NET MVC/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+                "file": "Software Engineering/ASP.NET MVC/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
+                "file": "Software Engineering/ASP.NET MVC/Routing.md"
               }
             }
           }
@@ -181,16 +181,17 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "736a6e415431600e",
+  "active": "89f5d89acbaeb607",
   "lastOpenFiles": [
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/ASP.NET MVC/Routing.md",
+    "Software Engineering/ASP.NET MVC/MVC.md",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Dependency Injection.md",
     "Software Engineering/ASP.NET MVC/Services.md",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Pasted image 20240427112918.png",
     "Pasted image 20240427112911.png",
-    "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
-    "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
@@ -221,7 +222,6 @@
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/HTML/Document Object Model.md",
     "Software Engineering/HTML/Semantic HTML.md",
-    "OOP in JavaScript.md",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
