@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/ASP.NET.md",
+                "file": "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -175,9 +174,11 @@
   },
   "active": "736a6e415431600e",
   "lastOpenFiles": [
-    "Software Engineering/ASP.NET MVC/ASP.NET.md",
+    "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/ASP.NET MVC/MVC.md",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
@@ -211,7 +212,6 @@
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/JavaScript/JavaScript.md",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
-    "Data Engineering/Data Engineering.md",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
@@ -219,7 +219,6 @@
     "Statistics/Images/python anova.png",
     "Statistics/Images/binomial forumla.png",
     "Pasted image 20240416174818.png",
-    "Pasted image 20240416174814.png",
     "Untitled.canvas"
   ]
 }
