@@ -7,3 +7,27 @@ ___
 # ASP.NET Controllers
 
 In [[ASP.NET]], a *controller* is a class derived from the `Microsoft.AspNetCore.Mvc.Controller` class, used to define a **set of related methods** called *actions*. An *action* is any **public method** defined inside the *controller*.
+
+An sample *controller* that returns the index [[Views|view]], with an arbitrary action in [[ASP.NET]] [[MVC]], can be defined with:
+
+```csharp
+using Microsoft.AspNetCore.Mvc;
+
+namespace BookProject
+{
+    public class HomeController : Controller
+    {
+        // GET: HomeController
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        // GET: Home/SecondAction/id
+        public string SecondAction(int id)
+        {
+            return $"{id} squared: {id * id}";
+        }
+    }
+}
+```
