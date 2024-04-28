@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Controllers.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Controllers.md",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Controllers.md"
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
               }
             }
           }
@@ -180,17 +180,17 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "89f5d89acbaeb607",
+  "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "Software Engineering/ASP.NET MVC/Controllers.md",
+    "Software Engineering/ASP.NET MVC/MVC.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Software Engineering/ASP.NET MVC/Services.md",
     "Software Engineering/ASP.NET MVC/Routing.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Software Engineering/ASP.NET MVC/Dependency Injection.md",
-    "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/Images/dependency injection.png",
     "Pasted image 20240427112911.png",
-    "Software Engineering/ASP.NET MVC/Controllers.md",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
