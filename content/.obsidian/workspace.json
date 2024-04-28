@@ -176,10 +176,11 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "736a6e415431600e",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
-    "Software Engineering/ASP.NET MVC/Controllers.md",
+    "Personal/Project.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Software Engineering/ASP.NET MVC/Controllers.md",
     "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Services.md",
     "Software Engineering/ASP.NET MVC/Routing.md",
@@ -216,7 +217,6 @@
     "Software Engineering/CSS/CSS.md",
     "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
-    "Software Engineering/HTML/Document Object Model.md",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
