@@ -6,7 +6,6 @@
       {
         "id": "33bc29a2cc149cb4",
         "type": "tabs",
-        "dimension": 50.95948827292111,
         "children": [
           {
             "id": "736a6e415431600e",
@@ -19,27 +18,21 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "cf1ec00395f156c8",
-        "type": "tabs",
-        "dimension": 49.040511727078886,
-        "children": [
+          },
           {
-            "id": "c0560d6fdd129857",
+            "id": "b0c99e2140e13b2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Personal/Primavera/Primeira impressão.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -98,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Personal/Primavera/Primeira impressão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md",
+                "file": "Personal/Primavera/Primeira impressão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/ASP.NET MVC/Routing.md"
+                "file": "Personal/Primavera/Primeira impressão.md"
               }
             }
           }
@@ -183,14 +175,16 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "c0560d6fdd129857",
+  "active": "b0c99e2140e13b2d",
   "lastOpenFiles": [
-    "Software Engineering/ASP.NET MVC/Controllers.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Personal/Primavera/Primeira impressão.md",
+    "Personal/Primavera",
+    "Software Engineering/ASP.NET MVC/Routing.md",
+    "Software Engineering/ASP.NET MVC/Controllers.md",
     "Personal/Project.md",
     "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Services.md",
-    "Software Engineering/ASP.NET MVC/Routing.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Software Engineering/ASP.NET MVC/Dependency Injection.md",
     "Software Engineering/Images/dependency injection.png",
@@ -223,9 +217,7 @@
     "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/CSS/CSS.md",
     "Software Engineering/CSS/CSS Selectors.md",
-    "Software Engineering/JavaScript/Accessing the DOM with JavaScript.md",
     "Software Engineering/Images/DOM example.png",
-    "Software Engineering/HTML",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
     "Statistics/Images/anova example.png",
