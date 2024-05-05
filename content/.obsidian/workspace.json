@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -159,8 +158,9 @@
   },
   "active": "d7079c54aee422b4",
   "lastOpenFiles": [
-    "My Books/Practical Statistics for Data Scientists.pdf",
+    "Mathematics/Calculus/Derivatives.md",
     "Machine Learning/Linear Regression.md",
+    "My Books/Practical Statistics for Data Scientists.pdf",
     "Pasted image 20240505174610.png",
     "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",

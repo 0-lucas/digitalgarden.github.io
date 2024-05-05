@@ -15,7 +15,58 @@ Given $\beta$ as the **angular coefficient**, $\alpha$ as the **linear coefficie
 $$
 y_i = \alpha + \beta * x_i + \epsilon
 $$
+___
+## The assumptions of linear regression
 
-This assumes the data is **linearly correlated**.
+However, there are **four main assumptions** related with a *linear regression model*:
+
+- ##### Linearity
+	The **relationship** between $x$ and $y$ **must be linear**.
+
+- ##### Homoscedasticity
+	The [[Variance]] of the **residual error** must be the same for any value of $x_i$.
+
+- ##### Independence and Normality
+	For any value of $x, y$, the data **must be i.i.d.**, *independent and identically distributed*.
+___
+## Estimating the model parameters
+
+To determine the **best fitting line** that captures the data, one can use several **different metrics**. The most used method is the *Least Squares* method, also called *OLS*, standing for *Ordinary Least Squares*.
+
+The idea is to **estimate parameters** that **minimizes the error $\epsilon$**, meaning the *fitted line* is close to the observed values. The *sum of squared errors* is given by:
+
+$$
+SSE = \sum_{i=1}^{n} \epsilon^{2}_{i} \quad \text{, which can be rewritten as} \quad SSE = \sum_{i=1}^{n} [y_i - (\alpha - \beta * x_i)]^2
+$$
+
+To find the values of $\alpha$ and $\beta$ that **minimizes** $SSE$, we can use [[Derivatives]] with [[Differentiation Optimization|optimization techniques]] to find the **critical points**, with:
+
+$$
+f'(\alpha) SQE = 0 \quad \text{and} \quad f'(\beta)SQE = 0
+$$
+
+Which can be applied the *Chain Rule* from [[Differentiation]]:
+$$
+\left\{\begin{array}{c}
+\sum_{i=1}^n y_i=n \alpha+\beta . \sum_{i=1}^n x_i \\
+\sum_{i=1}^n x_i y_i=\alpha \cdot \sum_{i=1}^n x_i+\beta . \sum_{i=1}^n x_i^2
+\end{array}\right.
+$$
+**Simplifying** to:
+
+$$
+\beta = \frac{n * \sum_{i=1}^{n} x_i y_i - \sum_{i=1}^{n}x_i * }  {}
+$$
+
+
+
+
+
+
+
+
+
+
+
 
  For now, content with portuguese content https://medium.com/@luccleandro/sobre-a-regressão-linear-74572c602ffc
