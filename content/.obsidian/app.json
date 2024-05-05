@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "spellcheckDictionary": [
-    "integrand"
+    "integrand",
+    "Homoscedasticity"
   ]
 }

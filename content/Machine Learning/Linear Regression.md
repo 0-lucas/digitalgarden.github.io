@@ -31,9 +31,9 @@ However, there are **four main assumptions** related with a *linear regression m
 ___
 ## Estimating the model parameters
 
-To determine the **best fitting line** that captures the data, one can use several **different metrics**. The most used method is the *Least Squares* method, also called *OLS*, standing for *Ordinary Least Squares*.
+To determine the **best fitting line** that captures the data, one can use **several metrics**. The most used method is the *Least Squares* method, also called *OLS*, standing for *Ordinary Least Squares*.
 
-The idea is to **estimate parameters** that **minimizes the error $\epsilon$**, meaning the *fitted line* is close to the observed values. The *sum of squared errors* is given by:
+The idea is to **estimate parameters** that **minimize the error $\epsilon$**, meaning the *fitted line* is close to the observed values. The *sum of squared errors* is given by:
 
 $$
 SSE = \sum_{i=1}^{n} \epsilon^{2}_{i} \quad \text{, which can be rewritten as} \quad SSE = \sum_{i=1}^{n} [y_i - (\alpha - \beta * x_i)]^2
@@ -55,10 +55,23 @@ $$
 **Simplifying** to:
 
 $$
-\beta = \frac{n * \sum_{i=1}^{n} x_i y_i - \sum_{i=1}^{n}x_i * }  {}
+\beta = \frac
+{n * \sum_{i=1}^{n} x_i y_i - (\sum_{i=1}^{n}x_i * \sum_{i=1}^{n}y_i)} 
+{n * \sum_{i=1}^{n}x^2_i - (\sum_{i=1}^{n}x_i)^2}
 $$
 
+The *linear coefficient* $\alpha$ has an easier calculation with the *linear regression model equation* itself:
+$$
+\alpha = \overline{y} - \beta *\overline{x}
+$$
+___
+# Evaluating a linear regression model
 
+To **evaluate a *linear regression model***, the most used metric is the [[Coefficient of Determination]], referred as $R^2$:
+
+$$
+R^2 = 
+$$
 
 
 
