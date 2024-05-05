@@ -20,19 +20,29 @@
             }
           },
           {
-            "id": "b0c99e2140e13b2d",
+            "id": "b0c56225e5ae2b59",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Practical Statistics for Data Scientists.pdf"
+              }
+            }
+          },
+          {
+            "id": "d7079c54aee422b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Primavera/Primeira impressão.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -90,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Primavera/Primeira impressão.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,14 +113,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Primavera/Primeira impressão.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -127,45 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Primavera/Primeira impressão.md"
+                "file": "Machine Learning/Linear Regression.md"
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "12fadf99bbc731ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa39005d74c961b2",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "dfe72a21ce5ff805",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d45b2b01642cfb9f",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +157,15 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "b0c99e2140e13b2d",
+  "active": "d7079c54aee422b4",
   "lastOpenFiles": [
+    "My Books/Practical Statistics for Data Scientists.pdf",
+    "Machine Learning/Linear Regression.md",
+    "Pasted image 20240505174610.png",
+    "List of Books.md",
+    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
+    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
+    "Statistics/Statistical Modelling/Linear Regression.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Personal/Primavera/Primeira impressão.md",
     "Personal/Primavera",
@@ -200,28 +189,21 @@
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
-    "List of Books.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Software Engineering/ASP.NET MVC",
     "Software Engineering/C-Sharp/Untitled",
-    "My Books/Practical Statistics for Data Scientists.pdf",
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Software Engineering/CSS/CSS Properties.md",
     "Software Engineering/HTML/Tags.md",
-    "Software Engineering/HTML/HTML.md",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "My Books/CSSNotesForProfessionals.pdf",
-    "Software Engineering/CSS/CSS.md",
-    "Software Engineering/CSS/CSS Selectors.md",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/Images/js data types.png",
     "Software Engineering/Images/stop doing js.png",
     "Statistics/Images/anova example.png",
-    "Statistics/Images/python anova.png",
     "Untitled.canvas"
   ]
 }

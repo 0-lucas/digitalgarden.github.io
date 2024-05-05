@@ -10,7 +10,7 @@ About *dimensionality*, yeah, it's the **geometry dimension** concept, meaning i
 ___
 # How does it work?
 
-The goal of *dimensionality reduction* is not to just discard features, but actually **trim the data** so **only the relevant ones stay.** But because of the nature of higher dimensions, training data becomes **very sparse** with high-dimensional spaces, causing issues for the performance of algorithms, specially for **distance-based** ones, like [[Linear Regression]]. 
+The goal of *dimensionality reduction* is not to just discard features, but actually **trim the data** so **only the relevant ones stay.** But because of the nature of higher dimensions, training data becomes **very sparse** with high-dimensional spaces, causing issues for the performance of algorithms, specially for **distance-based** ones, like [[Machine Learning/Linear Regression]]. 
 This is called the **Curse of Dimensionality**.
 ___
 ## The curse of dimensionality

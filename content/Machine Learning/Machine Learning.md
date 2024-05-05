@@ -22,7 +22,7 @@ Below, some notes separated by its categories:
 - [[Mutual Information]]
 ___
 ### Supervised Learning
-- [[Linear Regression]]
+- [[Machine Learning/Linear Regression]]
 ___
 ### Unsupervised Learning
 - [[Dimensionality Reduction]]
