@@ -5,7 +5,7 @@
 In [[Statistics]] and [[Machine Learning]], a *linear regression* model tries to capture the **linear relationship** between **two** or **more variables**, in a way that it produces an **equation** that **approximates a prediction for any point in the known data range**.
 
 
-![[Pasted image 20240505174610.png]]
+![[linear regression example.png]]
 ___
 # The statistical model
 
@@ -67,11 +67,7 @@ $$
 ___
 # Evaluating a linear regression model
 
-To **evaluate a *linear regression model***, the most used metric is the [[Coefficient of Determination]], referred as $R^2$:
-
-$$
-R^2 = 
-$$
+To **evaluate a *linear regression model***, the most used metric is the [[Coefficient of Determination]], referred as $R^2$, which capt
 
 
 
