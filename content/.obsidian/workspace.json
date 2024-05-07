@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Linearization.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -91,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Linearization.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Linearization.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Linearization.md"
+                "file": "Personal/Linux/Fn Lock.md"
               }
             }
           }
@@ -151,8 +150,8 @@
   "active": "b0c56225e5ae2b59",
   "lastOpenFiles": [
     "Pasted image 20240506070500.png",
+    "Statistics/Statistical Modelling/Data Linearization.md",
     "Machine Learning/Linear Regression.md",
-    "Data Linearization.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Statistics/Statistics.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
@@ -195,7 +194,6 @@
     "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/Images/js data types.png",
-    "Software Engineering/Images/stop doing js.png",
     "Untitled.canvas"
   ]
 }
