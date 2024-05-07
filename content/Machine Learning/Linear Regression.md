@@ -1,3 +1,4 @@
+
 # What is it?
  
 *Linear regression* is a widely used [[Statistical Modelling|statistical model]] used to determine the [[Correlation]] between a *dependent variable*, that you're **trying to predict**, and a *independent variable*, which you're **basing the prediction on**.
@@ -28,6 +29,10 @@ However, there are **four main assumptions** related with a *linear regression m
 
 - ##### Independence and Normality
 	For any value of $x, y$, the data **must be i.i.d.**, *independent and identically distributed*.
+
+>[!tip] Making data linear
+> While it may be not the best choice, it's possible to **linearize data** so that it fits in the assumptions made. The process is called [[Data Linearization]].
+
 ___
 ## Estimating the model parameters
 
@@ -67,15 +72,13 @@ $$
 ___
 # Evaluating a linear regression model
 
-To **evaluate a *linear regression model***, the most used metric is the [[Coefficient of Determination]], referred as $R^2$, which capt
+To **evaluate a *linear regression model***, the most used metric is the [[Coefficient of Determination]], referred as $R^2$, which captures the **explained [[Variance]] in the model**.
 
+One can also use other metrics like [[Mean Squared Error]], or [[Mean Absolute Error]] to determine the *goodness of fit*.
+___
 
+# Other reference
 
+- ##### [Sobre a Regressão Linear](https://medium.com/@luccleandro/sobre-a-regressão-linear-74572c602ffc) - Own Medium post.
 
-
-
-
-
-
-
- For now, content with portuguese content https://medium.com/@luccleandro/sobre-a-regressão-linear-74572c602ffc
+- ##### [Regressão Linear](https://matheusfacure.github.io/2017/02/15/MQO-formula-analitica/) - Matheus Facure

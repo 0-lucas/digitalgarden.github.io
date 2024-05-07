@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Data Linearization.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Data Linearization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Data Linearization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Linear Regression.md"
+                "file": "Data Linearization.md"
               }
             }
           }
@@ -148,21 +148,23 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "b0c56225e5ae2b59",
   "lastOpenFiles": [
+    "Pasted image 20240506070500.png",
+    "Machine Learning/Linear Regression.md",
+    "Data Linearization.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Statistics/Statistics.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Statistics/Statistical Modelling/Coefficient of Determination.md",
     "Statistics/Images/r squared.png",
     "Statistics/Images/linear regression example.png",
-    "Machine Learning/Linear Regression.md",
     "index.md",
     "Mathematics/Calculus/Derivatives.md",
     "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Statistics/Statistical Modelling/Linear Regression.md",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Personal/Primavera/Primeira impressão.md",
     "Personal/Primavera",
     "Software Engineering/ASP.NET MVC/Routing.md",
@@ -183,8 +185,6 @@
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
-    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/Parameters as Reference.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
