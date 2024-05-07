@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "image_centering",
     "bigger_latex"

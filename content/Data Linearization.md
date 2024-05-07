@@ -7,5 +7,8 @@ ___
 For  $y = a * x^\alpha$ models, we can apply [[Logarithms]] to *linearize* the data.
 
 $$
-\ln 
+\begin{align}
+&\ln y =\ln a *x^a \\
+&\ln y = \ln a + a* \ln x
+\end{align}
 $$
