@@ -23,11 +23,9 @@
             "id": "b0c56225e5ae2b59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Personal/Linux/Fn Lock.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/Modern introduction to probability and statistics.pdf"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Linux/Fn Lock.md",
+                "file": "My Books/Modern introduction to probability and statistics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Linux/Fn Lock.md",
+                "file": "My Books/Modern introduction to probability and statistics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Linux/Fn Lock.md"
+                "file": "My Books/Modern introduction to probability and statistics.pdf"
               }
             }
           }
@@ -149,10 +147,15 @@
   },
   "active": "b0c56225e5ae2b59",
   "lastOpenFiles": [
+    "List of Books.md",
+    "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
+    "Probability.md",
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
+    "Statistics/Probabiity Distributions/Binomial Distribution.md",
+    "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
     "Statistics/Statistical Modelling/Data Linearization.md",
     "Machine Learning/Linear Regression.md",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Statistics/Statistics.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Statistics/Statistical Modelling/Coefficient of Determination.md",
@@ -160,7 +163,6 @@
     "Statistics/Images/linear regression example.png",
     "index.md",
     "Mathematics/Calculus/Derivatives.md",
-    "List of Books.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Statistics/Statistical Modelling/Linear Regression.md",
@@ -181,9 +183,6 @@
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/CLR.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
-    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
-    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
@@ -191,7 +190,6 @@
     "Software Engineering/C-Sharp/Untitled",
     "My Books/Modern introduction to probability and statistics.pdf",
     "My Books/JavaScriptNotesForProfessionals.pdf",
-    "My Books/CSSNotesForProfessionals.pdf",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/Images/js data types.png",
     "Untitled.canvas"
