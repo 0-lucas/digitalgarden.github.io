@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33bc29a2cc149cb4",
+        "id": "5b8035f1b0df4f62",
         "type": "tabs",
         "children": [
           {
-            "id": "736a6e415431600e",
+            "id": "520b7c0a654977f6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -136,15 +128,52 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "736a6e415431600e",
+  "floating": {
+    "id": "7b9e54103015a649",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e4dd778bac81fdc4",
+        "type": "window",
+        "children": [
+          {
+            "id": "2db10ecd2baa4d80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "736a6e415431600e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1664,
+        "y": 13,
+        "width": 813,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "520b7c0a654977f6",
   "lastOpenFiles": [
+    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Statistics/Probability.md",
     "Statistics/Statistics.md",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
-    "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
     "Statistics/Statistical Modelling/Data Linearization.md",
