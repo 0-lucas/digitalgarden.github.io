@@ -18,19 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b0c56225e5ae2b59",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,11 +57,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -88,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf",
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Modern introduction to probability and statistics.pdf"
+                "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
               }
             }
           }
@@ -145,18 +136,19 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "b0c56225e5ae2b59",
+  "active": "736a6e415431600e",
   "lastOpenFiles": [
+    "My Books/Modern introduction to probability and statistics.pdf",
+    "Statistics/Probability.md",
+    "Statistics/Statistics.md",
+    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
-    "Probability.md",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
-    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
     "Statistics/Statistical Modelling/Data Linearization.md",
     "Machine Learning/Linear Regression.md",
-    "Statistics/Statistics.md",
     "My Books/Practical Statistics for Data Scientists.pdf",
     "Statistics/Statistical Modelling/Coefficient of Determination.md",
     "Statistics/Images/r squared.png",
@@ -188,7 +180,6 @@
     "Software Engineering/Images/mvc.png",
     "Software Engineering/ASP.NET MVC",
     "Software Engineering/C-Sharp/Untitled",
-    "My Books/Modern introduction to probability and statistics.pdf",
     "My Books/JavaScriptNotesForProfessionals.pdf",
     "Software Engineering/Images/DOM example.png",
     "Software Engineering/Images/js data types.png",
