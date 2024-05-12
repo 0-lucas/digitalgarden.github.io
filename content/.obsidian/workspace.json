@@ -156,10 +156,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1664,
-        "y": 13,
-        "width": 813,
-        "height": 600,
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0.5
       }
