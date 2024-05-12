@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8035f1b0df4f62",
+        "id": "2ea09075d67ed85d",
         "type": "tabs",
         "children": [
           {
-            "id": "520b7c0a654977f6",
+            "id": "7936c097b5f06026",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Time Series Forecasting in Python.pdf"
+              }
             }
           }
         ]
@@ -53,13 +55,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -75,6 +75,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Books/Time Series Forecasting in Python.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Books/Time Series Forecasting in Python.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Books/Time Series Forecasting in Python.pdf"
+              }
             }
           }
         ],
@@ -128,51 +132,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "floating": {
-    "id": "7b9e54103015a649",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e4dd778bac81fdc4",
-        "type": "window",
-        "children": [
-          {
-            "id": "2db10ecd2baa4d80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "736a6e415431600e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf"
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "520b7c0a654977f6",
+  "active": "7936c097b5f06026",
   "lastOpenFiles": [
+    "List of Books.md",
+    "My Books/Practical Time Series Analysis.pdf",
+    "My Books/Forecasting Principles and Practice.pdf",
+    "My Books/Time Series Forecasting in Python.pdf",
+    "index.md",
+    "homeimage.png",
+    "My Books/Demand Forecasting for Inventory Control.pdf",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Statistics/Probability.md",
     "Statistics/Statistics.md",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
-    "List of Books.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
     "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
@@ -182,7 +155,6 @@
     "Statistics/Statistical Modelling/Coefficient of Determination.md",
     "Statistics/Images/r squared.png",
     "Statistics/Images/linear regression example.png",
-    "index.md",
     "Mathematics/Calculus/Derivatives.md",
     "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
@@ -204,14 +176,9 @@
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/CLR.md",
-    "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
-    "Software Engineering/ASP.NET MVC",
-    "Software Engineering/C-Sharp/Untitled",
-    "My Books/JavaScriptNotesForProfessionals.pdf",
     "Software Engineering/Images/DOM example.png",
-    "Software Engineering/Images/js data types.png",
     "Untitled.canvas"
   ]
 }

@@ -59,6 +59,9 @@ ___
 - [[Natural_Language_Processing_with_Python.pdf|Natural Language Processing with Python]]
 - [[Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf|Real World Natural Language Processing]]
 ## Time Series
+- [[Time Series Forecasting in Python.pdf|Time Series Forecasting in Python]]
+- [[Practical Time Series Analysis.pdf|Practical Time Series Analysis]]
+- [[Forecasting Principles and Practice.pdf|Forecasting: Principles and Practice]]
 - [[Demand Forecasting for Inventory Control.pdf|Demand Forecasting for Inventory Control]]
 ___
 # Data Engineering
