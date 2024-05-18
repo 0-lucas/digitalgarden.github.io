@@ -11,9 +11,11 @@
             "id": "7936c097b5f06026",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Books/Time Series Forecasting in Python.pdf"
+                "file": "Statistics/Statistical Modelling/ANOVA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Time Series Forecasting in Python.pdf",
+                "file": "Statistics/Statistical Modelling/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Time Series Forecasting in Python.pdf",
+                "file": "Statistics/Statistical Modelling/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Time Series Forecasting in Python.pdf"
+                "file": "Statistics/Statistical Modelling/ANOVA.md"
               }
             }
           }
@@ -132,19 +134,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "7936c097b5f06026",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/Central Limit Theorem.md",
+    "Statistics/Statistics.md",
+    "My Books/Time Series Forecasting in Python.pdf",
     "List of Books.md",
     "My Books/Practical Time Series Analysis.pdf",
     "My Books/Forecasting Principles and Practice.pdf",
-    "My Books/Time Series Forecasting in Python.pdf",
     "index.md",
     "homeimage.png",
     "My Books/Demand Forecasting for Inventory Control.pdf",
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Statistics/Probability.md",
-    "Statistics/Statistics.md",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
     "Personal/Linux/Fn Lock.md",
