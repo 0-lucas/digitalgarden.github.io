@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea09075d67ed85d",
+        "id": "5bbc9d7007c4c01e",
         "type": "tabs",
         "children": [
           {
-            "id": "7936c097b5f06026",
+            "id": "e865c165258320e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statistics/Statistical Modelling/ANOVA.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,8 +126,9 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "e865c165258320e1",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/ANOVA.md",
     "Statistics/Statistical Modelling/Central Limit Theorem.md",
     "Statistics/Statistics.md",
     "My Books/Time Series Forecasting in Python.pdf",
@@ -178,7 +171,6 @@
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
-    "Software Engineering/C-Sharp/CLR.md",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
     "Software Engineering/Images/DOM example.png",

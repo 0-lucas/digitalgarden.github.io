@@ -31,7 +31,7 @@ ___
 ## Check fitting and residuals
 
 Metrics like [[Coefficient of Determination|R squared]] can help to determine if the fitting explained the [[Variance]] present in the data, while **plotting residuals** and checking [[Heteroscedasticity]], [[Normal Distribution|normality]] and if **are there any systematic pattern**, can help to determine if the model didn't capture some relationship.
-___
+
 
 
 
