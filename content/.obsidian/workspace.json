@@ -11,8 +11,12 @@
             "id": "e865c165258320e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md"
+              }
             }
           }
         ],
@@ -128,6 +136,9 @@
   },
   "active": "e865c165258320e1",
   "lastOpenFiles": [
+    "Statistics/Images/t-distribution.png",
+    "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Statistics/Statistical Modelling/ANOVA.md",
     "Statistics/Statistical Modelling/Central Limit Theorem.md",
     "Statistics/Statistics.md",
@@ -141,7 +152,6 @@
     "My Books/(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf",
     "My Books/Modern introduction to probability and statistics.pdf",
     "Statistics/Probability.md",
-    "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "My Books/Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf",
     "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
@@ -169,11 +179,8 @@
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/Images/mvc example.png",
     "Software Engineering/Images/mvc.png",
-    "Software Engineering/Images/DOM example.png",
     "Untitled.canvas"
   ]
 }
