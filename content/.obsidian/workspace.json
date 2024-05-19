@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+                "file": "Statistics/Probabiity Distributions/Student's t-Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+                "file": "Statistics/Probabiity Distributions/Student's t-Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+                "file": "Statistics/Probabiity Distributions/Student's t-Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Probabiity Distributions/Student's t-Distribution.md"
+                "file": "Statistics/Probabiity Distributions/Student's t-Value.md"
               }
             }
           }
@@ -134,10 +134,11 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e865c165258320e1",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
-    "Statistics/Images/t-distribution.png",
     "Statistics/Probabiity Distributions/Student's t-Distribution.md",
+    "Statistics/Probabiity Distributions/Student's t-Value.md",
+    "Statistics/Images/t-distribution.png",
     "Statistics/Probabiity Distributions/Binomial Distribution.md",
     "Statistics/Statistical Modelling/ANOVA.md",
     "Statistics/Statistical Modelling/Central Limit Theorem.md",

@@ -15,6 +15,11 @@ ___
 # Probability Density Function
 
 The *Student t-distribution* has the [[Probability Density Function]] given by:
+
 $$
-f(t) = \frac{\}{}
+f(t) = \frac{\Gamma(\frac{v + 1}{2})}{\sqrt{\pi v} * \Gamma(\frac{v}{2})}\left(1 + \frac{t^2}{v}\right)^{-(v + 1) / 2}
 $$
+
+Where $\Gamma$ is the [Gamma function](https://en.wikipedia.org/wiki/Gamma_function), $v$ is the number of *degrees of freedom* and $t$ is the [[Student's t-Value]].
+___
+
