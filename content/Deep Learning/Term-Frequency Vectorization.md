@@ -13,4 +13,23 @@ $$
 V_{words} = [time, flies, like, fruit]
 $$
 
-Now, we count the presence of each word and assign its **sum to its corresponding index**. Because the word `flies` appear twice, we have a **single index** for it and assign the count of $2$.
+Now, we count the presence of each word and assign its **sum to its corresponding index**. Because the word `flies` appear twice, we have a **single index** for it and assign the count of $2$, resulting in:
+
+$$
+V_{count} = [1,2,1,1]
+$$
+
+>[!caution] Applying to a dataset
+> When applying *TF* methods to an entire dataset, one would first create a **vector with all possible words**. This results in sentences with a lot of $0s$ on it.
+> Another common practice is to transform all words to lower and remove punctuation before applying a *vectorization method*.
+
+___
+
+# Applying in Python
+
+One can easily apply a *Term-frequency* method in [[Python]], using [[scikit-learn]] as the [[Machine Learning]] framework:
+
+```python
+
+
+```
