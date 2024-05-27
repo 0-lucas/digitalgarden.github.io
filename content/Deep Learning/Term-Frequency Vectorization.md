@@ -13,4 +13,4 @@ $$
 V_{words} = [time, flies, like, fruit]
 $$
 
-Now, we count the presence of each word and assign its **sum to its corresponding index**. Because the word ``
+Now, we count the presence of each word and assign its **sum to its corresponding index**. Because the word `flies` appear twice, we have a **single index** for it and assign the count of $2$.
