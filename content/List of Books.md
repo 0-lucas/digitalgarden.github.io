@@ -58,6 +58,7 @@ ___
 ## Natural Language Processing — NLP
 - [[Natural_Language_Processing_with_Python.pdf|Natural Language Processing with Python]]
 - [[Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf|Real World Natural Language Processing]]
+- [[Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf|Natural Language Processing with PyTorch]]
 ## Time Series
 - [[Time Series Forecasting in Python.pdf|Time Series Forecasting in Python]]
 - [[Practical Time Series Analysis.pdf|Practical Time Series Analysis]]
