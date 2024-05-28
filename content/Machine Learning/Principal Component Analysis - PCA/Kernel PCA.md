@@ -1,4 +1,3 @@
-
 [[PCA]] in itself uses *projection*, which is a **linear method**. Because of it, the performance on **non-linear data** is not optimal. That's where *Kernel PCA* comes in.
 ___
 # What is it?

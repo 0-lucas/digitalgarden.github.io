@@ -11,11 +11,9 @@
             "id": "e865c165258320e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Deep Learning/Term-Frequency Vectorization.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
               }
             }
           },
@@ -23,13 +21,16 @@
             "id": "53736c7b93931923",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
+                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Term-Frequency Vectorization.md",
+                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Term-Frequency Vectorization.md",
+                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Term-Frequency Vectorization.md"
+                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md"
               }
             }
           }
@@ -145,14 +145,28 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e865c165258320e1",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Machine Learning/Deep Learning/Images/tf idf.png",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
-    "Deep Learning/Term-Frequency Vectorization.md",
+    "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
+    "Machine Learning/Deep Learning/Term-Frequency.md",
+    "Machine Learning/Deep Learning/One-Hot Vectorization.md",
+    "List of Books.md",
+    "Machine Learning/Mutual Information.md",
+    "Machine Learning/Entropy.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
+    "Machine Learning/Principal Component Analysis - PCA/Kernel PCA.md",
+    "Machine Learning/Principal Component Analysis - PCA/PCA.md",
+    "Machine Learning/Principal Component Analysis - PCA",
+    "Machine Learning/Outlier Removal.md",
+    "Machine Learning/scikit-learn.md",
+    "Machine Learning/Deep Learning/Images/tf example.png",
+    "Machine Learning/Deep Learning/Images",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
     "Deep Learning/Vectorizing Words.md",
-    "List of Books.md",
-    "Deep Learning",
+    "Machine Learning/Deep Learning",
     "Statistics/Probabiity Distributions/Student's t-Distribution.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf.crdownload",
     "My Books/Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf",
@@ -165,33 +179,20 @@
     "Statistics/Statistical Modelling/Central Limit Theorem.md",
     "Statistics/Statistics.md",
     "My Books/Time Series Forecasting in Python.pdf",
-    "My Books/Practical Time Series Analysis.pdf",
-    "My Books/Forecasting Principles and Practice.pdf",
     "index.md",
     "homeimage.png",
     "Statistics/Probability.md",
     "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
     "Statistics/Statistical Modelling/Data Linearization.md",
-    "Machine Learning/Linear Regression.md",
     "Statistics/Statistical Modelling/Coefficient of Determination.md",
     "Statistics/Images/r squared.png",
     "Statistics/Images/linear regression example.png",
     "Mathematics/Calculus/Derivatives.md",
-    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
-    "Statistics/Statistical Modelling/Linear Regression.md",
-    "Personal/Primavera/Primeira impressão.md",
-    "Software Engineering/ASP.NET MVC/Routing.md",
-    "Software Engineering/ASP.NET MVC/Controllers.md",
-    "Personal/Project.md",
-    "Software Engineering/ASP.NET MVC/MVC.md",
-    "Software Engineering/ASP.NET MVC/Services.md",
-    "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Software Engineering/Images/dependency injection.png",
     "Pasted image 20240427112911.png",
     "Software Engineering/Images/ASP middleware.png",
     "Software Engineering/Images/mvc example.png",
-    "Software Engineering/Images/mvc.png",
     "Untitled.canvas"
   ]
 }
