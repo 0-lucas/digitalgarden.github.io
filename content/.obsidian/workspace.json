@@ -10,27 +10,16 @@
           {
             "id": "e865c165258320e1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
-              }
-            }
-          },
-          {
-            "id": "53736c7b93931923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +114,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/Inverse-Document-Frequency.md"
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f6499aac793d69df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ae1ae4157dca66",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,24 +147,38 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "e865c165258320e1",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/Images/tf idf.png",
+    "Machine Learning/Deep Learning/Tensors.md",
+    "Machine Learning/Principal Component Analysis - PCA/tensors.png",
+    "Pasted image 20240528074807.png",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "List of Books.md",
+    "Machine Learning/Deep Learning/Deep Learning.md",
+    "Machine Learning/Images/stop doing deep learning.png",
+    "Machine Learning/Images/tf example.png",
+    "Machine Learning/Images/tf idf.png",
+    "Machine Learning/Machine Learning.md",
     "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
     "Machine Learning/Deep Learning/Term-Frequency.md",
-    "Machine Learning/Deep Learning/One-Hot Vectorization.md",
-    "List of Books.md",
-    "Machine Learning/Mutual Information.md",
-    "Machine Learning/Entropy.md",
     "Machine Learning/Linear Regression.md",
+    "Machine Learning/Entropy.md",
+    "Software Engineering/Python/Python.md",
+    "Software Engineering/C-Sharp/C-Sharp.md",
+    "Software Engineering/Python",
+    "Statistics/Statistical Modelling/One-Way ANOVA.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Personal/Linux/Fn Lock.md",
+    "Personal/Project.md",
+    "Personal/Primavera/Primeira impressão.md",
+    "Machine Learning/Deep Learning/One-Hot Vectorization.md",
+    "Machine Learning/Mutual Information.md",
     "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
     "Machine Learning/Principal Component Analysis - PCA/Kernel PCA.md",
     "Machine Learning/Principal Component Analysis - PCA/PCA.md",
     "Machine Learning/Principal Component Analysis - PCA",
     "Machine Learning/Outlier Removal.md",
     "Machine Learning/scikit-learn.md",
-    "Machine Learning/Deep Learning/Images/tf example.png",
     "Machine Learning/Deep Learning/Images",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
     "Deep Learning/Vectorizing Words.md",
@@ -174,25 +190,10 @@
     "My Books/Hands-on-Machine-Learning.pdf",
     "My Books/Programming PyTorch for Deep Learning Creating and Deploying Deep Learning Applications (Ian Pointer).pdf",
     "Statistics/Images/t-distribution.png",
-    "Statistics/Probabiity Distributions/Binomial Distribution.md",
-    "Statistics/Statistical Modelling/ANOVA.md",
-    "Statistics/Statistical Modelling/Central Limit Theorem.md",
-    "Statistics/Statistics.md",
-    "My Books/Time Series Forecasting in Python.pdf",
-    "index.md",
     "homeimage.png",
-    "Statistics/Probability.md",
-    "Personal/Linux/Fn Lock.md",
     "Pasted image 20240506070500.png",
-    "Statistics/Statistical Modelling/Data Linearization.md",
-    "Statistics/Statistical Modelling/Coefficient of Determination.md",
     "Statistics/Images/r squared.png",
     "Statistics/Images/linear regression example.png",
-    "Mathematics/Calculus/Derivatives.md",
-    "Software Engineering/Images/dependency injection.png",
-    "Pasted image 20240427112911.png",
-    "Software Engineering/Images/ASP middleware.png",
-    "Software Engineering/Images/mvc example.png",
     "Untitled.canvas"
   ]
 }

@@ -14,24 +14,28 @@ ___
 
 Contrary to what the buzzwords say, *machine learning* has been around for some decades already. *Optical Character Recognition* (OCR) and *e-mail spam detection* are some of the **first applications** that can be considered *machine learning*.
 ___
-
-Below, some notes separated by its categories:
-
 ### Metrics
 - [[Entropy]]
 - [[Mutual Information]]
-___
+
 ### Supervised Learning
 - [[Machine Learning/Linear Regression]]
-___
+
 ### Unsupervised Learning
 - [[Dimensionality Reduction]]
 - [[PCA]]
 - [[Kernel PCA]]
-___
+
 ### Data Centric AI
 - [[Data-Centric AI]]
 - [[Data-Centric Evaluation]]
 - [[Confident Learning]]
 - [[Class Imbalance]]
 - [[Underperforming Subpopulations]]
+
+### Natural Language Processing
+- [[Term-Frequency]]
+- [[Inverse-Document-Frequency]]
+
+### Deep Learning
+- [[Deep Learning]]
