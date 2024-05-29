@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +148,7 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e865c165258320e1",
+  "active": "010ca68019f3cfd3",
   "lastOpenFiles": [
     "Machine Learning/Deep Learning/Tensors.md",
     "Machine Learning/Principal Component Analysis - PCA/tensors.png",
