@@ -18,3 +18,17 @@ $$
 # Implementing with PyTorch
 
 One can easily implement a *perceptron* algorithm using [[PyTorch]]:
+
+```python
+import torch
+from torch import nn
+
+class Perceptron(nn.Module):
+	def __init__(self, input_dimension):
+		super(Perceptron, self).__init__()
+		self.fcl = nn.Linear(input_dimension, 1)
+		
+	def forward(self, x):
+		# Using a sigmoid activation function
+		return torch.sigmoid(self.fcl(x)).squeeze()
+```
