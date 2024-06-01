@@ -18,8 +18,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a409bc1743d244f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Natural Language Processing/Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "Machine Learning/Natural Language Processing/Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "Machine Learning/Natural Language Processing/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
+                "file": "Machine Learning/Natural Language Processing/Natural Language Processing.md"
               }
             }
           }
@@ -148,19 +161,24 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "010ca68019f3cfd3",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Machine Learning/Images/stop doing nlp.png",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "Machine Learning/Natural Language Processing/Natural Language Processing.md",
+    "Machine Learning/Deep Learning/Computational Graphs.md",
+    "Machine Learning/Natural Language Processing",
+    "Machine Learning/Images/computational graph.png",
     "Machine Learning/Deep Learning/Tensors.md",
+    "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Deep Learning/Deep Learning.md",
     "Machine Learning/Principal Component Analysis - PCA/tensors.png",
     "Pasted image 20240528074807.png",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "List of Books.md",
-    "Machine Learning/Deep Learning/Deep Learning.md",
     "Machine Learning/Images/stop doing deep learning.png",
     "Machine Learning/Images/tf example.png",
     "Machine Learning/Images/tf idf.png",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
     "Machine Learning/Deep Learning/Term-Frequency.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Entropy.md",
@@ -182,19 +200,15 @@
     "Machine Learning/scikit-learn.md",
     "Machine Learning/Deep Learning/Images",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
-    "Deep Learning/Vectorizing Words.md",
     "Machine Learning/Deep Learning",
-    "Statistics/Probabiity Distributions/Student's t-Distribution.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf.crdownload",
     "My Books/Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf",
     "My Books/Natural_Language_Processing_with_Python.pdf",
     "My Books/Hands-on-Machine-Learning.pdf",
-    "My Books/Programming PyTorch for Deep Learning Creating and Deploying Deep Learning Applications (Ian Pointer).pdf",
     "Statistics/Images/t-distribution.png",
     "homeimage.png",
     "Pasted image 20240506070500.png",
     "Statistics/Images/r squared.png",
-    "Statistics/Images/linear regression example.png",
     "Untitled.canvas"
   ]
 }
