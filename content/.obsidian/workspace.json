@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dfeb7775908c792",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -89,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
               }
             }
           }
@@ -160,10 +172,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e865c165258320e1",
+  "active": "0dfeb7775908c792",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/Perceptron.md",
+    "List of Books.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Machine Learning/Deep Learning/Perceptron.md",
     "Machine Learning/Images/perceptron.png",
     "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
     "Machine Learning/Deep Learning/Untitled",
@@ -177,7 +191,6 @@
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Principal Component Analysis - PCA/tensors.png",
     "Pasted image 20240528074807.png",
-    "List of Books.md",
     "Machine Learning/Images/stop doing deep learning.png",
     "Machine Learning/Images/tf example.png",
     "Machine Learning/Images/tf idf.png",
@@ -204,7 +217,6 @@
     "Machine Learning/Deep Learning",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf.crdownload",
     "My Books/Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf",
-    "My Books/Natural_Language_Processing_with_Python.pdf",
     "Statistics/Images/t-distribution.png",
     "homeimage.png",
     "Untitled.canvas"
