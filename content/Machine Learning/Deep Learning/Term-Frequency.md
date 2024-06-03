@@ -1,6 +1,6 @@
 # What is it?
 
-The *Term-frequency representation*, also referred as *TF*, for short, is a way of **representing sentences in [[Vectors]]**, **counting each word** and adding to the its index in the vector. It's different from the [One-Hot vectorization](https://www.geeksforgeeks.org/ml-one-hot-encoding/), where a index can go up to an infinite sum of its present words.
+The *Term-frequency representation*, also referred to as *TF*, for short, is a way of **representing sentences in [[Vectors]]**, **counting each word** and adding to its index in the vector. It's different from the [One-Hot vectorization](https://www.geeksforgeeks.org/ml-one-hot-encoding/), where an index can go up to an infinite sum of its present words.
 
 It's widely used in [[Natural Language Processing]] and [[Large Language Models]] for [[Deep Learning]] purposes.
 ___
@@ -23,7 +23,7 @@ $$
 > When applying *TF* methods to an entire dataset, one would first create a **vector with all possible words**. This results in sentences with a lot of $0s$ on it.
 > Another common practice is to transform all words to lower and remove punctuation before applying a *vectorization method*.
 
-The most frequent words will have **higher weights** applied to them, meaning that they are **more important to the model**. However, very common words may not actually be important, and rare words are.
+The most frequent words will have **higher weights** applied to them, meaning that they are **more important to the model**. However, very common words may not actually be significant, and rare words are.
 
 In these cases, **one may prefer** to use [[Inverse-Document-Frequency]].
 ___
