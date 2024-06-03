@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "ae5bcc724c3a2cea",
+            "id": "6e4ba6478bb2e77e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,11 +173,17 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "ae5bcc724c3a2cea",
+  "active": "6e4ba6478bb2e77e",
   "lastOpenFiles": [
-    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
+    "Software Engineering/Images/big o example.png",
+    "Software Engineering/Images/big o notation.png",
+    "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
     "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+    "Software Engineering/Images/algorithm complexity.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Pasted image 20240603201630.png",
+    "Pasted image 20240603201058.png",
+    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Images/algorithms.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures.md",
     "Machine Learning/Deep Learning/Computational Graphs.md",
@@ -200,9 +206,6 @@
     "Machine Learning/Deep Learning/Tensors.md",
     "Machine Learning/Principal Component Analysis - PCA/tensors.png",
     "Pasted image 20240528074807.png",
-    "Machine Learning/Images/stop doing deep learning.png",
-    "Machine Learning/Images/tf example.png",
-    "Machine Learning/Images/tf idf.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Entropy.md",
     "Software Engineering/Python/Python.md",
@@ -214,13 +217,10 @@
     "Personal/Project.md",
     "Personal/Primavera/Primeira impressão.md",
     "Machine Learning/Deep Learning/One-Hot Vectorization.md",
-    "Machine Learning/Mutual Information.md",
-    "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
     "Machine Learning/Principal Component Analysis - PCA",
     "Machine Learning/Deep Learning/Images",
     "Machine Learning/Deep Learning",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf.crdownload",
-    "Statistics/Images/t-distribution.png",
     "Untitled.canvas"
   ]
 }
