@@ -173,8 +173,9 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6e4ba6478bb2e77e",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Software Engineering/Images/big o graph.png",
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
@@ -205,7 +206,6 @@
     "Machine Learning/Images/computational graph.png",
     "Machine Learning/Deep Learning/Tensors.md",
     "Machine Learning/Principal Component Analysis - PCA/tensors.png",
-    "Pasted image 20240528074807.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Entropy.md",
     "Software Engineering/Python/Python.md",
