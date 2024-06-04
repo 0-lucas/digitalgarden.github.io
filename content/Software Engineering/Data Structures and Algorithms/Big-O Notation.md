@@ -13,7 +13,7 @@ To write a *Big-O notation* of any mathematical function describing an [[Algorit
 
 ![[big o example.png]]
 
-*Big-O* is not a direct translation of the time it'll take to run an [[Algorithms|algorithm]]. The time needed to run any step is **directly dependent on the hardware** laco forand **on the data size** $n$.
+*Big-O* is not a direct translation of the time it'll take to run an [[Algorithms|algorithm]]. The time needed to run any step is **directly dependent on the hardware**  and **on the data size** $n$.
 
 A bigger *Big-O* value means that the [[Algorithms|algorithm]] is **more complex**, taking more time to run.
 
@@ -49,4 +49,9 @@ The *divide and conquer* strategy is based on **reducing the original dimension 
 
 This commonly reduces the complexity of a $O(n)$ [[Algorithms|algorithm]] to $O(\log n)$. This happens because instead of going to every possible data point, we can **recursively solve smaller problems** and **combine them** to find the **answer of the original problem.**
 ___
-## R
+## Recursive complexity
+
+To find the *time complexity* of a *recursive [[Algorithms|algorithm]]*, one can follow some steps:
+
+- ##### Calculate the complexity of a single function call
+- ##### Find how many times the recursion is called for each objeect

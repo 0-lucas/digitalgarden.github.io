@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
+                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md"
               }
             }
           }
@@ -173,8 +173,9 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "6e4ba6478bb2e77e",
   "lastOpenFiles": [
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/divide conquer.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
@@ -198,13 +199,11 @@
     "Machine Learning/Natural Language Processing/Natural Language Processing.md",
     "Software Engineering/Kubernetes/Microservices.md",
     "Software Engineering/Data Structures and Algorithms",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "List of Books.md",
     "Machine Learning/Images/perceptron.png",
     "Machine Learning/Deep Learning/Untitled",
     "Machine Learning/Images/stop doing nlp.png",
     "Machine Learning/Natural Language Processing",
-    "Machine Learning/Images/computational graph.png",
     "Machine Learning/Deep Learning/Tensors.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Entropy.md",
