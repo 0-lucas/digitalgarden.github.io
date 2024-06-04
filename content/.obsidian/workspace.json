@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md"
               }
             }
           }
@@ -173,20 +173,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "6e4ba6478bb2e77e",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
+    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
+    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Images/big o graph.png",
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
-    "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
-    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
     "Software Engineering/Images/algorithm complexity.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Pasted image 20240603201630.png",
     "Pasted image 20240603201058.png",
-    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Images/algorithms.png",
-    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
     "Machine Learning/Deep Learning/Computational Graphs.md",
     "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
     "Machine Learning/Machine Learning.md",
@@ -205,7 +205,6 @@
     "Machine Learning/Natural Language Processing",
     "Machine Learning/Images/computational graph.png",
     "Machine Learning/Deep Learning/Tensors.md",
-    "Machine Learning/Principal Component Analysis - PCA/tensors.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Entropy.md",
     "Software Engineering/Python/Python.md",

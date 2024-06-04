@@ -23,8 +23,20 @@ ___
 
 To discover the *Big-O notation* of any given [[Algorithms|algorithm]], one need to analyze the operation done in the code.
 
-- ##### No repetition
+- #### No repetition
 	For any code that doesn't contain a *repetition structure*, like the `for loop` or a [[Recursion]], with **no dependency of the input data**, the *Big-O* notation is $O(1)$.
 
-- ##### Single repetition
-	A code that walk through every single data point, performing a given procedure, only once, can be considered $$
+- #### Single repetition
+	A code that **walks through every single data point**, performing a given procedure, **only once**, can be considered $O(n)$.
+
+>[!tip] The sum property
+> Every time a code block follows **another independent code block**, each *Big-O* notation is summed. 
+> However, a **sum doesn't change the order** of the *Big-O* function.
+
+- #### Nested repetition
+	*Nested repetition structures* walk through **every single data point for every data point**. So a `for loop` inside another `for loop` results in $O(n^2)$
+
+>[!tip] The multiplication property
+> A *nested* code block inside another code block creates a *dependency relationship* between blocks. In this case, each *Big-O* notation in multiplied.
+> For a number of nesting $i$, the *Big-O* notation is $O(n^i)$. 
+
