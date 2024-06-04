@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md",
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Algorithms.md"
+                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
               }
             }
           }
@@ -173,12 +173,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6e4ba6478bb2e77e",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Software Engineering/Images/divide conquer.png",
+    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
     "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Images/big o graph.png",
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
