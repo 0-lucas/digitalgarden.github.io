@@ -4,7 +4,8 @@
 
 ![[big o notation.png]]
 
-When using *Big-O*, is also known as the **worst case scenario** of an [[Algorithms|algorithm]], which can be affected by how the data is presented — if it's sorted, distinct, etc.
+When using *Big-O*, is also known as the **worst case scenario** of an [[Algorithms|algorithm]], which can be affected
+ by how the data is presented — if it's sorted, distinct, etc.
 
 ___
 # Understanding Big-O
@@ -54,4 +55,5 @@ ___
 To find the *time complexity* of a *recursive [[Algorithms|algorithm]]*, one can follow some steps:
 
 - ##### Calculate the complexity of a single function call
-- ##### Find how many times the recursion is called for each objeect
+- ##### Find how many times the recursion is called for each object
+- ##### Calculate $O(step1 * (step2)^n)$

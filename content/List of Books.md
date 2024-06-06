@@ -8,12 +8,16 @@ ___
 This is a collection of the main books I use for studying. Enjoy!
 
 # Mathematics
+- [[Thomas Nield - Essential Math for Data Science_ Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics-O'Reilly Media (2022).pdf|Essential Math for Data Science]]
+- [[Mathematics for Machine Learning.pdf|Mathematics for Machine Learning]]
+## Calculus
 - [[James Stewart, Lothar Redlin, Saleem Watson - Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf|Precalculus - Mathematics for Calculus]]
 - [[Calculus Early Transcendentals, 6th Edition (James Stewart).pdf|Calculus - Early Transcendentals]]
 - [[Calculus ALL IN ONE - Mark Ryan.pdf|Calculus All-in-One for Dummies]]
+## Linear Algebra
 - [[Linear Algebra Done Right.pdf|Linear Algebra Done Right]]
-- [[Thomas Nield - Essential Math for Data Science_ Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics-O'Reilly Media (2022).pdf|Essential Math for Data Science]]
-- [[Mathematics for Machine Learning.pdf|Mathematics for Machine Learning]]
+- [[Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf|Practical Linear Algebra for Data Science]]
+- [[Introduction to Applied Linear Algebra.pdf|Introduction to Applied Linear Algebra]]
 ## Statistics
 - [[ISLP_website.pdf|Introduction to Statistical Learning]]
 - [[Introduction to Probability, Statistics, and Random Processes - Hossein Pishro-Nik.pdf|Introduction to Probability, Statistics, and Random Processes]]

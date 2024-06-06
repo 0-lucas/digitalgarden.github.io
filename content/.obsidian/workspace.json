@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "List of Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "List of Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
+                "file": "List of Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Big-O Notation.md"
+                "file": "List of Books.md"
               }
             }
           }
@@ -175,11 +175,14 @@
   },
   "active": "6e4ba6478bb2e77e",
   "lastOpenFiles": [
+    "My Books/Introduction to Applied Linear Algebra.pdf",
+    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/divide conquer.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
-    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures.md",
     "Software Engineering/Images/big o graph.png",
     "Software Engineering/Images/big o example.png",
@@ -211,7 +214,6 @@
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Python",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Personal/Linux/Fn Lock.md",
     "Personal/Project.md",
     "Personal/Primavera/Primeira impressão.md",
@@ -219,7 +221,6 @@
     "Machine Learning/Principal Component Analysis - PCA",
     "Machine Learning/Deep Learning/Images",
     "Machine Learning/Deep Learning",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf.crdownload",
     "Untitled.canvas"
   ]
 }
