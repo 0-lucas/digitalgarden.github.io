@@ -13,4 +13,3 @@ Some topics:
 - [[JavaScript in HTML]]
 - [[Objects in JavaScript]]
 - [[Functions in JavaScript]]
-- [[OOP in JavaScript]]

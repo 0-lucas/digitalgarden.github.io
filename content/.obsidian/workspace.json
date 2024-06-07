@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Books.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Books.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Books.md",
+                "file": "Software Engineering/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Books.md"
+                "file": "Software Engineering/JavaScript/JavaScript.md"
               }
             }
           }
@@ -175,11 +175,18 @@
   },
   "active": "6e4ba6478bb2e77e",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/JavaScript/JavaScript.md",
+    "Software Engineering/JavaScript/JavaScript in HTML.md",
+    "Software Engineering/JavaScript/Functions in JavaScript.md",
+    "Software Engineering/JavaScript/Objects in JavaScript.md",
+    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
+    "List of Books.md",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/divide conquer.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
@@ -188,7 +195,6 @@
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
     "Software Engineering/Images/algorithm complexity.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Pasted image 20240603201630.png",
     "Pasted image 20240603201058.png",
     "Software Engineering/Images/algorithms.png",
@@ -202,7 +208,6 @@
     "Machine Learning/Natural Language Processing/Natural Language Processing.md",
     "Software Engineering/Kubernetes/Microservices.md",
     "Software Engineering/Data Structures and Algorithms",
-    "List of Books.md",
     "Machine Learning/Images/perceptron.png",
     "Machine Learning/Deep Learning/Untitled",
     "Machine Learning/Images/stop doing nlp.png",
@@ -213,14 +218,8 @@
     "Software Engineering/Python/Python.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
     "Software Engineering/Python",
-    "Statistics/Statistical Modelling/One-Way ANOVA.md",
-    "Personal/Linux/Fn Lock.md",
-    "Personal/Project.md",
-    "Personal/Primavera/Primeira impressão.md",
-    "Machine Learning/Deep Learning/One-Hot Vectorization.md",
     "Machine Learning/Principal Component Analysis - PCA",
     "Machine Learning/Deep Learning/Images",
-    "Machine Learning/Deep Learning",
     "Untitled.canvas"
   ]
 }
