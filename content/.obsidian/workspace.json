@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
+                "file": "Software Engineering/C-Sharp/Parameters as Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
+                "file": "Software Engineering/C-Sharp/Parameters as Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
+                "file": "Software Engineering/C-Sharp/Parameters as Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md"
+                "file": "Software Engineering/C-Sharp/Parameters as Reference.md"
               }
             }
           }
@@ -187,10 +187,10 @@
   },
   "active": "b3c8332e6ec46f50",
   "lastOpenFiles": [
+    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/C-Sharp/CLR.md",
     "Software Engineering/C-Sharp/C-Sharp.md",
