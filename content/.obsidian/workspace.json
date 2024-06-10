@@ -32,15 +32,11 @@
             }
           },
           {
-            "id": "bcf898f6d66e7410",
+            "id": "9953470b30ddbe75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,18 +165,26 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "bcf898f6d66e7410",
+  "active": "9953470b30ddbe75",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
+    "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "Software Engineering/Images/merge sort.png",
+    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
+    "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
+    "Software Engineering/Data Structures and Algorithms/Divide and Conquer Algorithm.md",
+    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Sorting Algorithms.md",
+    "Software Engineering/Python/Python.md",
+    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
+    "Software Engineering/Kubernetes/Kubernetes.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
+    "Software Engineering/Images/bubble sort.png",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/sorting.png",
     "Array.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
     "Software Engineering/Data Structures and Algorithms/Sorting",
-    "Software Engineering/Data Structures and Algorithms/Algorithms.md",
-    "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
@@ -197,12 +197,9 @@
     "Software Engineering/Images/stop doing js 1.png",
     "Software Engineering/JavaScript/JavaScript.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
     "Software Engineering/JavaScript/Functions in JavaScript.md",
     "Software Engineering/JavaScript/Objects in JavaScript.md",
-    "Software Engineering/JavaScript/Defining Variables in JavaScript.md",
-    "List of Books.md",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Software Engineering/Images/divide conquer.png",
@@ -210,11 +207,6 @@
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
     "Software Engineering/Images/algorithm complexity.png",
-    "Pasted image 20240603201630.png",
-    "Pasted image 20240603201058.png",
-    "Machine Learning/Deep Learning/Computational Graphs.md",
-    "Machine Learning/Deep Learning/Inverse-Document-Frequency.md",
-    "Machine Learning/Machine Learning.md",
     "Software Engineering/Data Structures and Algorithms",
     "Machine Learning/Deep Learning/Untitled",
     "Machine Learning/Natural Language Processing",

@@ -10,4 +10,4 @@ There are various *sorting methods*, with each having it's own benefits, from **
 ___
 
 - ##### [[Bubble Sort]]
-- 
+- ##### [[Merge Sort]]

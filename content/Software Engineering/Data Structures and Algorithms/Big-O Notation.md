@@ -42,14 +42,6 @@ To discover the *Big-O notation* of any given [[Algorithms|algorithm]], one need
 > For a number of nesting $i$, the *Big-O* notation is $O(n^i)$. 
 
 ___
-## Divide and Conquer algorithms
-
-The *divide and conquer* strategy is based on **reducing the original dimension $n$ of a problem** to other sub-problems, which are **recursively divided** to other sub-problems.
-
-![[divide conquer.png|550]]
-
-This commonly reduces the complexity of a $O(n)$ [[Algorithms|algorithm]] to $O(\log n)$. This happens because instead of going to every possible data point, we can **recursively solve smaller problems** and **combine them** to find the **answer of the original problem.**
-___
 ## Recursive complexity
 
 To find the *time complexity* of a *recursive [[Algorithms|algorithm]]*, one can follow some steps:

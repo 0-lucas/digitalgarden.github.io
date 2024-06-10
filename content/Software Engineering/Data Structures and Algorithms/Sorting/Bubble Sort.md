@@ -1,10 +1,18 @@
 # What is it?
 
-*Bubble sort* is one of the simplest [[Sorting Algorithms]], based in **repeatedly swapping neighbor elements** if they are in the wrong order.
+*Bubble sort* is one of the simplest [[Sorting Algorithms]], based in **repeatedly swapping pair of elements** if they are in the wrong order.
+It can be applied to both **ascending and descending** order, just by changing comparison operators.
 
+![[bubble sort.png]]
+___
+# How does it work?
+
+Given an numerical [[Array]], the [[Algorithms|algorithm]] starts by **iterating through the whole array**, checking if the **current element and the next is out of order** and **swapping if necessary**.
 For **each data point**, it iterates through the whole [[Array]]. This creates an $O(n^2)$ complexity, **running through every single data point twice**, in a worst-case scenario, making it **very slow for large datasets**.
 
-One of the benefits of *bubble sorting* is that because everything is made *in place*, **no additional available memory is required**. This is important for memory-restricted devices.
+One of the benefits of *bubble sorting* is that because everything is made *in place*, **no additional available memory is required**. This is most important for memory-restricted devices, once **no additional variable is needed** to perform the [[Algorithms|algorithm]].
+___
+# Implementation
 
 ```csharp
 public class BubbleSort: ISortAlgorithm
