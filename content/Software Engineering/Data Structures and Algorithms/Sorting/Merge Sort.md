@@ -1,11 +1,11 @@
 # What is it?
 
 *Merge sort* is a [[Sorting Algorithms|sorting algorithm]], based on the principle of the [[Divide and Conquer Algorithm]], which **splits the original problem to smaller sub-problems** easier to calculate.
-It works by [[Recursion|recursively]] **splitting** the dataset to **unit elements**, and **merging them** backing together, **sorting in the way**.
+It works by [[Recursion|recursively]] **splitting** the dataset to **unit elements**, and **merging them** backing together, **sorting in the way**. This makes it run in $O(n \log{n})$, in [[Big-O Notation]].
 
 ![[merge sort.png]]
 ___
-# How does it work
+# How does it work?
 
 Given an numerical [[Array]], the [[Algorithms|algorithm]] starts [[Recursion|recursively]] **dividing the array** in half, until **only single parts remains**. Then it starts to **merge each part**, **swapping elements in order**, if necessary. This is done until the whole [[Array]] is **merged together and sorted**.
 

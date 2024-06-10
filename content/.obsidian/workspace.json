@@ -38,21 +38,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e048cf6f8aa5c9bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,21 +165,29 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e048cf6f8aa5c9bf",
+  "active": "9953470b30ddbe75",
   "lastOpenFiles": [
-    "Sheet Music/Radiohead - The Bends.pdf",
-    "Sheet Music.md",
+    "Software Engineering/Data Structures and Algorithms/Sorting/Quick Sort.md",
+    "Software Engineering/Data Structures and Algorithms/Divide and Conquer Algorithm.md",
+    "Software Engineering/Data Structures and Algorithms/Sorting/Sorting Algorithms.md",
     "Sheet Music/Radiohead - In Rainbows.pdf",
-    "Sheet Music",
-    "Books.md",
+    "Machine Learning/Entropy.md",
+    "Machine Learning/Linear Regression.md",
+    "Mathematics/Riemann Sum.md",
+    "Mathematics/Ruffini's Rule.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "Books.md",
+    "Sheet Music.md",
+    "Software Engineering/Images/quick sort.png",
+    "index.md",
+    "Sheet Music/Radiohead - The Bends.pdf",
+    "Sheet Music",
     "Software Engineering/Images/merge sort.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms.md",
     "Software Engineering/Data Structures and Algorithms/Algorithm Complexity.md",
-    "Software Engineering/Data Structures and Algorithms/Divide and Conquer Algorithm.md",
     "Software Engineering/Data Structures and Algorithms/Big-O Notation.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Sorting Algorithms.md",
     "Software Engineering/Python/Python.md",
     "Software Engineering/Kubernetes/Kubernetes Architecture.md",
     "Software Engineering/Kubernetes/Kubernetes.md",
@@ -210,22 +202,14 @@
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/Methods in C-Sharp.md",
-    "Software Engineering/C-Sharp/CLR.md",
-    "Software Engineering/C-Sharp/C-Sharp.md",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/Images/stop doing js.png",
     "Software Engineering/Images/stop doing js 1.png",
-    "Software Engineering/JavaScript/JavaScript.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Software Engineering/JavaScript/JavaScript in HTML.md",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Software Engineering/Images/divide conquer.png",
     "Software Engineering/Images/big o graph.png",
     "Software Engineering/Images/big o example.png",
     "Software Engineering/Images/big o notation.png",
-    "Software Engineering/Images/algorithm complexity.png",
     "Software Engineering/Data Structures and Algorithms",
     "Machine Learning/Deep Learning/Untitled",
     "Untitled.canvas"

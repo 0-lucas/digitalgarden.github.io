@@ -1,7 +1,7 @@
 # What is it?
 
 *Bubble sort* is one of the simplest [[Sorting Algorithms]], based in **repeatedly swapping pair of elements** if they are in the wrong order.
-It can be applied to both **ascending and descending** order, just by changing comparison operators.
+It can be applied to both **ascending and descending** order, just by changing comparison operators. In [[Big-O Notation]], it runs on $O(n^2)$.
 
 ![[bubble sort.png]]
 ___
