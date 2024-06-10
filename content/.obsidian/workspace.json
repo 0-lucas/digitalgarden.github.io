@@ -38,9 +38,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e048cf6f8aa5c9bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf"
+              }
             }
           }
         ],
@@ -165,8 +179,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "9953470b30ddbe75",
+  "active": "e048cf6f8aa5c9bf",
   "lastOpenFiles": [
+    "Sheet Music.md",
+    "Sheet Music/Radiohead - The Bends.pdf",
+    "Sheet Music/Radiohead - In Rainbows.pdf",
+    "Sheet Music",
+    "Books.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "Software Engineering/Images/merge sort.png",
@@ -198,8 +217,6 @@
     "Software Engineering/JavaScript/JavaScript.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/JavaScript/JavaScript in HTML.md",
-    "Software Engineering/JavaScript/Functions in JavaScript.md",
-    "Software Engineering/JavaScript/Objects in JavaScript.md",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Software Engineering/Images/divide conquer.png",
@@ -209,9 +226,6 @@
     "Software Engineering/Images/algorithm complexity.png",
     "Software Engineering/Data Structures and Algorithms",
     "Machine Learning/Deep Learning/Untitled",
-    "Machine Learning/Natural Language Processing",
-    "Software Engineering/Python",
-    "Machine Learning/Principal Component Analysis - PCA",
     "Untitled.canvas"
   ]
 }
