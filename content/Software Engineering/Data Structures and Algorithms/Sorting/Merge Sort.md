@@ -7,7 +7,7 @@ It works by [[Recursion|recursively]] **splitting** the dataset to **unit elemen
 ___
 # How does it work?
 
-Given an numerical [[Array]], the [[Algorithms|algorithm]] starts [[Recursion|recursively]] **dividing the array** in half, until **only single parts remains**. Then it starts to **merge each part**, **swapping elements in order**, if necessary. This is done until the whole [[Array]] is **merged together and sorted**.
+Given a numerical [[Arrays|array]] the [[Algorithms|algorithm]] starts [[Recursion|recursively]] **dividing the array** in half, until **only single parts remains**. Then it starts to **merge each part**, **swapping elements in order**, if necessary. This is done until the whole [[Arrays]] is **merged together and sorted**.
 
 ```csharp
 public class MergeSort : ISortAlgorithm

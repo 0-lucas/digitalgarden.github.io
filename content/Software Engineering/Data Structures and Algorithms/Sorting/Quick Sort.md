@@ -8,7 +8,7 @@ ___
 
 The [[Algorithms|algorithm]] makes use of a *pivot* and **classify values as lower or higher** than the *pivot*, placing them on the **left or right**, respectively. This is done [[Recursion|recursively]], until every group is split, making almost every value being a pivot, at some point.
 
-The *pivot* is normally chosen as the **first or the last** value of the [[Array]]. This can also differ depending if sorting *ascending* or *descending*.
+The *pivot* is normally chosen as the **first or the last** value of the [[Arrays|array]]. This can also differ depending if sorting *ascending* or *descending*.
 
 ```csharp
 public class QuickSort : ISortAlgorithm

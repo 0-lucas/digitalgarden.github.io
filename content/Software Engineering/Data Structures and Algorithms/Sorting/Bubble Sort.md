@@ -7,8 +7,8 @@ It can be applied to both **ascending and descending** order, just by changing c
 ___
 # How does it work?
 
-Given an numerical [[Array]], the [[Algorithms|algorithm]] starts by **iterating through the whole array**, checking if the **current element and the next is out of order** and **swapping if necessary**.
-For **each data point**, it iterates through the whole [[Array]]. This creates an $O(n^2)$ complexity, **running through every single data point twice**, in a worst-case scenario, making it **very slow for large datasets**.
+Given a numerical [[Arrays|array]], the [[Algorithms|algorithm]] starts by **iterating through the whole array**, checking if the **current element and the next is out of order** and **swapping if necessary**.
+For **each data point**, it iterates through the whole [[Arrays]]. This creates an $O(n^2)$ complexity, **running through every single data point twice**, in a worst-case scenario, making it **very slow for large datasets**.
 
 One of the benefits of *bubble sorting* is that because everything is made *in place*, **no additional available memory is required**. This is most important for memory-restricted devices, once **no additional variable is needed** to perform the [[Algorithms|algorithm]].
 ___
