@@ -35,8 +35,10 @@
             "id": "9953470b30ddbe75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf"
+              }
             }
           }
         ],
@@ -98,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sheet Music/Radiohead - The Bends.pdf"
+              }
             }
           }
         ],
@@ -167,6 +173,7 @@
   },
   "active": "9953470b30ddbe75",
   "lastOpenFiles": [
+    "Sheet Music.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Quick Sort.md",
     "Software Engineering/Data Structures and Algorithms/Divide and Conquer Algorithm.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Sorting Algorithms.md",
@@ -179,7 +186,6 @@
     "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "Books.md",
-    "Sheet Music.md",
     "Software Engineering/Images/quick sort.png",
     "index.md",
     "Sheet Music/Radiohead - The Bends.pdf",
