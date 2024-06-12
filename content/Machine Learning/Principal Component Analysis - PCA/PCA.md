@@ -60,7 +60,7 @@ plt.show()
 You can check each **component captured variance** with *explained_variance_ratio*. The returning table show how much each **component explains the percentage of variance** of the original dataset. One could want to return the components which accumulate to a **$n$ explained variance ratio**. To do this, just replace *n_components* for a *float* argument. 
 
 ```python
-PCA = PCA(n_components=0.9) # Will return explained_variance total of 95%
+PCA = PCA(n_components=0.9) # Will return explained_variance total of 90%
 
 pipeline = make_pipeline(scaler, PCA)
 pipeline.fit(X_train)
