@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "Mathematics/Linear Algebra/Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "Mathematics/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
+                "file": "Mathematics/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md"
+                "file": "Mathematics/Linear Algebra/Matrices.md"
               }
             }
           }
@@ -172,8 +172,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "a79c13305f943da5",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Matrices.md",
+    "Vectors.md",
+    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
@@ -204,13 +208,9 @@
     "Machine Learning/Linear Regression.md",
     "Mathematics/Riemann Sum.md",
     "Mathematics/Ruffini's Rule.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Books.md",
     "Software Engineering/Images/quick sort.png",
-    "index.md",
     "Sheet Music",
     "Software Engineering/Images/merge sort.png",
-    "Software Engineering/Python/Python.md",
     "Software Engineering/Images/bubble sort.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
