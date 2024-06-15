@@ -29,3 +29,56 @@ a_{21} & a_{22} & a_{23}
 \end{bmatrix}
 $$___
 # Special cases of matrices
+
+*Matrices* can be given **different names** if they are presented in a given way. These are some of those special cases:
+
+## Diagonal matrix
+
+A *square matrix*, with **equal length in both sides**, which the **elements that don't pertain to the main diagonal** are equal to $0$, is called a *diagonal matrix*. For example:
+$$
+A_{2\times2} =
+\begin{bmatrix}
+-10 & 0 \\
+0 & 4
+\end{bmatrix}
+\qquad \qquad
+B_{3\times3} = 
+\begin{bmatrix}
+3 & 0 & 0 \\
+0 & 12 & 0 \\
+0 & 0 & 2
+\end{bmatrix}
+$$___
+## Identity matrix
+
+An *identity matrix* is similar to the *diagonal matrix*, but the elements from the **main diagonal are equal to $1$**,  and the rest must be **equal to $0$**.
+$$
+I_{2} = 
+\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}
+\qquad \qquad
+I_{3} = 
+\begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+___
+## Transposed matrix
+
+To **transpose a *matrix***, change its *rows* by the *columns*, and the *columns* in the place of the *rows*, represented by a upper $T$.
+$$
+A =
+\begin{bmatrix}
+20 & 16 & 5 \\
+2 &  6 & 11
+\end{bmatrix}
+\qquad \qquad 
+A^T = 
+\begin{bmatrix}
+
+\end{bmatrix}
+$$
