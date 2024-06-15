@@ -172,11 +172,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "a79c13305f943da5",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Images/vectors.png",
     "Mathematics/Linear Algebra/Matrices.md",
-    "Vectors.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
@@ -207,7 +208,6 @@
     "Machine Learning/Entropy.md",
     "Machine Learning/Linear Regression.md",
     "Mathematics/Riemann Sum.md",
-    "Mathematics/Ruffini's Rule.md",
     "Software Engineering/Images/quick sort.png",
     "Sheet Music",
     "Software Engineering/Images/merge sort.png",
@@ -217,7 +217,6 @@
     "Software Engineering/Images/sorting.png",
     "Software Engineering/Data Structures and Algorithms/Sorting",
     "Software Engineering/Images/stop doing js.png",
-    "Software Engineering/Images/stop doing js 1.png",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Untitled.canvas"

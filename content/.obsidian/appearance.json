@@ -6,5 +6,6 @@
     "image_centering",
     "bigger_latex"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": false
 }
