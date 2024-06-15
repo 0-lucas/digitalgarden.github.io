@@ -2,7 +2,7 @@
 
 *Vectors* are **one of the most used objects** in [[Mathematics]], being applied in [[Tensors]], [[Linear Algebra]], [[Machine Learning]], and [[Deep Learning]].
 
-*Vectors* refers to **quantities that cannot be expressed by a single value**, but it's **specific meaning can change** from where it's been applied. For example, in [[Euclidean Geometry]], a *vector* is a object with *magnitude* and *direction*, that goes from point $A$ to point $B$, represented by a line and denoted by $\overline{AB}$.
+*Vectors* refers to **quantities that cannot be expressed by a single value**, but its **specific meaning can change** from where it's been applied. For example, in [[Euclidean Geometry]], a *vector* is an object with *magnitude* and *direction*, that goes from point $A$ to point $B$, represented by a line and denoted by $\overline{AB}$.
 
 ![[vectors.png]]
 

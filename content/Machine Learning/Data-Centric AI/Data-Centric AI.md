@@ -35,6 +35,9 @@ Here are some notes referring to *Data-centric AI*.
 - [[Confident Learning]]
 - [[Curriculum Learning]]
 - [[Data-Centric Evaluation]]
+- [[Class Imbalance]]
+- [[Distribution Shift]]
+- [[Underperforming Subpopulations]]
 ___
 # References
 

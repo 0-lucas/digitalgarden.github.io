@@ -1,6 +1,6 @@
 # What is it?
 
-*Matrices* is used in [[Mathematics]], mainly in [[Linear Algebra]] to represent a *mathematical object*, or the property of said subject. They can **store various different values** inside of them.
+*Matrices* are used in [[Mathematics]], mainly in [[Linear Algebra]] to represent a *mathematical object*, or the property of said subject. They can **store various different values** inside of them.
 
 *Matrices* can be thought of just like *tables*. They have a **two-dimensional** projection with $m \times n$ elements organized in $m$ *rows* and $n$ *columns*.
 It forms a **rectangular [[Arrays|array]]**, which in itself, can also be used to build *matrices*.****
@@ -51,7 +51,7 @@ B_{3\times3} =
 $$___
 ## Identity matrix
 
-An *identity matrix* is similar to the *diagonal matrix*, but the elements from the **main diagonal are equal to $1$**,  and the rest must be **equal to $0$**.
+An *identity matrix* is similar to the *diagonal matrix*, but the elements from the **main diagonal are equal to $1$**, and the rest must be **equal to $0$**.
 $$
 I_{2} = 
 \begin{bmatrix}
@@ -69,7 +69,7 @@ $$
 ___
 ## Transposed matrix
 
-To **transpose a *matrix***, change its *rows* by the *columns*, and the *columns* in the place of the *rows*, represented by a upper $T$.
+To **transpose a *matrix***, change its *rows* by the *columns*, and the *columns* in the place of the *rows*, represented by an upper $T$.
 $$
 A =
 \begin{bmatrix}
@@ -87,7 +87,7 @@ $$
 ___
 ## Triangular matrices
 
-If the elements **below the main diagonal** are all equal to $0$, we have a *upper triangular matrix*. If the elements **above the main diagonal** are all equal to $0$, we have a *lower triangular matrix*. For example:
+If the elements **below the main diagonal** are all equal to $0$, we have an *upper triangular matrix*. If the elements **above the main diagonal** are all equal to $0$, we have a *lower triangular matrix*. For example:
 $$
 \text{Upper triangular} = 
 \begin{bmatrix}
@@ -102,3 +102,7 @@ $$
 7 & 1
 \end{bmatrix}
 $$
+___
+# Matrix Operations
+
+Some basic operations like **sum and subtraction** are made on an element-by-element basis in *matrices*. However, other operations like [[Matrix Multiplication]] have their specific methods.

@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "a79c13305f943da5",
+            "id": "cdae456ed4d5558c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md"
+              }
             }
           }
         ],
@@ -154,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +174,18 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "a79c13305f943da5",
+  "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Mathematics/Mathematics.md",
     "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/Matrix Multiplication.md",
+    "Mathematics/Linear Algebra/Matrices.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "My Books/_AutoML_Bible_1676031584.pdf",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
+    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
+    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
+    "Mathematics/Mathematics.md",
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
@@ -177,9 +195,7 @@
     "Mathematics/Calculus/Calculus.md",
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Derivatives.md",
-    "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Images/vectors.png",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
@@ -191,27 +207,21 @@
     "Software Engineering/Images/types of linked list.png",
     "Machine Learning/Principal Component Analysis - PCA/PCA.md",
     "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
-    "Sheet Music.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithm Complexity.md",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
     "Software Engineering/Images/dynamic vs stack arry.png",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Big-O Notation.md",
     "Software Engineering/Images/array.png",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithms.md",
     "Sheet Music/Radiohead - The Bends.pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Software Engineering/Images/quick sort.png",
     "Sheet Music",
     "Software Engineering/Images/merge sort.png",
     "Software Engineering/Images/bubble sort.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/sorting.png",
     "Software Engineering/Data Structures and Algorithms/Sorting",
     "Software Engineering/Images/stop doing js.png",
     "My Books/Introduction to Applied Linear Algebra.pdf",
-    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Untitled.canvas"
   ]
 }
