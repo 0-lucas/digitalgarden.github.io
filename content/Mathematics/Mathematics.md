@@ -17,6 +17,8 @@ ___
 [[Linear Algebra]] is the field of [[Mathematics]] that studies *vectors* and *matrices*.
 
 - [[Linear Algebra]]
+- [[Matrices]]
+- [[Vectors]]
 ___
 Other general topics:
 - [[Logarithms]]

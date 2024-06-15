@@ -79,6 +79,26 @@ A =
 \qquad \qquad 
 A^T = 
 \begin{bmatrix}
+20 & 2 \\
+16 & 6 \\
+5 & 11
+\end{bmatrix}
+$$
+___
+## Triangular matrices
 
+If the elements **below the main diagonal** are all equal to $0$, we have a *upper triangular matrix*. If the elements **above the main diagonal** are all equal to $0$, we have a *lower triangular matrix*. For example:
+$$
+\text{Upper triangular} = 
+\begin{bmatrix}
+8 & 33 & 11 \\
+0 & 6 & 12 \\
+0 & 0 & 21
+\end{bmatrix}
+\qquad
+\text{Lower triangular} =
+\begin{bmatrix}
+5 & 0 \\
+7 & 1
 \end{bmatrix}
 $$

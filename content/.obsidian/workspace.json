@@ -35,12 +35,8 @@
             "id": "a79c13305f943da5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Matrices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Matrices.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,9 +166,19 @@
   },
   "active": "a79c13305f943da5",
   "lastOpenFiles": [
+    "Mathematics/Mathematics.md",
     "Mathematics/Linear Algebra/Vectors.md",
-    "Mathematics/Images/vectors.png",
+    "Mathematics/Calculus/Limits.md",
+    "Mathematics/Calculus/Asymptote.md",
+    "Mathematics/Calculus/Differentiation Optimization.md",
+    "Mathematics/Calculus/Differentiation.md",
+    "Mathematics/Calculus/Integration.md",
+    "Mathematics/Calculus/Integrals.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Calculus/First Derivative Test.md",
+    "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Linear Algebra/Matrices.md",
+    "Mathematics/Images/vectors.png",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
@@ -197,17 +199,8 @@
     "Software Engineering/Data Structures and Algorithms/Algorithms/Big-O Notation.md",
     "Software Engineering/Images/array.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithms.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Sorting Algorithms.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Quick Sort.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Merge Sort.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-    "Machine Learning/Deep Learning/Tensors.md",
     "Sheet Music/Radiohead - The Bends.pdf",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Divide and Conquer Algorithm.md",
     "Sheet Music/Radiohead - In Rainbows.pdf",
-    "Machine Learning/Entropy.md",
-    "Machine Learning/Linear Regression.md",
-    "Mathematics/Riemann Sum.md",
     "Software Engineering/Images/quick sort.png",
     "Sheet Music",
     "Software Engineering/Images/merge sort.png",
