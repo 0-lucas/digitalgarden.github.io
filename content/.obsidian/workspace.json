@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -175,10 +176,10 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
-    "M.md",
     "Mathematics/Linear Algebra/Matrices.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "M.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Structures.md",
