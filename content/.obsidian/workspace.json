@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md"
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md"
               }
             }
           }
@@ -175,8 +175,12 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "M.md",
+    "Mathematics/Linear Algebra/Matrices.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Structures.md",
     "Pasted image 20240616133624.png",
     "Software Engineering/Images/queue.png",
@@ -190,7 +194,6 @@
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Images/dot product.png",
     "Mathematics/Linear Algebra/Vectors.md",
-    "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
@@ -207,8 +210,6 @@
     "Mathematics/Calculus/First Derivative Test.md",
     "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Images/vectors.png",
-    "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
-    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
