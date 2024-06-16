@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md"
               }
             }
           }
@@ -175,10 +175,12 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Data Structures.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
     "Software Engineering/Data Structures and Algorithms/Sorting/Quick Sort.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Software Engineering/Images/Stack.png",
     "Pasted image 20240616114253.png",
     "Mathematics/Images/dot product 1.png",
@@ -206,8 +208,6 @@
     "Software Engineering/C-Sharp/User-Defined Data Types in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
-    "Software Engineering/C-Sharp/OOP in C-Sharp.md",
-    "Software Engineering/C-Sharp/Methods in C-Sharp.md",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
