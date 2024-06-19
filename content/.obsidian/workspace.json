@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md"
+                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md"
               }
             }
           }
@@ -176,8 +176,11 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+    "Computer Science.md",
+    "Statistics/Statistical Modelling/One-Way ANOVA.md",
+    "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
     "M.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
@@ -207,9 +210,6 @@
     "Mathematics/Calculus/Differentiation.md",
     "Mathematics/Calculus/Integration.md",
     "Mathematics/Calculus/Integrals.md",
-    "Mathematics/Calculus/Calculus.md",
-    "Mathematics/Calculus/First Derivative Test.md",
-    "Mathematics/Calculus/Derivatives.md",
     "Mathematics/Images/vectors.png",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",

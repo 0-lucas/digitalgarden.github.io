@@ -5,7 +5,7 @@
   "autoCloseRound_toggle": true,
   "autoCloseSquare_toggle": true,
   "autoCloseCurly_toggle": true,
-  "addAlignBlock_toggle": false,
+  "addAlignBlock_toggle": true,
   "addAlignBlock_parameter": "align*",
   "autoAlignSymbols": "= > < \\le \\ge \\neq \\approx",
   "addCasesBlock_toggle": false,
