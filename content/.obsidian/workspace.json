@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md"
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md"
               }
             }
           }
@@ -176,12 +175,16 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "index.md",
+    "Process Engineering/Process FMEA.md",
+    "Process Engineering/FMEA.md",
     "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+    "Process Engineering",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
     "Computer Science.md",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "Mathematics/Linear Algebra/Matrices.md",
-    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
     "M.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
@@ -207,9 +210,6 @@
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Calculus/Differentiation Optimization.md",
-    "Mathematics/Calculus/Differentiation.md",
-    "Mathematics/Calculus/Integration.md",
-    "Mathematics/Calculus/Integrals.md",
     "Mathematics/Images/vectors.png",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",
@@ -221,7 +221,6 @@
     "Sheet Music",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Data Structures and Algorithms/Sorting",
-    "My Books/Introduction to Applied Linear Algebra.pdf",
     "Untitled.canvas"
   ]
 }
