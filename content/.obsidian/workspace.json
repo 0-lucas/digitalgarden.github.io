@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md"
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md"
               }
             }
           }
@@ -175,13 +175,15 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Homogeneous Systems.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
     "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
     "index.md",
     "Process Engineering/Process FMEA.md",
     "Process Engineering/FMEA.md",
-    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
     "Process Engineering",
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
     "Computer Science.md",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "Mathematics/Linear Algebra/Matrices.md",
@@ -201,7 +203,6 @@
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Images/dot product.png",
     "Mathematics/Linear Algebra/Vectors.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
@@ -209,7 +210,6 @@
     "Mathematics/Mathematics.md",
     "Mathematics/Calculus/Limits.md",
     "Mathematics/Calculus/Asymptote.md",
-    "Mathematics/Calculus/Differentiation Optimization.md",
     "Mathematics/Images/vectors.png",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",
