@@ -23,7 +23,8 @@ ___
 A *homogeneous system* can have have **two types of solutions**, the *trivial* and *non-trivial solution*.
 
 - ##### Trivial solution
-	The system always has a *trivial solution*, where the **value of each variable is equal to $0$**.
+	The system always has a *trivial solution*, where the **value of each variable is equal to $0$**. This solution **can happen to every *homogeneous system***.
 
 - ##### Non-trivial solution
-	The value of **a least one variable is not equal to $0$**, even if it depends on the value **of another variable**.
+	The value of **a least one variable is not equal to $0$**, even if it depends on the value **of another variable**. It can **only happen when the number of equations is less than the number of variables**.
+

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
+                "file": "Mathematics/Linear Algebra/Least Squares Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
+                "file": "Mathematics/Linear Algebra/Least Squares Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
+                "file": "Mathematics/Linear Algebra/Least Squares Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md"
+                "file": "Mathematics/Linear Algebra/Least Squares Method.md"
               }
             }
           }
@@ -175,6 +175,12 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
+    "Pasted image 20240621184033.png",
+    "Pasted image 20240621184029.png",
+    "Data Engineering/Airflow/Apache Airflow.md",
+    "Mathematics/Linear Algebra/Least Squares Method.md",
+    "Mathematics/Linear Algebra/Matrices.md",
+    "Least Squares Method.md",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
@@ -186,7 +192,6 @@
     "Process Engineering",
     "Computer Science.md",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
-    "Mathematics/Linear Algebra/Matrices.md",
     "M.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
@@ -206,16 +211,11 @@
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
-    "Machine Learning/Data-Centric AI/Data-Centric AI.md",
-    "Mathematics/Mathematics.md",
-    "Mathematics/Calculus/Limits.md",
-    "Mathematics/Calculus/Asymptote.md",
     "Mathematics/Images/vectors.png",
     "Software Engineering/Images/linked list.png",
     "Software Engineering/Images/types of linked list.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
-    "Software Engineering/Images/dynamic vs stack arry.png",
     "Sheet Music/Radiohead - The Bends.pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music",
