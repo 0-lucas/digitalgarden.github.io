@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "cdae456ed4d5558c",
+            "id": "e660932498f010ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md"
               }
             }
           }
@@ -173,20 +173,30 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "cdae456ed4d5558c",
+  "active": "e660932498f010ff",
   "lastOpenFiles": [
+    "PyPi.md",
+    "Software Engineering/Python/NumPy.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "Software Engineering/JavaScript/Electron.md",
+    "Software Engineering/Images/stop doing electron.png",
+    "Software Engineering/Images/binary tree.png",
+    "Pasted image 20240622160521.png",
+    "binary_tree_1 (1).jpg",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Statistics/Statistical Modelling/Least Squares Method.md",
+    "Statistics/Statistical Modelling/Law of Large Numbers.md",
+    "Mathematics/Linear Algebra/Matrix Multiplication.md",
+    "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
     "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
     "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
-    "Statistics/Statistical Modelling/Least Squares Method.md",
     "Statistics/Images/least squares linear algebra result.png",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Images/least squares line.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Pasted image 20240621184033.png",
     "Pasted image 20240621184029.png",
     "Data Engineering/Airflow/Apache Airflow.md",
-    "Mathematics/Linear Algebra/Matrices.md",
     "Least Squares Method.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "index.md",
@@ -203,16 +213,7 @@
     "Software Engineering/Images/queue.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
-    "Software Engineering/Data Structures and Algorithms/Sorting/Quick Sort.md",
-    "Software Engineering/Images/Stack.png",
-    "Pasted image 20240616114253.png",
-    "Mathematics/Images/dot product 1.png",
-    "Mathematics/Linear Algebra/Matrix Multiplication.md",
-    "Mathematics/Images/dot product.png",
-    "Mathematics/Linear Algebra/Vectors.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
-    "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
-    "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
     "Sheet Music/Radiohead - The Bends.pdf",
