@@ -34,12 +34,13 @@ A
 4 & 1 
 \end{pmatrix}
 *
-
+x
 \begin{pmatrix}
 a \\
 b
 \end{pmatrix}
 =
+b
 \begin{pmatrix}
 2 \\
 3 \\
@@ -47,3 +48,13 @@ b
 4
 \end{pmatrix}
 $$
+Because it's a [[Linear Systems|overdetermined system]], with **more equations than unknown variables**, we solve $A^T Ax = A^T b$. Calculating $A^T A$ and $A^Tb$, we can write the equivalent system:
+$$
+\begin{cases}
+30a + 10b = 30 \\
+10a + \ \ 4b = 11 \\
+\end{cases}
+$$
+Which then, we can solve using the [[Gauss-Jordan Elimination Method]] to conclude that $a=0.53, b=1.43$. Replacing the value of $a, b$ in the original function, we can **discover the best-fitting line** of $y=0.53x + 1.43$, which would result in the following graph:
+
+![[least squares linear algebra result.png]]

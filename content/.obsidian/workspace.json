@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md",
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Statistical Modelling/Least Squares Method.md"
+                "file": "Mathematics/Linear Algebra/Gaussian Elimination Method.md"
               }
             }
           }
@@ -175,8 +175,11 @@
   },
   "active": "cdae456ed4d5558c",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Homogeneous Systems.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
     "Statistics/Statistical Modelling/Least Squares Method.md",
+    "Statistics/Images/least squares linear algebra result.png",
+    "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Images/least squares line.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Pasted image 20240621184033.png",
@@ -185,8 +188,6 @@
     "Mathematics/Linear Algebra/Matrices.md",
     "Least Squares Method.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
-    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
     "index.md",
     "Process Engineering/Process FMEA.md",
@@ -212,7 +213,6 @@
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Machine Learning/Data-Centric AI/Data-Centric Evaluation.md",
     "Machine Learning/Data-Centric AI/Underperforming Subpopulations.md",
-    "Mathematics/Images/vectors.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
     "Sheet Music/Radiohead - The Bends.pdf",
