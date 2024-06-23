@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+                "file": "Mathematics/Linear Algebra/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+                "file": "Mathematics/Linear Algebra/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+                "file": "Mathematics/Linear Algebra/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md"
+                "file": "Mathematics/Linear Algebra/Untitled.md"
               }
             }
           }
@@ -173,11 +173,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "e660932498f010ff",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "Mathematics/Linear Algebra/Untitled.md",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/types of trees.jpg",
     "Pasted image 20240622164114.png",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Python/PyPi.md",
     "Software Engineering/Python/NumPy.md",
     "Software Engineering/JavaScript/Electron.md",
@@ -218,7 +220,6 @@
     "Sheet Music/Radiohead - The Bends.pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Data Structures and Algorithms/Sorting",
     "Untitled.canvas"
   ]
