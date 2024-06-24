@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces.md"
+                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md"
               }
             }
           }
@@ -176,9 +175,10 @@
   },
   "active": "e660932498f010ff",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Linear Combinations.md",
+    "Mathematics/Linear Algebra/Vector Spaces.md",
     "Mathematics/Fields.md",
     "Mathematics/Mathematics.md",
-    "Mathematics/Linear Algebra/Vector Spaces.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/types of trees.jpg",
@@ -214,7 +214,6 @@
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "M.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",

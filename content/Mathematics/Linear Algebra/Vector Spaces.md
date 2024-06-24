@@ -27,4 +27,3 @@ To be characterized as a *vector space*, $\mathbf{V}$ needs to follow all the fo
 
 - ##### Unitarity
 	$1u = u | u \in \mathbf{V}$.
-	  
