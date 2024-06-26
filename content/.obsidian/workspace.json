@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -173,7 +174,7 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e660932498f010ff",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Linear Combinations.md",
