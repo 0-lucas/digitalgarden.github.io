@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
+                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
+                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md",
+                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrix Multiplication.md"
+                "file": "Mathematics/Linear Algebra/Linear Combinations.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "e660932498f010ff",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Linear Combinations.md",
     "Mathematics/Linear Algebra/Vector Spaces.md",
     "Mathematics/Fields.md",
@@ -193,7 +194,6 @@
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Statistics/Statistical Modelling/Least Squares Method.md",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
-    "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Matrices.md",
     "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
     "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
