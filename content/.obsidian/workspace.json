@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e660932498f010ff",
+            "id": "754fcd0b51f2c588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Combinations.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Combinations.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md"
               }
             }
           }
@@ -174,14 +173,17 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Matrix Multiplication.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
+    "Software Engineering/Images/bst.png",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Linear Algebra/Linear Combinations.md",
+    "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Vector Spaces.md",
     "Mathematics/Fields.md",
     "Mathematics/Mathematics.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/types of trees.jpg",
     "Pasted image 20240622164114.png",
@@ -192,7 +194,6 @@
     "Software Engineering/Images/binary tree.png",
     "Pasted image 20240622160521.png",
     "binary_tree_1 (1).jpg",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Statistics/Statistical Modelling/Least Squares Method.md",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Mathematics/Linear Algebra/Matrices.md",
@@ -203,7 +204,6 @@
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Images/least squares line.png",
     "Pasted image 20240621184033.png",
-    "Pasted image 20240621184029.png",
     "Data Engineering/Airflow/Apache Airflow.md",
     "Least Squares Method.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
@@ -213,8 +213,6 @@
     "Process Engineering",
     "Computer Science.md",
     "Statistics/Statistical Modelling/One-Way ANOVA.md",
-    "M.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
