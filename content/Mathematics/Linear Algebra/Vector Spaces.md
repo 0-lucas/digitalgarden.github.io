@@ -8,7 +8,7 @@ A *vector space* consists of a *set* $\mathbf{V}$ with [[Vectors]] as elements, 
 - ##### Scalar multiplication
 	The operation takes a *scalar* $c \in \mathbb{F}$ and a [[Vectors|vector]] $v \in \mathbf{V}$, **and produces a new vector**, written as $c * v \in \mathbb{F}$.
 
-To be characterized as a *vector space*, $\mathbf{V}$ needs to follow all the following conditions, also called *axioms*:
+To be characterized as a *vector space*, $\mathbf{V}$ needs to f**ollow all the following conditions**, also called *axioms*:
 
 - ##### Associativity of vector addition
 	$(u + v) + w = u + (v + w)$ for all [[Vectors|vectors]] $u,v,w \in \mathbf{V}$.
@@ -27,3 +27,11 @@ To be characterized as a *vector space*, $\mathbf{V}$ needs to follow all the fo
 
 - ##### Unitarity
 	$1u = u | u \in \mathbf{V}$.
+
+___
+# Vector Subspaces
+
+Given a *vector space* $\mathbf{V}$ and a **subset** $\mathbf{W}$ of $\mathbf{V}$, we can define $\mathbf{W}$ as a *vector subspace* of $\mathbf{V}$, only if the following conditions are satisfied:
+
+- ##### If $u, v \in \mathbf{W}$, then $u + v \in \mathbf{ W}$.
+- ##### If $v \in W$, then $kv \in W$, where $k$ is a scalar.

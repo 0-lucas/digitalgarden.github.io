@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
+                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
+                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
+                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md"
+                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md"
               }
             }
           }
@@ -173,15 +173,24 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "754fcd0b51f2c588",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
-    "Software Engineering/Images/bst.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Mathematics/Linear Algebra/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
     "Mathematics/Linear Algebra/Linear Combinations.md",
     "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Vector Spaces.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/Homogeneous Systems.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
+    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Matrices.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "Software Engineering/Images/bst.png",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Fields.md",
     "Mathematics/Mathematics.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
@@ -196,23 +205,15 @@
     "binary_tree_1 (1).jpg",
     "Statistics/Statistical Modelling/Least Squares Method.md",
     "Statistics/Statistical Modelling/Law of Large Numbers.md",
-    "Mathematics/Linear Algebra/Matrices.md",
-    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
-    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
     "Statistics/Images/least squares linear algebra result.png",
-    "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Images/least squares line.png",
     "Pasted image 20240621184033.png",
     "Data Engineering/Airflow/Apache Airflow.md",
     "Least Squares Method.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "index.md",
     "Process Engineering/Process FMEA.md",
     "Process Engineering/FMEA.md",
     "Process Engineering",
-    "Computer Science.md",
-    "Statistics/Statistical Modelling/One-Way ANOVA.md",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
