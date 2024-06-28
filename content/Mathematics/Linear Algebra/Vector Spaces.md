@@ -1,6 +1,6 @@
 # What is it?
 
-A *vector space* consists of a *set* $\mathbf{V}$ with [[Vectors]] as elements, a field $\mathbb{F}$ with *scalars* as elements and two operations, *vector addition* and *scalar multiplication*.
+In [[Linear Algebra]], a *vector space* consists of a *set* $\mathbf{V}$ with [[Vectors]] as elements, a field $\mathbb{F}$ with *scalars* as elements and two operations, *vector addition* and *scalar multiplication*.
 
 - ##### Vector addition
 	The operation takes two [[Vectors|vectors]] $v, w \in \mathbf{V}$, and **produces a third vector**, written as $v + w | v+ w \in \mathbf{V}$.

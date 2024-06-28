@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -173,20 +174,21 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Generators of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
-    "Mathematics/Linear Algebra/Linear Combinations.md",
-    "Mathematics/Linear Algebra/Matrix Multiplication.md",
-    "Mathematics/Linear Algebra/Vector Spaces.md",
-    "Mathematics/Linear Algebra/Vectors.md",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
-    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
-    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
+    "Statistics/Probabiity Distributions/Student's t-Value.md",
+    "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/Vector Spaces.md",
     "Mathematics/Linear Algebra/Matrices.md",
+    "Mathematics/Linear Algebra/Linear Combinations.md",
+    "Mathematics/Linear Algebra/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination Method.md",
+    "Mathematics/Linear Algebra/Gauss-Jordan Elimination Method.md",
+    "Mathematics/Linear Algebra/Elementary Operations of Matrix.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Images/bst.png",
@@ -212,7 +214,6 @@
     "Least Squares Method.md",
     "index.md",
     "Process Engineering/Process FMEA.md",
-    "Process Engineering/FMEA.md",
     "Process Engineering",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",

@@ -1,6 +1,6 @@
 # What is it?
 
-A [[Vector Spaces|vector space]] $\mathbf{V}$ has **infinite elements** and, mostly, all [[Vectors|vectors]] of $\mathbf{V}$ can be **obtained from a finite set** of [[Vectors|vectors]] called $\mathbf{S}$. 
+In [[Linear Algebra]], a  [[Vector Spaces|vector space]] $\mathbf{V}$ has **infinite elements** and, mostly, all [[Vectors|vectors]] of $\mathbf{V}$ can be **obtained from a finite set** of [[Vectors|vectors]] called $\mathbf{S}$. 
 The set $\mathbf{S} = \{\mathbf{v}_{1},\mathbf{v}_{2},\dots,\mathbf{v}_{n}\}$ which **generates the [[Vector Spaces|vector space]]** $\mathbf{V}$, is called the *generator of $\mathbf{V}$*.
 
 All [[Vectors|vectors]] of $\mathbf{V}$ can be obtained from a [[Linear Combinations|linear combination]] of the [[Vectors|vectors]] in $\mathbf{S}$, which makes $\mathbf{S}$ the *generator* of $\mathbf{V}$, represented by $\mathbf{V}  = [\mathbf{S}]$.
