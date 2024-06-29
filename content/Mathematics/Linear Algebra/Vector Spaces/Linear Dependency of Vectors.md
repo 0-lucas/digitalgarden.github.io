@@ -2,6 +2,13 @@
 
 In [[Linear Algebra]], it's possible to **classify different sets of [[Vectors]]** inside of a [[Vector Spaces|vector space]] as *linearly dependent* or *linearly independent*.
 
+*Linearly dependent* [[Vectors|vectors]], in a $\mathbf{R^2}$ space, **would be on the same line**, with the **same direction**.
+
+![[ld vectors.png]]
+
+However, *linearly independent* [[Vectors|vectors]], in a $\mathbf{R^2}$ space, have **different directions**.
+
+![[li vectors.png|260]]
 ___
 # How does it work?
 
@@ -37,6 +44,7 @@ c_{1} + 2c_{1} = 0 \\
 \end{cases}
 \end{align}
 $$
+
 From the resultant [[Linear Systems|linear system]], we can solve it and determine if it is an*inconsistent*, *independent* or *dependent* system, which will then result if it's **linearly indepenent or dependent***.
 
 

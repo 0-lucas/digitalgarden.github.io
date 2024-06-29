@@ -1,4 +1,4 @@
-# What is it?
+[](Matrices.md)[](Matrices.md)[](Matrices.md)# What is it?
 
 In [[Mathematics]], the *Gauss-Jordan elimination method* is used in [[Linear Algebra]] as an *row reduction [[Algorithms|algorithm]]* for solving [[Linear Systems]], and finding the **inverse of a [[Matrices|matrix]]**. All operations are made on **the [[Matrices|matrix]] of coefficients**, using the three [[Elementary Operations of Matrix]].
 
@@ -16,7 +16,7 @@ The objective is to **reduce the [[Matrices|matrix]]** to a *reduced-row echelon
 > When working with [[Matrices|matrices]], the *leading entry* refers to the **first non-zero entry in a row**. It's also called the *pivot entry*. 
 
 ___
-# Examples of reduced-row echelon form matrix
+# Examples of[](Matrices.md)form matrix
 
 If the [[Matrices|matrix]] satisfies all four conditions said above, it's characterized as a *reduced-row echelon form* [[Matrices|matrix]]. Some examples are:
 
