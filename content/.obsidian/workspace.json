@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md"
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md"
               }
             }
           }
@@ -188,13 +188,13 @@
   },
   "active": "e7efdf3dfe7f6da7",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Linear Combinations.md",
     "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
     "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Mathematics/Images/li vectors.png",
     "Mathematics/Images/ld vectors.png",
-    "Mathematics/Linear Algebra/Linear Combinations.md",
     "Mathematics/Linear Algebra/Matrices/Matrices.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
