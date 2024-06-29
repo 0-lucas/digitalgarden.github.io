@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Dependency of Vectors.md"
+                "file": "Mathematics/Linear Algebra/Homogeneous Systems.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Linear Algebra/Linear Dependency of Vectors.md",
+    "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
     "Mathematics/Linear Algebra/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
