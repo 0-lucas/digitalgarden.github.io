@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7efdf3dfe7f6da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md"
               }
             }
           }
@@ -186,10 +173,16 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e7efdf3dfe7f6da7",
+  "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Linear Combinations.md",
+    "Software Engineering/Images/balanced binary tree.png",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
+    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Linear Combinations.md",
     "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
     "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
     "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
@@ -197,7 +190,6 @@
     "Mathematics/Images/ld vectors.png",
     "Mathematics/Linear Algebra/Matrices/Matrices.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
-    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Matrices",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
@@ -218,15 +210,11 @@
     "Pasted image 20240622164114.png",
     "Software Engineering/Python/PyPi.md",
     "Software Engineering/Python/NumPy.md",
-    "Software Engineering/JavaScript/Electron.md",
     "Software Engineering/Images/stop doing electron.png",
     "Software Engineering/Images/binary tree.png",
     "Pasted image 20240622160521.png",
     "binary_tree_1 (1).jpg",
-    "Statistics/Statistical Modelling/Least Squares Method.md",
-    "Statistics/Statistical Modelling/Law of Large Numbers.md",
     "Statistics/Images/least squares linear algebra result.png",
-    "Data Engineering/Airflow/Apache Airflow.md",
     "Process Engineering",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
