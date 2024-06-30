@@ -8,7 +8,7 @@ ___
 
 While the *balanced binary tree* inherits all properties from a [[Binary Search Trees|binary search tree]], it adds *balancing*, which states that the **difference of height between the *right subtree* and the *left subtree* should be always equal to $0$, $1$, or $-1$**. In other words, the **height difference should be less than $2$**.
 
-The [[Algorithms|algorithm]] itself, should be **applied to all nodes** of the tree, as it follows:
+The [[Algorithms|algorithm]] to check *balancing*, should be **applied to all nodes** of the tree, as it follows:
 
 - ##### Calculate the relative height of the right subtree
 	Count **how many levels are in between** the *desired node* and the deepest *leaf node* of the right subtree. In others words, calculate the *height* of it.
@@ -17,4 +17,4 @@ The [[Algorithms|algorithm]] itself, should be **applied to all nodes** of the t
 	Apply the same procedure, but now to the left subtree of the *desired node*.
 
 - ##### Calculate the height difference
-	Calculate the **difference** between the numbers from the **first and second step**. The result should be $-1 \leq x \leq 1$. If it is, the *desired node* is **balanced**. **If not, follow the next steps**. 
+	Calculate the **difference** between the numbers from the **first and second step**. The result should be $-1 \leq x \leq 1$. If it is, the *desired node* is **balanced**. If not, the tree is **imbalanced, and should the node should be balanced**.

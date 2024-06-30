@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md"
+                "file": "Software Engineering/C-Sharp/Inheritance in C-Sharp.md"
               }
             }
           }
@@ -175,10 +175,10 @@
   },
   "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
     "Software Engineering/Images/balanced binary tree.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
@@ -214,7 +214,6 @@
     "Software Engineering/Images/binary tree.png",
     "Pasted image 20240622160521.png",
     "binary_tree_1 (1).jpg",
-    "Statistics/Images/least squares linear algebra result.png",
     "Process Engineering",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
