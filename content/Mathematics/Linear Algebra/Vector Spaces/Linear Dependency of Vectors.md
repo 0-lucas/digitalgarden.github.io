@@ -45,6 +45,6 @@ c_{1} + 2c_{1} = 0 \\
 \end{align}
 $$
 
-From the resultant [[Linear Systems|linear system]], we can solve it and determine if it is an*inconsistent*, *independent* or *dependent* system, which will then result if it's **linearly indepenent or dependent***.
+From the resultant [[Linear Systems|linear system]], we can solve it and determine if it is an *inconsistent*, *independent* or *dependent* system, which will then result if it's **linearly independent or dependent***.
 
 
