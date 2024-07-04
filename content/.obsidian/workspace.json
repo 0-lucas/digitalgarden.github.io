@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md"
+                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md"
               }
             }
           }
@@ -176,16 +176,16 @@
   "active": "754fcd0b51f2c588",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
     "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
     "Software Engineering/Images/balanced binary tree.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
-    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Mathematics/Images/li vectors.png",
     "Mathematics/Images/ld vectors.png",
