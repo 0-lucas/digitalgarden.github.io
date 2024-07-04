@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "754fcd0b51f2c588",
+            "id": "b812947c03929a4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
+                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md"
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
               }
             }
           }
@@ -173,44 +174,44 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "754fcd0b51f2c588",
+  "active": "0dfeb7775908c792",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Linear Transformations.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "Sheet Music/Radiohead - In Rainbows.pdf",
+    "Sheet Music.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
+    "Mathematics/Linear Algebra/Homogeneous Systems.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
     "Software Engineering/Images/balanced binary tree.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Mathematics/Images/li vectors.png",
     "Mathematics/Images/ld vectors.png",
     "Mathematics/Linear Algebra/Matrices/Matrices.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Mathematics/Linear Algebra/Matrices",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Logarithms.md",
     "Mathematics/Fields.md",
     "Mathematics/Linear Algebra/Vector Spaces",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Mathematics/Linear Algebra/Vectors.md",
     "Mathematics/Linear Algebra/Matrices/Gauss-Jordan Elimination Method.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Images/bst.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-    "Mathematics/Mathematics.md",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Images/types of trees.jpg",
     "Pasted image 20240622164114.png",
-    "Software Engineering/Python/PyPi.md",
-    "Software Engineering/Python/NumPy.md",
     "Software Engineering/Images/stop doing electron.png",
     "Software Engineering/Images/binary tree.png",
     "Pasted image 20240622160521.png",
@@ -220,7 +221,6 @@
     "Software Engineering/Data Structures and Algorithms/Algorithms",
     "Software Engineering/Data Structures and Algorithms/Data Structures",
     "Sheet Music/Radiohead - The Bends.pdf",
-    "Sheet Music/Radiohead - In Rainbows.pdf",
     "Untitled.canvas"
   ]
 }
