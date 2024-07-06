@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
+                "file": "Mathematics/Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
+                "file": "Mathematics/Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
+                "file": "Mathematics/Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Transformations.md"
+                "file": "Mathematics/Mathematics.md"
               }
             }
           }
@@ -185,11 +185,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "1493353d586fb198",
   "lastOpenFiles": [
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
+    "Mathematics/Linear Algebra/Linear Transformations.md",
     "Mathematics/Images/linear transformatinos.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-    "Mathematics/Linear Algebra/Linear Transformations.md",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music.md",
@@ -227,7 +228,6 @@
     "Software Engineering/Images/stop doing electron.png",
     "Software Engineering/Images/binary tree.png",
     "Pasted image 20240622160521.png",
-    "binary_tree_1 (1).jpg",
     "Process Engineering",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",

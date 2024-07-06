@@ -7,7 +7,7 @@ In [[Linear Algebra]], *linear transformations* (or *linear mapping*) are *funct
 In fact, [[Matrix Multiplication]] is a form of *matrix transformation* that can be characterized as a *linear transformation*, once it **transforms** a [[Matrices|matrix]] from $\mathbf{R}^n \to \mathbf{R^m}$ *linearly*, and the *function* can be thought as the *second multiplied [[Matrices|matrix]]*.
 ___
 # How does it work?
-A *linear transformation* can be [[Mathematics|mathematically]] denoted:
+A *linear transformation* $T: X \to W$can be [[Mathematics|mathematically]] denoted:
 
 $$
 \begin{align}
@@ -28,3 +28,5 @@ $$
 $$
 
 For transformations which **do not satisfy the above conditions**, it's **not characterized as a *linear transformation***.
+___
+# 
