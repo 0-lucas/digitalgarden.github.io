@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Mathematics.md",
+                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Mathematics.md",
+                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Mathematics.md"
+                "file": "Mathematics/Linear Algebra/Linear Transformations.md"
               }
             }
           }
@@ -185,10 +185,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "1493353d586fb198",
+  "active": "b812947c03929a4a",
   "lastOpenFiles": [
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
+    "Mathematics/Mathematics.md",
     "Mathematics/Linear Algebra/Linear Transformations.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
     "Mathematics/Images/linear transformatinos.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
@@ -201,7 +203,6 @@
     "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Linear Algebra/Vectors.md",
     "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
@@ -221,7 +222,6 @@
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Matrices/Gauss-Jordan Elimination Method.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Tree.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Images/bst.png",
     "Software Engineering/Images/types of trees.jpg",
     "Pasted image 20240622164114.png",
