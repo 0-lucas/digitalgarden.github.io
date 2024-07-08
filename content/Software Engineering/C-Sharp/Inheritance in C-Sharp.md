@@ -1,4 +1,4 @@
-This is the mechanism in which ***one object reuses the functionality, properties, and methods of another object***. This brings **reusability** to the table, so instead of creating another very similar object, create a base, and from that inherit all the children objects.
+	This is the mechanism in which ***one object reuses the functionality, properties, and methods of another object***. This brings **reusability** to the table, so instead of creating another very similar object, create a base, and from that inherit all the children objects.
 
 Take, for example, the following class in [[C-Sharp]]:
 
