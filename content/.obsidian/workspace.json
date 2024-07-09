@@ -30,9 +30,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "af17a4ccf72a8784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md"
               }
             }
           }
@@ -161,8 +173,14 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "0dfeb7775908c792",
+  "active": "6a2b3ad64e8ab216",
   "lastOpenFiles": [
+    "Software Engineering/Images/graphs.png",
+    "Books.md",
+    "homeimage.png",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Images/hash tables chaining.png",
     "Software Engineering/Images/hash funtions crypto.png",
     "Software Engineering/Images/hash functions tables.png",
@@ -171,7 +189,6 @@
     "Software Engineering/Images/hash tables probing.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
     "Software Engineering/Images/hash tables.png",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Mathematics/Mathematics.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
@@ -186,7 +203,6 @@
     "Mathematics/Linear Algebra/Linear Transformations.md",
     "Mathematics/Linear Algebra/Vectors.md",
     "Mathematics/Images/linear transformatinos.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music.md",
@@ -196,11 +212,8 @@
     "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
     "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
     "Software Engineering/Images/balanced binary tree.png",
     "Mathematics/Images/li vectors.png",
-    "Mathematics/Images/ld vectors.png",
     "Mathematics/Linear Algebra/Matrices",
     "Mathematics/Linear Algebra/Vector Spaces",
     "Process Engineering",
