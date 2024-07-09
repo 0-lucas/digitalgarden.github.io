@@ -30,33 +30,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b812947c03929a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1493353d586fb198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Mathematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md"
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
               }
             }
           }
@@ -185,16 +161,30 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "b812947c03929a4a",
+  "active": "0dfeb7775908c792",
   "lastOpenFiles": [
+    "Software Engineering/Images/hash tables chaining.png",
+    "Software Engineering/Images/hash funtions crypto.png",
+    "Software Engineering/Images/hash functions tables.png",
+    "Software Engineering/Data Structures and Algorithms/Algorithms/Hash Functions.md",
+    "Pasted image 20240709104814.png",
+    "Software Engineering/Images/hash tables probing.png",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
+    "Software Engineering/Images/hash tables.png",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
+    "Mathematics/Mathematics.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
+    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Mathematics/Linear Algebra/Linear Transformations.md",
-    "Mathematics/Mathematics.md",
     "Mathematics/Linear Algebra/Vectors.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
     "Mathematics/Images/linear transformatinos.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
@@ -208,26 +198,11 @@
     "Mathematics/Linear Algebra/Homogeneous Systems.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Linear Algebra/Matrices/Elementary Operations of Matrix.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
     "Software Engineering/Images/balanced binary tree.png",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Mathematics/Images/li vectors.png",
     "Mathematics/Images/ld vectors.png",
-    "Mathematics/Linear Algebra/Matrices/Matrices.md",
-    "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Mathematics/Linear Algebra/Matrices",
-    "Mathematics/Logarithms.md",
-    "Mathematics/Fields.md",
     "Mathematics/Linear Algebra/Vector Spaces",
-    "Statistics/Probabiity Distributions/Student's t-Value.md",
-    "Software Engineering/Images/bst.png",
-    "Software Engineering/Images/types of trees.jpg",
-    "Pasted image 20240622164114.png",
-    "Software Engineering/Images/stop doing electron.png",
-    "Software Engineering/Images/binary tree.png",
-    "Pasted image 20240622160521.png",
     "Process Engineering",
     "My Books/_AutoML_Bible_1676031584.pdf",
     "Software Engineering/Data Structures and Algorithms/Algorithms",
