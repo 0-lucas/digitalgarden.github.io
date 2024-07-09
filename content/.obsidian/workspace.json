@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/C-Sharp/Auto Property in C-Sharp.md"
+                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "b812947c03929a4a",
   "lastOpenFiles": [
+    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
@@ -221,7 +222,6 @@
     "Mathematics/Fields.md",
     "Mathematics/Linear Algebra/Vector Spaces",
     "Statistics/Probabiity Distributions/Student's t-Value.md",
-    "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Software Engineering/Images/bst.png",
     "Software Engineering/Images/types of trees.jpg",
     "Pasted image 20240622164114.png",
