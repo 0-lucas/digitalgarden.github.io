@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e865c165258320e1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "0dfeb7775908c792",
             "type": "leaf",
             "pinned": true,
@@ -30,21 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2e9de005e77eee07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md"
+                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
               }
             }
           }
@@ -174,22 +149,27 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "2e9de005e77eee07",
+  "active": "0dfeb7775908c792",
   "lastOpenFiles": [
-    "Software Engineering/Images/adjacency matrix.jpg",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "My Books/Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf",
+    "Books.md",
+    "My Books/Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
+    "My Books/Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf",
+    "My Books/(Chapman & Hall_CRC computer and information science series) Dinesh P. Mehta, Sartaj Sahni (editors) - Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
+    "Software Engineering/Images/adjacency matrix.jpg",
     "Pasted image 20240709173305.png",
     "Pasted image 20240709172921.png",
     "Pasted image 20240709172921.jpg",
     "Software Engineering/Images/adjacency list.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Pasted image 20240709172323.png",
     "Pasted image 20240709172638.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Engineering/DAGs.md",
     "Software Engineering/Images/graphs.png",
-    "Books.md",
     "homeimage.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Images/hash tables chaining.png",
@@ -206,7 +186,6 @@
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Mathematics/Linear Algebra/Linear Transformations.md",
     "Mathematics/Linear Algebra/Vectors.md",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music.md",
     "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
@@ -217,10 +196,6 @@
     "Mathematics/Linear Algebra/Matrices",
     "Mathematics/Linear Algebra/Vector Spaces",
     "Process Engineering",
-    "My Books/_AutoML_Bible_1676031584.pdf",
-    "Software Engineering/Data Structures and Algorithms/Algorithms",
-    "Software Engineering/Data Structures and Algorithms/Data Structures",
-    "Sheet Music/Radiohead - The Bends.pdf",
     "Untitled.canvas"
   ]
 }

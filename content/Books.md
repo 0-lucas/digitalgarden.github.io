@@ -100,3 +100,7 @@ ____
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
 - [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]
 - [[JavaScriptNotesForProfessionals.pdf|Javascript Notes for Professionals]]
+## Data Structures and Algorithms
+- [[Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf|Handbook of Data Structures and Applications]]
+- [[Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf|Algorithms and Data Structures - The Basic Toolbox]]
+- [[Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf|Grokking Algorithms]]

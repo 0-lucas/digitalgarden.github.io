@@ -21,6 +21,7 @@ ___
 ## Adjacency matrices
 
 An *adjacency matrix* implements a *square [[Matrices|matrix]]* of size $|V|^2$, in which $|V|$ is the **number of *vertices*** of the *graph*. In this case, the **number of *edges* doesn't matter**.
+
 The [[Matrices|matrix]] is populated with $1$ if the **row has a connection with the column**, and $0$ if **there are no connections between *vertices***.
 
 ![[adjacency matrix.jpg]]
