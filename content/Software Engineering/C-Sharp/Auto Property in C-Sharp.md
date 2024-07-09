@@ -1,4 +1,4 @@
-# Properties and Encapsulation
+		# Properties and Encapsulation
 
 When defining a private field in an object, one should pay attention to the ***property*** of the field. A *property* is like an **intermediate for accessing the private field** — let's call it *backing field* —.
 
