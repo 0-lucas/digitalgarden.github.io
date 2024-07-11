@@ -18,8 +18,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e6dd6a5a606fb8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f88c03cff919636f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Outlier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -78,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+                "file": "Machine Learning/Outlier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+                "file": "Machine Learning/Outlier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
+                "file": "Machine Learning/Outlier.md"
               }
             }
           }
@@ -149,12 +173,21 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "0dfeb7775908c792",
+  "active": "f88c03cff919636f",
   "lastOpenFiles": [
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-    "My Books/Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf",
+    "Machine Learning/Entropy.md",
+    "Machine Learning/Principal Component Analysis - PCA/Kernel PCA.md",
+    "Machine Learning/Principal Component Analysis - PCA/PCA.md",
+    "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
+    "Machine Learning/Images/tensors.png",
+    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Books.md",
+    "My Books/Introduction to Applied Linear Algebra.pdf",
+    "My Books/Linear Algebra Done Right.pdf",
+    "Mathematics/Linear Algebra/Eigenvectors.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
+    "My Books/Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf",
     "My Books/Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
     "My Books/Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf",
     "My Books/(Chapman & Hall_CRC computer and information science series) Dinesh P. Mehta, Sartaj Sahni (editors) - Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
@@ -172,7 +205,6 @@
     "Software Engineering/Images/graphs.png",
     "homeimage.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
-    "Software Engineering/Images/hash tables chaining.png",
     "Software Engineering/Data Structures and Algorithms/Algorithms/Hash Functions.md",
     "Mathematics/Mathematics.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
@@ -189,13 +221,6 @@
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Sheet Music.md",
     "Mathematics/Linear Algebra/Vector Spaces/Vector Spaces.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Dependency of Vectors.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Matrices",
-    "Mathematics/Linear Algebra/Vector Spaces",
-    "Process Engineering",
     "Untitled.canvas"
   ]
 }

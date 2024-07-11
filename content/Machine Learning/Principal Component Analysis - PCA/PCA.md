@@ -8,11 +8,11 @@ ___
 
 The *PCA* algorithm uses the **projection method** described in [[Dimensionality Reduction]] to find the **hyperplane that lies closest to the data**, and then it **projects the data** to the identified hyperplane.
 
-The idea is to select the hyperplane which minimizes the [[Mean Squared Error]], and preserve the **maximum variance possible.** It does this by **identifying the axis** which account for **largest variance**, for each **possible axis** in the high dimension, using a technique called *Singular Value Decomposition*. It basically **decomposes the data** to a set of *principal components*.
+The idea is to select the hyperplane which minimizes the [[Mean Squared Error]], and preserve the **maximum variance possible.** It does this by **identifying the axis** which account for **the largest variance**, for each **possible axis** in the high dimension, using a technique called *Singular Value Decomposition*. It basically **decomposes the data** to a set of *principal components*.
 
 ![[PCA.png]]
 
-These *principal components*, also called *PC*s, are the *eigenvectors* with the highest *eigenvalues*. In other words, they are the **vectors**/axis of hyperplanes of the original data which **capture the most variance**, and the amount of chosen *eigenvectors* will be the **chosen dimension**.
+These *principal components*, also called *PC*s, are the [[Eigendecomposition|eigenvectors]] with the highest [[Eigendecomposition|eigenvalues]]. In other words, they are the **vectors**/axis of hyperplane of the original data which **capture the most variance**, and the amount of chosen *eigenvectors* will be the **chosen dimension**.
 ___
 # Using scikit-learn
 
@@ -57,7 +57,7 @@ plt.show()
 
 ![[pca demonstration.png]]
 
-You can check each **component captured variance** with *explained_variance_ratio*. The returning table show how much each **component explains the percentage of variance** of the original dataset. One could want to return the components which accumulate to a **$n$ explained variance ratio**. To do this, just replace *n_components* for a *float* argument. 
+You can check each **component captured variance** with *explained_variance_ratio*. The returning table show how much each **component explains the percentage of variance** of the original dataset. One could want to return the components which accumulate to an **$n$ explained variance ratio**. To do this, just replace *n_components* for a *float* argument. 
 
 ```python
 PCA = PCA(n_components=0.9) # Will return explained_variance total of 90%
