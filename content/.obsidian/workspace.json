@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Outlier.md",
+                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Outlier.md",
+                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Outlier.md",
+                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Outlier.md"
+                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "Statistics/Statistical Modelling/Least Squares Method.md",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Machine Learning/Outlier.md",
     "Machine Learning/Entropy.md",
@@ -219,7 +220,6 @@
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
     "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Mathematics/Linear Algebra/Linear Transformations.md",
-    "Mathematics/Linear Algebra/Vectors.md",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Untitled.canvas"
   ]
