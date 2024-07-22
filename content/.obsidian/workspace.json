@@ -23,11 +23,9 @@
             "id": "e6dd6a5a606fb8cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf"
               }
             }
           },
@@ -37,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
+                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
+                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
+                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md"
+                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf"
               }
             }
           }
@@ -173,9 +171,12 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "f88c03cff919636f",
+  "active": "e6dd6a5a606fb8cb",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/Eigenvectors.md",
+    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
+    "Books.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Statistics/Statistical Modelling/Least Squares Method.md",
@@ -185,11 +186,8 @@
     "Machine Learning/Principal Component Analysis - PCA/PCA.md",
     "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
     "Machine Learning/Images/tensors.png",
-    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
-    "Books.md",
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Linear Algebra Done Right.pdf",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "My Books/Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf",
     "My Books/Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
@@ -219,7 +217,6 @@
     "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
     "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
     "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Software Engineering/C-Sharp/Parameters as Reference.md",
     "Sheet Music/Radiohead - In Rainbows.pdf",
     "Untitled.canvas"
   ]

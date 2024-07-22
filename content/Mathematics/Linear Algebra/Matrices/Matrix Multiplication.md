@@ -1,4 +1,4 @@
-*[[Matrices|Matrix]] multiplication* is quite an extensive  [[Mathematics|mathematical]] operation to do. When multiplying a [[Matrices|matrix]] $A$ by another [[Matrices|matrix]] $B$, each **element from the result matrix** $C$ is calculated by the *rows* of $A$ times the *columns* of $B$.
+ *[[Matrices|Matrix]] multiplication* is quite an extensive  [[Mathematics|mathematical]] operation to do. When multiplying a [[Matrices|matrix]] $A$ by another [[Matrices|matrix]] $B$, each **element from the result matrix** $C$ is calculated by the *rows* of $A$ times the *columns* of $B$.
 
 Before attempting, one should guarantee that **the numbers of *columns* from $A$ is equal to the number of *rows* from $B$**. The result $C$ will have the number of rows from $A$ and the columns from $B$.
 $$

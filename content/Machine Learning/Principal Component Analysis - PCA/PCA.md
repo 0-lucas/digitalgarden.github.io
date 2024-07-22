@@ -12,7 +12,7 @@ The idea is to select the hyperplane which minimizes the [[Mean Squared Error]],
 
 ![[PCA.png]]
 
-These *principal components*, also called *PC*s, are the [[Eigendecomposition|eigenvectors]] with the highest [[Eigendecomposition|eigenvalues]]. In other words, they are the **vectors**/axis of hyperplane of the original data which **capture the most variance**, and the amount of chosen *eigenvectors* will be the **chosen dimension**.
+These *principal components*, also called *PC*s, are the [[Eigenvectors|eigenvectors]] with the highest [[Eigenvectors|eigenvalues]]. In other words, they are the **vectors**/axis of hyperplane of the original data which **capture the most variance**, and the amount of chosen *eigenvectors* will be the **chosen dimension**.
 ___
 # Using scikit-learn
 
