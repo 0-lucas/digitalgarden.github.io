@@ -7,4 +7,5 @@ $$
 \mathbf{Av} = \lambda \mathbf{v}
 $$
 >[!tip] These are not equal!
-> The equality of $\mathbf{Av} = \lambda \mathbf{v}$ expresses that 
+> The equality of $\mathbf{Av} = \lambda \mathbf{v}$ expresses that the effect of the [[Matrices|matrix]] $\mathbf{A}$ on the [[Vectors|vector]] $\mathbf{v}$ is the **same as the effect** of the *scalar* $\lambda$ on the same [[Vectors|vector]].
+

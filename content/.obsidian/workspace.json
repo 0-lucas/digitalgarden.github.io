@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
+                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
+                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf"
+                "file": "Mathematics/Linear Algebra/Eigenvectors.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "e6dd6a5a606fb8cb",
+  "active": "f88c03cff919636f",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Eigenvectors.md",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
+    "Mathematics/Linear Algebra/Eigenvectors.md",
     "Books.md",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
