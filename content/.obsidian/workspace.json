@@ -20,39 +20,19 @@
             }
           },
           {
-            "id": "e6dd6a5a606fb8cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf"
-              }
-            }
-          },
-          {
             "id": "f88c03cff919636f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
+                "file": "Software Engineering/Cloud Computing/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dde60291df06afb0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
+                "file": "Software Engineering/Cloud Computing/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvectors.md",
+                "file": "Software Engineering/Cloud Computing/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvectors.md"
+                "file": "Software Engineering/Cloud Computing/Cloud Computing.md"
               }
             }
           }
@@ -181,12 +161,22 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "dde60291df06afb0",
+  "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "Software Engineering/ASP.NET MVC/Controllers.md",
+    "Software Engineering/Cloud Computing/Cloud Computing.md",
+    "Software Engineering/Cloud Computing",
+    "Software Engineering/Untitled.md",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
+    "Software Engineering/ASP.NET MVC/Routing.md",
+    "Software Engineering/ASP.NET MVC/MVC.md",
+    "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
+    "Mathematics/Linear Algebra/Eigenvalues.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Mathematics/Linear Algebra/Eigenvectors.md",
+    "Mathematics/Images/monalisa eigen.png",
     "Books.md",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Statistics/Statistical Modelling/Least Squares Method.md",
@@ -215,19 +205,10 @@
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Engineering/DAGs.md",
     "Software Engineering/Images/graphs.png",
-    "homeimage.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Data Structures and Algorithms/Algorithms/Hash Functions.md",
     "Mathematics/Mathematics.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Queue.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Linked Lists.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Balanced Binary Trees.md",
-    "Software Engineering/C-Sharp/Auto Property in C-Sharp.md",
-    "Software Engineering/C-Sharp/Inheritance in C-Sharp.md",
-    "Software Engineering/C-Sharp/Polymorphism in C-Sharp.md",
-    "Sheet Music/Radiohead - In Rainbows.pdf",
     "Untitled.canvas"
   ]
 }

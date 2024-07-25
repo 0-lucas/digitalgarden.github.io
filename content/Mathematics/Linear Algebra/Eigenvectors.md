@@ -11,4 +11,6 @@ $$
 
 The concept of *eigenvectors* need [[Eigenvalues]] to complement is meaning. The [[Eigenvalues]] are expressed as the *scalar $\lambda$*, while *eigenvectors* are the [[Vectors|vector]] $\mathbf{v}$.
 
-When working [[Vector Spaces]], *eigenvectors* will change only by a *scalar $\lambda$* after applying a [[Linear Transformations|linear transformation]] to a *subspace*, and **it will not move**, but **only *stretch*** by the *scalar $\lambda$*.
+When working [[Vector Spaces]], *eigenvectors* will change only by a *scalar $\lambda$* after applying a [[Linear Transformations|linear transformation]] to a *subspace*, and **it will not move**, but **only *stretch*** by the *scalar $\lambda$*, which is the [[Eigenvalues|eigenvalue]].
+
+![[monalisa eigen.png]]
