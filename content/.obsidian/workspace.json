@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dde60291df06afb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "f88c03cff919636f",
+  "active": "dde60291df06afb0",
   "lastOpenFiles": [
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Mathematics/Linear Algebra/Eigenvectors.md",
