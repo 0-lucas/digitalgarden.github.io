@@ -104,3 +104,5 @@ ____
 - [[Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf|Handbook of Data Structures and Applications]]
 - [[Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf|Algorithms and Data Structures - The Basic Toolbox]]
 - [[Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf|Grokking Algorithms]]
+## Cloud
+- [[(The Prentice Hall Service Technology Series from Thomas Erl) Thomas Erl_ Zaigham Mahmood_ Ricardo Puttini - Cloud Computing_ Concepts, Technology & Architecture-Prentice Hall (2013).pdf|Cloud Computing - Concepts, Technology & Architecture]]
