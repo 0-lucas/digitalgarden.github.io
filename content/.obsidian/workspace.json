@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Software Engineering.md",
+                "file": "Software Engineering/Process Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Software Engineering.md",
+                "file": "Software Engineering/Process Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Software Engineering.md",
+                "file": "Software Engineering/Process Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Software Engineering.md"
+                "file": "Software Engineering/Process Models.md"
               }
             }
           }
@@ -163,13 +163,18 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/Process Models.md",
+    "Software Engineering/Untitled",
+    "Books.md",
+    "My Books/David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf",
+    "My Books/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf",
+    "My Books/swebok-v3.pdf",
     "Software Engineering/Python/NumPy.md",
     "Process Engineering/FMEA.md",
     "Process Engineering/Process FMEA.md",
-    "Software Engineering/Software Engineering.md",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Images/cloud.png",
-    "Books.md",
     "Software Engineering/ASP.NET MVC/Controllers.md",
     "Software Engineering/Cloud Computing",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
@@ -193,10 +198,6 @@
     "My Books/Introduction to Applied Linear Algebra.pdf",
     "My Books/Linear Algebra Done Right.pdf",
     "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
-    "My Books/Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf",
-    "My Books/Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
-    "My Books/Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf",
-    "My Books/(Chapman & Hall_CRC computer and information science series) Dinesh P. Mehta, Sartaj Sahni (editors) - Handbook of data structures and applications-Chapman & Hall_CRC (2004).pdf",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
     "Software Engineering/Images/adjacency matrix.jpg",
     "Pasted image 20240709173305.png",
@@ -208,7 +209,6 @@
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Engineering/DAGs.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Untitled.canvas"
   ]
 }
