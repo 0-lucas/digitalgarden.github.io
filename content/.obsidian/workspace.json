@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "Software Engineering/Software Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -90,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Software Engineering/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Software Engineering/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "Software Engineering/Software Engineering.md"
               }
             }
           }
@@ -163,10 +164,12 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "Software Engineering/Software Engineering.md",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
+    "Software Engineering/Images/cloud.png",
+    "Books.md",
     "Software Engineering/ASP.NET MVC/Controllers.md",
     "Software Engineering/Cloud Computing",
-    "Software Engineering/Untitled.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/ASP.NET MVC/Routing.md",
     "Software Engineering/ASP.NET MVC/MVC.md",
@@ -176,7 +179,6 @@
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Mathematics/Linear Algebra/Eigenvectors.md",
     "Mathematics/Images/monalisa eigen.png",
-    "Books.md",
     "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Statistics/Statistical Modelling/Least Squares Method.md",
@@ -204,11 +206,9 @@
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Engineering/DAGs.md",
-    "Software Engineering/Images/graphs.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
     "Software Engineering/Data Structures and Algorithms/Algorithms/Hash Functions.md",
     "Mathematics/Mathematics.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Search Trees.md",
     "Untitled.canvas"
   ]
 }
