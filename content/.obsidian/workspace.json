@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -164,6 +163,9 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "Software Engineering/Python/NumPy.md",
+    "Process Engineering/FMEA.md",
+    "Process Engineering/Process FMEA.md",
     "Software Engineering/Software Engineering.md",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Images/cloud.png",
@@ -207,8 +209,6 @@
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Data Engineering/DAGs.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Binary Trees.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Hash Functions.md",
-    "Mathematics/Mathematics.md",
     "Untitled.canvas"
   ]
 }
