@@ -23,11 +23,9 @@
             "id": "f88c03cff919636f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Software Engineering/Process Models.md",
-                "mode": "source",
-                "source": false
+                "file": "My Books/Practical Time Series Analysis.pdf"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models.md",
+                "file": "My Books/Practical Time Series Analysis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models.md",
+                "file": "My Books/Practical Time Series Analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models.md"
+                "file": "My Books/Practical Time Series Analysis.pdf"
               }
             }
           }
@@ -163,10 +161,10 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
-    "Software Engineering/Software Engineering.md",
-    "Software Engineering/Process Models.md",
-    "Software Engineering/Untitled",
     "Books.md",
+    "Software Engineering/Process Models.md",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/Untitled",
     "My Books/David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf",
     "My Books/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf",
     "My Books/swebok-v3.pdf",
