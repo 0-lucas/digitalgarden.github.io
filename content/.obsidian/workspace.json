@@ -23,9 +23,11 @@
             "id": "f88c03cff919636f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Books/Practical Time Series Analysis.pdf"
+                "file": "Software Engineering/Process Models.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Books/Practical Time Series Analysis.pdf",
+                "file": "Software Engineering/Process Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/Practical Time Series Analysis.pdf",
+                "file": "Software Engineering/Process Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Books/Practical Time Series Analysis.pdf"
+                "file": "Software Engineering/Process Models.md"
               }
             }
           }
@@ -161,6 +163,7 @@
   },
   "active": "f88c03cff919636f",
   "lastOpenFiles": [
+    "My Books/Practical Time Series Analysis.pdf",
     "Books.md",
     "Software Engineering/Process Models.md",
     "Software Engineering/Software Engineering.md",
@@ -206,7 +209,6 @@
     "Pasted image 20240709172638.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
-    "Data Engineering/DAGs.md",
     "Untitled.canvas"
   ]
 }
