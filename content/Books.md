@@ -93,7 +93,9 @@ ____
 
 ## Software Engineering
 - [[swebok-v3.pdf|Software Engineer Book of Knowledge]]
+- [[Ian Sommerville - Software Engineering-Pearson (2015).pdf|Software Engineering book]]
 - [[David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf|The Pragmatic Programmer]]
+## Object Oriented Programming
 - [[Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf|Design Patterns - Elements of Reusable Object-Oriented Software]]
 ## Operational Systems
 - [[William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf|The Linux Command Line]]

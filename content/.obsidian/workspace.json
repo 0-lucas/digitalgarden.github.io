@@ -20,14 +20,24 @@
             }
           },
           {
-            "id": "f88c03cff919636f",
+            "id": "e9c88d41bdfddb96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models.md",
+                "file": "Software Engineering/Process Models/Waterfall Model.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a7c0f2f70e8ff3d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf"
               }
             }
           }
@@ -74,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -90,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models.md",
+                "file": "Software Engineering/Process Models/Waterfall Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models.md",
+                "file": "Software Engineering/Process Models/Waterfall Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models.md"
+                "file": "Software Engineering/Process Models/Waterfall Model.md"
               }
             }
           }
@@ -161,16 +172,20 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "f88c03cff919636f",
+  "active": "e9c88d41bdfddb96",
   "lastOpenFiles": [
-    "My Books/Practical Time Series Analysis.pdf",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Software Engineering/Process Models/Waterfall Model.md",
     "Books.md",
-    "Software Engineering/Process Models.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/Images/waterfall.png",
+    "My Books/swebok-v3.pdf",
+    "Software Engineering/Process Models/Process Models.md",
+    "Software Engineering/Process Models",
     "Software Engineering/Software Engineering.md",
-    "Software Engineering/Untitled",
+    "My Books/Practical Time Series Analysis.pdf",
     "My Books/David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf",
     "My Books/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf",
-    "My Books/swebok-v3.pdf",
     "Software Engineering/Python/NumPy.md",
     "Process Engineering/FMEA.md",
     "Process Engineering/Process FMEA.md",
@@ -183,7 +198,6 @@
     "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Mathematics/Linear Algebra/Eigenvalues.md",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Mathematics/Linear Algebra/Eigenvectors.md",
     "Mathematics/Images/monalisa eigen.png",
@@ -197,8 +211,6 @@
     "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
     "Machine Learning/Images/tensors.png",
     "My Books/Introduction to Applied Linear Algebra.pdf",
-    "My Books/Linear Algebra Done Right.pdf",
-    "My Books/Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
     "Software Engineering/Images/adjacency matrix.jpg",
     "Pasted image 20240709173305.png",
@@ -206,9 +218,7 @@
     "Pasted image 20240709172921.jpg",
     "Software Engineering/Images/adjacency list.png",
     "Pasted image 20240709172323.png",
-    "Pasted image 20240709172638.png",
     "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Stacks.md",
     "Untitled.canvas"
   ]
 }
