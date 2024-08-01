@@ -25,4 +25,4 @@ Each stage of the *waterfall model* reflects the activities performed:
 	After the system is deployed, this stage concerns to **correct errors not discovered in past stages**, and adding new functionality as **new requirements are discovered**.
 
 >[!tip] Do not content with this method!
-> If a developer really wants to follow a *waterfall-based model*, it doesn't need to be the **traditional waterfall model**. Other models were created to fix some problems, like the [[V Model]] or [[Incremental Model]].
+> If a developer really wants to follow a *waterfall-based model*, it doesn't need to be the **traditional waterfall model**. Other models were created to fix some problems, like the [[V Model]] or [[Spiral Model]].
