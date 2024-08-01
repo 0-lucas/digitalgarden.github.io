@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -197,7 +198,7 @@
       }
     ]
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "e9c88d41bdfddb96",
   "lastOpenFiles": [
     "Software Engineering/Images/spiral model.jpg",
     "Software Engineering/Process Models/Waterfall Model.md",
