@@ -5,6 +5,7 @@ In [[Software Engineering]], the *waterfall model* is part of the **prescriptive
 In principle, each stage should be **documented thoroughly** and **approved before the following stage starts**. However, because **requirements are frozen** in a early stage, this creates a **inflexible architecture**, and **software that does not attend the user's needs**. 
 
 ![[waterfall.png]]
+___
 # Stages of the Waterfall process model
 Each stage of the *waterfall model* reflects the activities performed:
 

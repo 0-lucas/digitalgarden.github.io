@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -169,20 +168,25 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "handwritten-notes:Create empty handwritten note": true,
-      "obsidian-dangling-links:Show dangling links panel": false
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "e9c88d41bdfddb96",
   "lastOpenFiles": [
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Untitled Kanban.md",
     "Software Engineering/Process Models/Waterfall Model.md",
+    "Untitled.canvas",
+    "Software Engineering/Process Models/V Model.md",
+    "Software Engineering/Images/v model.png",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Software Engineering/Software Engineering.md",
     "Books.md",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Images/waterfall.png",
     "My Books/swebok-v3.pdf",
     "Software Engineering/Process Models/Process Models.md",
     "Software Engineering/Process Models",
-    "Software Engineering/Software Engineering.md",
     "My Books/Practical Time Series Analysis.pdf",
     "My Books/David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf",
     "My Books/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf",
@@ -216,9 +220,6 @@
     "Pasted image 20240709173305.png",
     "Pasted image 20240709172921.png",
     "Pasted image 20240709172921.jpg",
-    "Software Engineering/Images/adjacency list.png",
-    "Pasted image 20240709172323.png",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Hash Tables.md",
-    "Untitled.canvas"
+    "Software Engineering/Images/adjacency list.png"
   ]
 }
