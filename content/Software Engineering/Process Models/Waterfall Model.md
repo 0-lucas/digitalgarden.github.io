@@ -6,7 +6,7 @@ In principle, each stage should be **documented thoroughly** and **approved befo
 
 ![[waterfall.png]]
 ___
-# Stages of the Waterfall process model
+# Stages / step-by-step
 Each stage of the *waterfall model* reflects the activities performed:
 
  - ### Requirements analysis and definition

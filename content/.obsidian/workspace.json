@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models/Waterfall Model.md",
+                "file": "Software Engineering/Process Models/V Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models/Waterfall Model.md",
+                "file": "Software Engineering/Process Models/V Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models/Waterfall Model.md",
+                "file": "Software Engineering/Process Models/V Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models/Waterfall Model.md"
+                "file": "Software Engineering/Process Models/V Model.md"
               }
             }
           }
@@ -174,14 +175,15 @@
   },
   "active": "e9c88d41bdfddb96",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Software Engineering/Process Models/Waterfall Model.md",
-    "Untitled.canvas",
     "Software Engineering/Process Models/V Model.md",
+    "index.md",
+    "Untitled.canvas",
+    "Books.md",
+    "Untitled Kanban.md",
     "Software Engineering/Images/v model.png",
     "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Software Engineering/Software Engineering.md",
-    "Books.md",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Images/waterfall.png",
     "My Books/swebok-v3.pdf",
@@ -212,10 +214,8 @@
     "Machine Learning/Entropy.md",
     "Machine Learning/Principal Component Analysis - PCA/Kernel PCA.md",
     "Machine Learning/Principal Component Analysis - PCA/PCA.md",
-    "Machine Learning/Principal Component Analysis - PCA/Dimensionality Reduction.md",
     "Machine Learning/Images/tensors.png",
     "My Books/Introduction to Applied Linear Algebra.pdf",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Graphs.md",
     "Software Engineering/Images/adjacency matrix.jpg",
     "Pasted image 20240709173305.png",
     "Pasted image 20240709172921.png",
