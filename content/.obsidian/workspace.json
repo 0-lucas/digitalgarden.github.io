@@ -23,16 +23,36 @@
             "id": "7233a6eb6ee51934",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Software Engineering/Images/rup workflows.png"
+              }
+            }
+          },
+          {
+            "id": "5663b331577314e2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process.md",
+                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "efaa39023fe0b7f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process.md",
+                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process.md",
+                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process.md"
+                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md"
               }
             }
           }
@@ -162,55 +182,25 @@
       "canvas:Create new canvas": false
     }
   },
-  "floating": {
-    "id": "1b08abc056b531b9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ac61a60d887c88ff",
-        "type": "window",
-        "children": [
-          {
-            "id": "6ca17fe58e68196f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1dfbb1f49d434af9",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 544,
-        "y": 7,
-        "width": 1876,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7233a6eb6ee51934",
+  "active": "5663b331577314e2",
   "lastOpenFiles": [
+    "Software Engineering/Process Models/Spiral Model.md",
+    "Software Engineering/Process Models/Waterfall Model.md",
+    "Software Engineering/Process Models/Rational Unified Process - RUP.md",
+    "Software Engineering/Images/rup iteration.png",
+    "Software Engineering/Images/rup workflows.png",
+    "Pasted image 20240802205317.png",
+    "index.md",
     "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "Software Engineering/Process Models/Rational Unified Process.md",
     "Books.md",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/Process Models/Process Models.md",
+    "Software Engineering/Process Models/V Model.md",
     "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
     "Software Engineering/Software Engineering.md",
     "Software Engineering/Images/evolutionary process.png",
     "Software Engineering/Process Models/Evolutionary Prototyping.md",
-    "Software Engineering/Process Models/Process Models.md",
-    "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Images/spiral model.jpg",
-    "Software Engineering/Process Models/Waterfall Model.md",
-    "Software Engineering/Process Models/V Model.md",
-    "index.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "Software Engineering/Images/v model.png",
@@ -239,9 +229,6 @@
     "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
     "Statistics/Statistical Modelling/Least Squares Method.md",
     "Machine Learning/Outlier.md",
-    "Machine Learning/Images/tensors.png",
-    "Software Engineering/Images/adjacency matrix.jpg",
-    "Pasted image 20240709173305.png",
-    "Pasted image 20240709172921.png"
+    "Machine Learning/Images/tensors.png"
   ]
 }
