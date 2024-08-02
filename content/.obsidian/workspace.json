@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models/Spiral Model.md",
+                "file": "Software Engineering/Process Models/Evolutionary Prototyping.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models/Spiral Model.md",
+                "file": "Software Engineering/Process Models/Evolutionary Prototyping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models/Spiral Model.md",
+                "file": "Software Engineering/Process Models/Evolutionary Prototyping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models/Spiral Model.md"
+                "file": "Software Engineering/Process Models/Evolutionary Prototyping.md"
               }
             }
           }
@@ -184,8 +184,19 @@
                     "file": "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf"
                   }
                 }
+              },
+              {
+                "id": "998c4804f58bcf1a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -200,14 +211,17 @@
   },
   "active": "e9c88d41bdfddb96",
   "lastOpenFiles": [
+    "Pasted image 20240801222638.png",
+    "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
+    "Software Engineering/Process Models/Evolutionary Prototyping.md",
+    "Software Engineering/Process Models/Process Models.md",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Books.md",
+    "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Images/spiral model.jpg",
     "Software Engineering/Process Models/Waterfall Model.md",
     "Software Engineering/Process Models/V Model.md",
-    "Software Engineering/Process Models/Spiral Model.md",
-    "Books.md",
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Software Engineering/Software Engineering.md",
-    "Software Engineering/Process Models/Process Models.md",
     "index.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
@@ -239,13 +253,10 @@
     "Statistics/Statistical Modelling/Least Squares Method.md",
     "Machine Learning/Outlier.md",
     "Machine Learning/Entropy.md",
-    "Machine Learning/Principal Component Analysis - PCA/Kernel PCA.md",
     "Machine Learning/Images/tensors.png",
-    "My Books/Introduction to Applied Linear Algebra.pdf",
     "Software Engineering/Images/adjacency matrix.jpg",
     "Pasted image 20240709173305.png",
     "Pasted image 20240709172921.png",
-    "Pasted image 20240709172921.jpg",
-    "Software Engineering/Images/adjacency list.png"
+    "Pasted image 20240709172921.jpg"
   ]
 }
