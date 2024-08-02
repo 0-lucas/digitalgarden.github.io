@@ -4,7 +4,7 @@
 
 In other words, it's the  **application of a systematic approach to software development**, that is, the **application of engineering to software**.
 
-Some processes are fundamental to *software engineering*, and **should be done to every new software project**:
+Some processes are fundamental to *software engineering*, and **should be done to every software project**:
 
 - #### Specifications
 	All **functionality**, **restrictions**, and **scope**, should be **well defined** before development.

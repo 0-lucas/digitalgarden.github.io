@@ -10,6 +10,6 @@ Using *evolutionary prototyping*, the development team can **develop the system 
 > 
 > Most likely, the front-end is the part to be showed to the user first, and then after all visualization is done, then the back-end logic begins to be developed.
 
-![[Pasted image 20240801222638.png]]
+![[evolutionary process.png]]
 
 However, the main drawback of the *evolutionary prototyping* is that it **depends solely on the user's feedback**. Because of that, **poor feedback can make the system unusable** because of needed features that were not given by the user, or features that don't make sense for development.
