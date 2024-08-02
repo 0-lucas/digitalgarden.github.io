@@ -7,3 +7,5 @@ The idea is to **start the system with smaller projects**, analyzing its risks a
 Then, after a **complete validation** of potential risks to the system and **benchmarking the operational prototype**, the final steps to be made are similar to a [[Waterfall Model]].
 
 ![[spiral model.jpg]]
+
+Still,
