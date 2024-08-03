@@ -11,5 +11,4 @@ ___
 *Software development* in *XP* is based on [[Test Driven Development]], with the **objective of providing the better software possible**. *Pair programming* also makes a huge impact, once it can **prevent bugs from  happening** at the time its being coded. This makes it so that **developers prove that the code works**, instead of the customer proving the code is broken.
 
 ![[XP project.png]]
-___
-# Practices of Extreme Programming
+
