@@ -12,7 +12,7 @@ ___
 	This phase gathers all information about **user's requirements**, **potential risks**, and **contribution of the project to the business**. In other words, it's about understanding **what is being developed and for what**.
 	
 - ### Elaboration
-	This phase analyze the requirements to **design the system architecture**and **features**, also planning how it's going to **work in the insides.** In other words, it's about understanding **how it will be developed**.
+	This phase analyzes the requirements to **design the system architecture and features**, also planning how it's going to **work in the insides.** In other words, it's about understanding **how it will be developed**.
 
 - ### Construction
 	This phase is about **creating a prototype of the product**. Most development will be done here, **building the product in ascending iterations** until most of the product is done.
@@ -24,4 +24,35 @@ ___
 ___
 # Workflows in RUP
 
-For each of the four phases demonstrated above, the *RUP model* also presents a workflow of 
+**For each** of the four phases demonstrated above, the *RUP model* also presents **nine main workflows**, which are **elements of the iteration of each phase**. Each *workflow* can be **more or less used** depending on which of the main phase is the project at. But most commonly, it follows the following pattern:
+
+![[rup workflows.png]]
+
+- ### Business modelling
+	Studies the business which the product will be used, **determining the business needs.**
+
+- ### Requirements
+	Creates the **functionality requirements** and the **interface for interaction with the user**.
+
+- ### Analysis and design
+	Focuses on **detailing the requirements** for better elaboration of the system.
+
+- ### Implementation
+	Actual development work: **coding and [[Unit Testing]].
+
+- ### Testing
+	Removes the [[Unit Testing|unit tests]] of the past workflow, and adds **integration tests** which focus on **connecting different modules** and *program units*.
+
+- ### Deployment
+	Development of **production-ready versions** of the system.
+
+- ### Configuration and change management
+	Management of **multiple developers working together**, tracking build versions, and **enforcement of development rules and policies**.
+
+- ### Project management
+	Planning of the project as a whole, applying a **framework for managing software projects**, like [[Agile]].
+
+- ### Environment
+	Support the developer with **infrastructure and tools** for development. Basically, [[DevOps]].
+
+
