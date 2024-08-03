@@ -23,34 +23,16 @@
             "id": "7233a6eb6ee51934",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Software Engineering/Images/rup workflows.png"
-              }
-            }
-          },
-          {
-            "id": "10242fa0c30df192",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          },
-          {
-            "id": "7419d93e32811fa5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Software Engineering/Process Models/Agile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Software Engineering/Process Models/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Software Engineering/Process Models/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Software Engineering/Process Models/Agile.md"
               }
             }
           }
@@ -180,27 +162,31 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "10242fa0c30df192",
+  "active": "7233a6eb6ee51934",
   "lastOpenFiles": [
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Software Engineering/Process Models/Process Models.md",
+    "Software Engineering/Process Models/Agile.md",
+    "Software Engineering/Process Models/Agile/Agile.md",
+    "Software Engineering/Agile/Untitled",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/Process Models/Agile",
+    "Software Engineering/Process Models/Rational Unified Process - RUP.md",
+    "Software Engineering/Images/rup workflows.png",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "index.md",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Machine Learning/Linear Regression.md",
     "Statistics/Statistical Modelling/Regression.md",
     "Books.md",
     "homeimage.png",
     "Sheet Music.md",
     "conflict-files-obsidian-git.md",
-    "Software Engineering/Process Models/Rational Unified Process - RUP.md",
     "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Process Models/Waterfall Model.md",
     "Software Engineering/Images/rup iteration.png",
-    "Software Engineering/Images/rup workflows.png",
     "Pasted image 20240802205317.png",
-    "Software Engineering/Process Models/Process Models.md",
     "Software Engineering/Process Models/V Model.md",
     "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
-    "Software Engineering/Software Engineering.md",
     "Software Engineering/Images/evolutionary process.png",
     "Software Engineering/Process Models/Evolutionary Prototyping.md",
     "Software Engineering/Images/spiral model.jpg",
@@ -219,14 +205,11 @@
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Images/cloud.png",
     "Software Engineering/ASP.NET MVC/Controllers.md",
-    "Software Engineering/Cloud Computing",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/ASP.NET MVC/Routing.md",
     "Software Engineering/ASP.NET MVC/MVC.md",
     "Software Engineering/ASP.NET MVC/Middleware Pipeline.md",
     "Mathematics/Linear Algebra/Eigenvalues.md",
-    "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
-    "Mathematics/Linear Algebra/Eigenvectors.md",
     "Mathematics/Images/monalisa eigen.png"
   ]
 }
