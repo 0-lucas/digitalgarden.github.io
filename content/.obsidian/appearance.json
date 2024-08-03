@@ -1,11 +1,15 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "AnuPpuccin",
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "image_centering",
-    "bigger_latex"
+    "bigger_latex",
+    "extended-colorschemes"
   ],
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono"
 }

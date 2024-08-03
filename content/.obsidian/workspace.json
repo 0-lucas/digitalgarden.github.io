@@ -30,24 +30,22 @@
             }
           },
           {
-            "id": "5663b331577314e2",
+            "id": "10242fa0c30df192",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          },
+          {
+            "id": "7419d93e32811fa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "efaa39023fe0b7f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models/Rational Unified Process - RUP.md"
+                "file": "index.md"
               }
             }
           }
@@ -182,19 +180,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5663b331577314e2",
+  "active": "10242fa0c30df192",
   "lastOpenFiles": [
-    "Unit Testing.md",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "index.md",
+    "Machine Learning/Linear Regression.md",
+    "Statistics/Statistical Modelling/Regression.md",
+    "Books.md",
+    "homeimage.png",
+    "Sheet Music.md",
+    "conflict-files-obsidian-git.md",
     "Software Engineering/Process Models/Rational Unified Process - RUP.md",
     "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Process Models/Waterfall Model.md",
     "Software Engineering/Images/rup iteration.png",
     "Software Engineering/Images/rup workflows.png",
     "Pasted image 20240802205317.png",
-    "index.md",
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "Books.md",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Process Models/Process Models.md",
     "Software Engineering/Process Models/V Model.md",
     "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
@@ -225,11 +227,6 @@
     "Mathematics/Linear Algebra/Eigenvalues.md",
     "My Books/Mike Cohen - Practical Linear Algebra for Data Science_ From Core Concepts to Applications Using Python-O'Reilly Media (2022).pdf",
     "Mathematics/Linear Algebra/Eigenvectors.md",
-    "Mathematics/Images/monalisa eigen.png",
-    "Mathematics/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
-    "Statistics/Statistical Modelling/Least Squares Method.md",
-    "Machine Learning/Outlier.md",
-    "Machine Learning/Images/tensors.png"
+    "Mathematics/Images/monalisa eigen.png"
   ]
 }
