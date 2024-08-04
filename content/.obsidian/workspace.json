@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Agile/Extreme Programming.md",
+                "file": "Software Engineering/Agile/Feature Driven Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -90,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Agile/Extreme Programming.md",
+                "file": "Software Engineering/Agile/Feature Driven Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Agile/Extreme Programming.md",
+                "file": "Software Engineering/Agile/Feature Driven Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Agile/Extreme Programming.md"
+                "file": "Software Engineering/Agile/Feature Driven Development.md"
               }
             }
           }
@@ -162,13 +163,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "6a2b3ad64e8ab216",
+  "active": "7233a6eb6ee51934",
   "lastOpenFiles": [
+    "Software Engineering/Agile/Agile.md",
+    "Software Engineering/Agile/Feature Driven Development.md",
+    "Software Engineering/Images/fdd.png",
+    "Software Engineering/Agile/Extreme Programming.md",
+    "Software Engineering/Process Models/Rational Unified Process.md",
+    "Software Engineering/Images/xp lifecycle.png",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Images/XP project.png",
     "Pasted image 20240803144007.png",
-    "Software Engineering/Agile/Extreme Programming.md",
     "Software Engineering/Images/xp comic.png",
-    "Software Engineering/Agile/Agile.md",
     "Software Engineering/Process Models/Process Models.md",
     "Software Engineering/Agile",
     "Software Engineering/Images/12 agile principles.png",
@@ -179,9 +185,7 @@
     "Software Engineering/Agile/Untitled",
     "Software Engineering/Software Engineering.md",
     "Software Engineering/Process Models/Agile",
-    "Software Engineering/Process Models/Rational Unified Process - RUP.md",
     "Software Engineering/Images/rup workflows.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "index.md",
     "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Machine Learning/Linear Regression.md",
@@ -192,11 +196,8 @@
     "conflict-files-obsidian-git.md",
     "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Process Models/Waterfall Model.md",
-    "Software Engineering/Images/rup iteration.png",
-    "Pasted image 20240802205317.png",
     "Software Engineering/Process Models/V Model.md",
     "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
-    "Software Engineering/Images/evolutionary process.png",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "My Books/swebok-v3.pdf",
@@ -209,7 +210,6 @@
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/ASP.NET MVC/Controllers.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
-    "Software Engineering/ASP.NET MVC/Routing.md",
-    "Software Engineering/ASP.NET MVC/MVC.md"
+    "Software Engineering/ASP.NET MVC/Routing.md"
   ]
 }
