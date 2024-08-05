@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d581879fb035e81d",
+            "id": "9d6e791372761a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Process Models/V Model.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Process Models/V Model.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Process Models/V Model.md",
+                "file": "Personal/Linux/Fn Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Process Models/V Model.md"
+                "file": "Personal/Linux/Fn Lock.md"
               }
             }
           }
@@ -162,9 +162,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d581879fb035e81d",
+  "active": "9d6e791372761a3b",
   "lastOpenFiles": [
+    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
+    "Software Engineering/Images/cloud scaling.png",
+    "Software Engineering/Cloud Computing/Cloud Computing.md",
     "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/Process Models/V Model.md",
     "Software Engineering/Docker/Dockerfile.md",
     "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Docker/Containers.md",
@@ -186,14 +190,11 @@
     "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithms.md",
     "Software Engineering/CSS/CSS Grid.md",
     "Software Engineering/CSS/CSS Flexbox.md",
-    "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/C-Sharp/CLR.md",
     "Software Engineering/ASP.NET MVC/Dependency Injection.md",
     "Software Engineering/ASP.NET MVC/Controllers.md",
     "Software Engineering/Images/stop doing agile.png",
     "Software Engineering/Images/stop doing oop.png",
-    "Software Engineering/Agile/Agile.md",
-    "Software Engineering/Object Oriented Programming.md",
     "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
     "Software Engineering/Images/fdd.png",
@@ -202,7 +203,6 @@
     "Pasted image 20240803144007.png",
     "Software Engineering/Images/xp comic.png",
     "Software Engineering/Agile",
-    "Software Engineering/Images/12 agile principles.png",
     "Software Engineering/Agile/Untitled",
     "Software Engineering/Process Models/Agile",
     "Untitled.canvas",
