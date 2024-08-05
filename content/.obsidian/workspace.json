@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ac30405b644e8ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -165,13 +175,16 @@
   },
   "active": "7233a6eb6ee51934",
   "lastOpenFiles": [
-    "Software Engineering/Agile/Agile.md",
+    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "Books.md",
+    "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
     "Software Engineering/Agile/Feature Driven Development.md",
+    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/Agile/Agile.md",
     "Software Engineering/Images/fdd.png",
     "Software Engineering/Agile/Extreme Programming.md",
     "Software Engineering/Process Models/Rational Unified Process.md",
     "Software Engineering/Images/xp lifecycle.png",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Images/XP project.png",
     "Pasted image 20240803144007.png",
     "Software Engineering/Images/xp comic.png",
@@ -187,17 +200,14 @@
     "Software Engineering/Process Models/Agile",
     "Software Engineering/Images/rup workflows.png",
     "index.md",
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Machine Learning/Linear Regression.md",
     "Statistics/Statistical Modelling/Regression.md",
-    "Books.md",
     "homeimage.png",
     "Sheet Music.md",
     "conflict-files-obsidian-git.md",
     "Software Engineering/Process Models/Spiral Model.md",
     "Software Engineering/Process Models/Waterfall Model.md",
     "Software Engineering/Process Models/V Model.md",
-    "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "My Books/swebok-v3.pdf",
