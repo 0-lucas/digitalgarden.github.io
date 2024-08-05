@@ -2,7 +2,7 @@
 
 In [[Software Engineering]], *Agile methods* were created to fix some issues from **traditional prescriptive [[Process Models|process models]]**, which **didn't developed software fast** or competent enough, while also **putting a heavy burden on developers**. More time was spent on planning, than on developing and testing.
 
-![[agile  comic.png]]
+![[stop doing agile.png]]
 
 *Agile*, on the other hand, **encourages team members to communicate**, **to deliver software faster**, and **flexibilizes** planning and change management, **incorporating the user feedback continuously** throughout the software development.
 ___

@@ -1,6 +1,6 @@
 # Object-Oriented Programming
 
-[[C-Sharp]] supports every basic principle of [[OOP]] — ***Abstraction***, ***Encapsulation***, ***Inheritance***, ***Polymorphism*** —. 
+[[C-Sharp]] supports every basic principle of [[Object Oriented Programming]] — ***Abstraction***, ***Encapsulation***, ***Inheritance***, ***Polymorphism*** —. 
 
 ## Abstraction
 

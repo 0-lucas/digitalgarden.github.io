@@ -55,7 +55,7 @@ let me = new CreatePerson("Lucas", "Radiohead");
 me.Greet();
 ```
 
-However, one would be better using a [[OOP in JavaScript|class]] constructor, which would serve the same purpose, but more flexible.
+However, one would be better using a [[Object Oriented Programming|class]] constructor, which would serve the same purpose, but more flexible.
 
 ```javascript
 class CreatePerson {

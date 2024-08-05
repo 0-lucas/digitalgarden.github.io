@@ -1,4 +1,4 @@
-[](Linked%20Lists.md)# What is it?
+# What is it?
 
 An *array* is a linear [[Data Structures|data structure]], which is also referred to as a *list*, *collection*, or [[Tensors]]. They are [[Vectors]] which necessarily work **allocating sequential data in memory**.
 Each data point inside the *array* is called an *element*. Elements must be of the **same type**, and are **indexed from start to finish**, normally starting on $0$ in programming languages.
