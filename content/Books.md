@@ -101,7 +101,7 @@ ____
 ## Operational Systems
 - [[William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf|The Linux Command Line]]
 ## C-Sharp
-- [[(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf|Introduction to Development of Web Application using ASP.NET and MVC Architecture]]
+- [[(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf|Introducti1on to Development of Web Application using ASP.NET and MVC Architecture]]
 - [[Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf|ASP.NET Core in Action]]
 ## Web Development
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
