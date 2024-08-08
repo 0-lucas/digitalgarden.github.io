@@ -14,7 +14,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
+                "file": "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+                "page": 1,
+                "zoom": 1
               },
               "pinned": true
             }
@@ -25,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Docker/Docker.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,9 +42,24 @@
                 "file": "Software Engineering/Cloud Computing/AWS.md"
               }
             }
+          },
+          {
+            "id": "a121f997adae17ab",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
+                "page": 1,
+                "left": 955,
+                "top": 718,
+                "zoom": 0.8691706227310807
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,28 +81,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "9c1dd02770addc9f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,16 +131,6 @@
             "state": {
               "type": "git-view",
               "state": {}
-            }
-          },
-          {
-            "id": "44555a8f31cdc478",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md"
-              }
             }
           }
         ],
@@ -166,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "handwritten-notes:Create empty handwritten note": true,
@@ -174,15 +166,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad0a5546e933cc31",
+  "active": "a121f997adae17ab",
   "lastOpenFiles": [
-    "Software Engineering/Docker/Docker x VM.md",
-    "Software Engineering/Docker/Docker x VM.svg",
+    "Books.md",
     "Software Engineering/Docker/Docker.md",
-    "Software Engineering/Docker/Untitled.md",
-    "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Cloud Computing/AWS.md",
     "Software Engineering/Cloud Computing/AWS.svg",
+    "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
+    "Software Engineering/Docker/Docker x VM.md",
+    "Software Engineering/Docker/Docker x VM.svg",
+    "Software Engineering/Docker/Untitled.md",
+    "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Agile/Agile.md",
     "Software Engineering/Agile/Drawing 2024-08-07 21.20.44.md",
     "Excalidraw/Drawing 2024-08-07 21.16.56.md",
@@ -199,14 +193,12 @@
     "Process Engineering/FMEA.md",
     "index.md",
     "Excalidraw/Drawing 2024-08-07 20.10.41.excalidraw.md",
-    "Books.md",
     "Excalidraw/Drawing 2024-08-07 19.50.44.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Untitled.canvas",
-    "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Personal/Linux/Fn Lock.md",
     "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Software Engineering/Images/cloud scaling.png",
