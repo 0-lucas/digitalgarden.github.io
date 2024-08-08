@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Software Engineering/Docker/Docker x VM.md"
+                "file": "Software Engineering/Cloud Computing/AWS.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Docker/Docker x VM.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Docker/Docker x VM.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Docker/Docker x VM.md"
+                "file": "Software Engineering/Cloud Computing/AWS.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "ad0a5546e933cc31",
   "lastOpenFiles": [
-    "Software Engineering/Docker/Docker x VM.svg",
     "Software Engineering/Docker/Docker x VM.md",
+    "Software Engineering/Docker/Docker x VM.svg",
     "Software Engineering/Docker/Docker.md",
     "Software Engineering/Docker/Untitled.md",
     "Software Engineering/Docker/Containerization.md",
@@ -221,7 +221,6 @@
     "Software Engineering/Images/stop doing oop.png",
     "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
-    "Software Engineering/Images/fdd.png",
     "Software Engineering/Agile"
   ]
 }
