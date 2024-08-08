@@ -32,3 +32,5 @@ The *life cycle* of an *XP* project follows five steps:
 	At this point, the software must be **delivered to the customer**, which will provide **feedback and inputs to make it better**.
 
 ![[xp lifecycle.png]]
+
+

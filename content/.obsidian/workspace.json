@@ -20,34 +20,24 @@
             }
           },
           {
-            "id": "5a39258865008026",
+            "id": "862a8dd70d5732d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Agile/Extreme Programming.md",
+                "file": "Software Engineering/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f6180e65a6e6e37",
+            "id": "ad0a5546e933cc31",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-07 20.25.38.md"
-              }
-            }
-          },
-          {
-            "id": "e84d20fe20173c82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-07 20.25.38.md"
+                "file": "Software Engineering/Docker/Docker x VM.md"
               }
             }
           }
@@ -94,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -110,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-07 20.25.38.md",
+                "file": "Software Engineering/Docker/Docker x VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-07 20.25.38.md",
+                "file": "Software Engineering/Docker/Docker x VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-07 20.25.38.md"
+                "file": "Software Engineering/Docker/Docker x VM.md"
               }
             }
           }
@@ -183,13 +174,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6180e65a6e6e37",
+  "active": "ad0a5546e933cc31",
   "lastOpenFiles": [
-    "Software Engineering/Agile/Feature Driven Development.md",
+    "Software Engineering/Docker/Docker x VM.svg",
+    "Software Engineering/Docker/Docker x VM.md",
+    "Software Engineering/Docker/Docker.md",
+    "Software Engineering/Docker/Untitled.md",
+    "Software Engineering/Docker/Containerization.md",
+    "Software Engineering/Cloud Computing/AWS.md",
+    "Software Engineering/Cloud Computing/AWS.svg",
+    "Software Engineering/Agile/Agile.md",
+    "Software Engineering/Agile/Drawing 2024-08-07 21.20.44.md",
+    "Excalidraw/Drawing 2024-08-07 21.16.56.md",
+    "Excalidraw/Drawing 2024-08-07 21.16.56.svg",
+    "Software Engineering/Agile/Extreme Programming.md",
+    "Ink/Drawing/2024.8.7 - 21.08pm.drawing",
+    "Ink/Drawing",
+    "Ink",
     "Excalidraw/Drawing 2024-08-07 20.25.38.md",
+    "Software Engineering/Agile/Feature Driven Development.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/Agile/Drawing 2024-08-07 20.25.38.svg",
-    "Software Engineering/Agile/Extreme Programming.md",
     "Excalidraw",
     "Process Engineering/FMEA.md",
     "index.md",
@@ -208,29 +213,15 @@
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Process Models/V Model.md",
     "Software Engineering/Docker/Dockerfile.md",
-    "Software Engineering/Docker/Containerization.md",
     "Software Engineering/Docker/Containers.md",
-    "Software Engineering/Docker/Docker.md",
     "Software Engineering/Kubernetes/Kubernetes Architecture.md",
-    "Software Engineering/JavaScript/Objects in JavaScript.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
     "Software Engineering/Images/classes of da.png",
-    "Mathematics/Linear Algebra/Linear Systems.md",
-    "Mathematics/Linear Algebra/Eigenvalues.md",
-    "Mathematics/Linear Algebra/Eigenvectors.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
     "Pasted image 20240804215930.png",
     "Software Engineering/Images/stop doing agile.png",
     "Software Engineering/Images/stop doing oop.png",
     "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
     "Software Engineering/Images/fdd.png",
-    "Software Engineering/Images/xp lifecycle.png",
-    "Software Engineering/Images/XP project.png",
-    "Software Engineering/Agile",
-    "Software Engineering/Agile/Untitled",
-    "Software Engineering/Process Models/Agile",
-    "Data Engineering/My Books/swebok-v3.pdf"
+    "Software Engineering/Agile"
   ]
 }
