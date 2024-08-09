@@ -33,6 +33,7 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Modern introduction to probability and statistics.pdf|A Modern Introduction to Probability and Statistics]]
 ___
 # Data Science
+- [[storytelling-with-data-cole-nussbaumer-knaflic.pdf|Storytelling with Data]]
 - [[o Data_Science_from_Scratch_First_Princ.pdf|Data Science from Scratch]]
 - [[pythondatasciencehandbook.pdf|Python Data Science Handbook]]
 - [[Algorithms for Data Science.pdf|Algorithms for Data Science]]
@@ -96,6 +97,8 @@ ____
 - [[Ian Sommerville - Software Engineering-Pearson (2015).pdf|Software Engineering, Ian Sommerville]]
 - [[David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf|The Pragmatic Programmer]]
 - [[McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf|Rapid Development]]
+- [[Robert-C.-Martin-series_-Robert-C.-Martin-Clean-agile-_-back-to-basics-Prentice-Hall-_2020_.pdf|Clean Agile]]
+- [[Learning Agile.pdf|Learning Agile]]
 ## Object Oriented Programming
 - [[Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf|Design Patterns - Elements of Reusable Object-Oriented Software]]
 ## Operational Systems
@@ -103,6 +106,7 @@ ____
 ## C-Sharp
 - [[Introduction to Web Development with ASP.NET.pdf|Introduction to the Development of Web Applications Using ASP .Net (Core) MVC]]
 - [[Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf|ASP.NET Core in Action]]
+- [[Pro ASP.NET MVC 5.pdf| PRO ASP.NET MVC 5]]
 ## HTML, CSS and JS
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
 - [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]

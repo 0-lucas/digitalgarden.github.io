@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5bbc9d7007c4c01e",
+        "id": "6223d403336f223b",
         "type": "tabs",
         "children": [
           {
-            "id": "862a8dd70d5732d5",
+            "id": "ba01e995f1de8afd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad0a5546e933cc31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
+                "file": "Software Engineering/Cloud Computing/AWS.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -75,7 +61,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -87,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,21 +125,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad0a5546e933cc31",
+  "active": "ba01e995f1de8afd",
   "lastOpenFiles": [
+    "Books.md",
+    "Clean Agile.pdf.md",
+    "My Books/Learning Agile.pdf",
+    "My Books/Clean Agile.pdf",
+    "My Books/Robert-C.-Martin-series_-Robert-C.-Martin-Clean-agile-_-back-to-basics-Prentice-Hall-_2020_.pdf",
+    "My Books/2_compressed.pdf",
+    "My Books/Pro ASP.NET MVC 5.pdf",
+    "My Books/storytelling-with-data-cole-nussbaumer-knaflic.pdf.part",
     "Hands-On Unsupervised Learning Using Python How to Build Applied Machine Learning Solutions from Unlabeled Data (Ankur A. Patel).pdf.md",
     "(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf.md",
-    "Books.md",
     "My Books/Introduction to Web Development with ASP.NET.pdf",
     "My Books/Hands-On Unsupervised Learning Using Python  (Ankur A. Patel).pdf",
     "My Books/James Stewart- Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf",
     "My Books/Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf",
-    "My Books/Cloud Computing Concepts and Technology.pdf",
-    "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "My Books/thinkstats2.pdf",
-    "My Books/swebok-v3.pdf",
-    "My Books/storytelling-with-data-cole-nussbaumer-knaflic.pdf",
-    "My Books/pythondatasciencehandbook.pdf",
     "Excalidraw/One size fits all drawing.md",
     "Software Engineering/Authentication and Authorization.md",
     "Software Engineering/Cloud Computing/AWS.md",
@@ -185,7 +172,6 @@
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Untitled.canvas",
-    "Personal/Linux/Fn Lock.md",
     "Software Engineering/Images/cloud scaling.png",
     "Software Engineering/Images/classes of da.png"
   ]
