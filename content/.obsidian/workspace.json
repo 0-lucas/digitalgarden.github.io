@@ -14,9 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
               },
               "pinned": true
             }
@@ -37,29 +35,16 @@
             "id": "ad0a5546e933cc31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md"
-              }
-            }
-          },
-          {
-            "id": "a121f997adae17ab",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
-                "page": 1,
-                "left": 955,
-                "top": 718,
-                "zoom": 0.8691706227310807
+                "file": "Software Engineering/Authentication and Authorization.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -102,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
+                "file": "Software Engineering/Authentication and Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
+                "file": "Software Engineering/Authentication and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +152,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a121f997adae17ab",
+  "active": "ad0a5546e933cc31",
   "lastOpenFiles": [
+    "Software Engineering/Cloud Computing/AWS.md",
+    "Software Engineering/Authentication and Authorization.md",
+    "Software Engineering/Cloud Computing/AWS.svg",
+    "Software Engineering/Cloud Computing/Cloud Computing.md",
+    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
+    "Software Engineering/ASP.NET MVC/ASP.NET.md",
+    "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
     "Books.md",
     "Software Engineering/Docker/Docker.md",
-    "Software Engineering/Cloud Computing/AWS.md",
-    "Software Engineering/Cloud Computing/AWS.svg",
     "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Docker/Docker x VM.md",
     "Software Engineering/Docker/Docker x VM.svg",
@@ -200,19 +191,15 @@
     "Excalidraw/Scripts",
     "Untitled.canvas",
     "Personal/Linux/Fn Lock.md",
-    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Software Engineering/Images/cloud scaling.png",
-    "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Process Models/V Model.md",
     "Software Engineering/Docker/Dockerfile.md",
     "Software Engineering/Docker/Containers.md",
-    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
     "Software Engineering/Images/classes of da.png",
     "Pasted image 20240804215930.png",
     "Software Engineering/Images/stop doing agile.png",
     "Software Engineering/Images/stop doing oop.png",
     "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
-    "Software Engineering/Agile"
+    "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf"
   ]
 }
