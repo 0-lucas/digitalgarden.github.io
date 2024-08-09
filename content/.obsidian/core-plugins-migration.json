@@ -1,6 +1,6 @@
 {
   "file-explorer": true,
-  "global-search": true,
+  "global-search": false,
   "switcher": false,
   "graph": true,
   "backlink": true,
@@ -19,7 +19,7 @@
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
-  "outline": true,
+  "outline": false,
   "word-count": true,
   "slides": false,
   "audio-recorder": false,

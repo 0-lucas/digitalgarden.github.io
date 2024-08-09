@@ -4,6 +4,8 @@ In [[Software Engineering]], the *FDD method*, which stands for **feature driven
 
 Also differently from [[Scrum]], where the *product owner* is typically seen as the user, in *FDD*, the end user is the **actual user**. *FDD* also **relies on documentation** to **communicate important information** of the project, instead of continuous communication within the team, like in [[Scrum]].
 
+![[Drawing 2024-08-07 20.25.38]]
+
 ![[fdd.png]]
 ___
 # How does it work?
@@ -25,6 +27,7 @@ Typically, a project life cycle is divided in *initial modelling* and *model sto
 
 >[!tip] Longer features are broken
 >For any feature that its **time estimation exceeds more than two weeks**, it should apply the *two-week rule*. The *two-week rule* states that these long features should be **broken into smaller ones** until it fits the time period.
+
 
 
 

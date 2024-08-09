@@ -1,0 +1,1 @@
+{"path":"Software Engineering/Images/merge sort.png","text":"1. Divide the array into two parts HEE EH 2. Divide the array into two parts again H HE EH 3. Break each element into single ﬂ n:ﬂ “:ﬂ parts 4. Sort the elements from smallest to largest H EH EH 5. Merge the divided sorted arrays together EHE EH 6. The array has been sorted EEHHH","libVersion":"0.3.2","langs":"eng"}

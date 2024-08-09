@@ -1,26 +1,18 @@
 {
   "main": {
-    "id": "c3c1a86da2c60e23",
+    "id": "91b7d73ba24ab36a",
     "type": "split",
     "children": [
       {
-        "id": "5bbc9d7007c4c01e",
+        "id": "2383cae8287c4fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfeb7775908c792",
+            "id": "9f37c9561d15f65a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-                "page": 200,
-                "left": -6,
-                "top": 405,
-                "zoom": 2.4895833333333335
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3e96e0241a2e1aa",
+    "id": "70e5de0c75e5154e",
     "type": "split",
     "children": [
       {
-        "id": "ba7c3175cf97f797",
+        "id": "987b9ff4b90c60a4",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2b3ad64e8ab216",
+            "id": "85ee0ae93d62b912",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,166 +37,85 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "9c1dd02770addc9f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 300
   },
   "right": {
-    "id": "5cf683882037ee10",
+    "id": "2be5a250b140a649",
     "type": "split",
     "children": [
       {
-        "id": "ef5432eaf4f217a8",
+        "id": "38a0265a48479ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe10337c04f6a52",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "010ca68019f3cfd3",
+            "id": "990d8e5626dd8062",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d1bde0b27f283814",
+            "id": "41229dc86390ba2c",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "44555a8f31cdc478",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "208ec00b77101ec4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14c8868ac9bc0ad2",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": true,
       "canvas:Create new canvas": false,
-      "handwritten-notes:Create empty handwritten note": false,
+      "command-palette:Open command palette": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dfeb7775908c792",
+  "active": "9f37c9561d15f65a",
   "lastOpenFiles": [
-    "My Books/IntroductoryStatistics-OP_i6tAI7e.pdf",
-    "Books.md",
-    "(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf.md",
-    "My Books/Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf",
-    "homeimage.png",
-    "Sheet Music.md",
-    "Excalidraw/Drawing 2024-08-07 09.22.47.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-07 09.07.23.excalidraw.md",
-    "Excalidraw",
-    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
-    "Software Engineering/Images/cloud scaling.png",
-    "Software Engineering/Cloud Computing/Cloud Computing.md",
-    "My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
-    "Software Engineering/Process Models/V Model.md",
-    "Software Engineering/Docker/Dockerfile.md",
-    "Software Engineering/Docker/Containerization.md",
-    "Software Engineering/Docker/Containers.md",
-    "Software Engineering/Docker/Docker.md",
-    "Software Engineering/Kubernetes/Kubernetes Architecture.md",
-    "Software Engineering/JavaScript/Objects in JavaScript.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures.md",
-    "Software Engineering/Data Structures and Algorithms/Data Structures/Arrays.md",
-    "Software Engineering/Images/classes of da.png",
-    "Mathematics/Linear Algebra/Linear Systems.md",
-    "Mathematics/Linear Algebra/Eigenvalues.md",
-    "Mathematics/Linear Algebra/Eigenvectors.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Basis of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Generators of Vector Spaces.md",
-    "Mathematics/Linear Algebra/Vector Spaces/Linear Combinations.md",
-    "Pasted image 20240804215930.png",
-    "Mathematics/Linear Algebra/Matrices/Gaussian Elimination Method.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithm Complexity.md",
-    "Software Engineering/Data Structures and Algorithms/Algorithms/Algorithms.md",
-    "Software Engineering/Images/stop doing agile.png",
-    "Software Engineering/Images/stop doing oop.png",
-    "My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf",
-    "Software Engineering/Images/fdd.png",
-    "Software Engineering/Images/xp lifecycle.png",
-    "Software Engineering/Images/XP project.png",
-    "Pasted image 20240803144007.png",
-    "Software Engineering/Agile",
-    "Software Engineering/Agile/Untitled",
-    "Software Engineering/Process Models/Agile",
-    "Untitled.canvas",
-    "My Books/swebok-v3.pdf",
-    "Software Engineering/Process Models"
+    "Software Engineering/Images/auth.png",
+    "Software Engineering/Images/Auth vs auth.png",
+    "Software Engineering/Docker/Docker x VM.svg",
+    "Software Engineering/Docker/Docker x VM.md",
+    "Software Engineering/Cloud Computing/AWS.md",
+    "Software Engineering/Authentication and Authorization.md",
+    "My Books/Robert-C.-Martin-series_-Robert-C.-Martin-Clean-agile-_-back-to-basics-Prentice-Hall-_2020_.pdf",
+    "My Books/Pro ASP.NET MVC 5.pdf",
+    "My Books/Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf",
+    "My Books/Learning Agile.pdf",
+    "My Books/James Stewart- Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf",
+    "My Books/Introduction to Web Development with ASP.NET.pdf",
+    "My Books/Hands-On Unsupervised Learning Using Python  (Ankur A. Patel).pdf",
+    "My Books/Cloud Computing Concepts and Technology.pdf",
+    "Excalidraw/One size fits all drawing.md",
+    "conflict-files-obsidian-git.md",
+    "My Books/Martin Kleppmann - Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).pdf",
+    "My Books/James Stewart, Lothar Redlin, Saleem Watson - Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf"
   ]
 }

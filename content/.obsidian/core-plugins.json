@@ -1,6 +1,5 @@
 [
   "file-explorer",
-  "global-search",
   "graph",
   "backlink",
   "canvas",
@@ -9,7 +8,6 @@
   "note-composer",
   "command-palette",
   "editor-status",
-  "outline",
   "word-count",
   "file-recovery"
 ]
