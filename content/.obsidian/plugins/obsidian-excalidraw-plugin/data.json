@@ -68,7 +68,7 @@
   "exportPaddingSVG": 10,
   "exportEmbedScene": false,
   "keepInSync": false,
-  "autoexportSVG": true,
+  "autoexportSVG": false,
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
@@ -447,7 +447,7 @@
     "borderMatchElement": true,
     "borderColor": "#fff",
     "borderOpacity": 0,
-    "filenameVisible": false
+    "filenameVisible": true
   },
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",

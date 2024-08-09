@@ -35,11 +35,9 @@
             "id": "ad0a5546e933cc31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Software Engineering/Authentication and Authorization.md",
-                "mode": "source",
-                "source": false
+                "file": "Software Engineering/Cloud Computing/AWS.md"
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Authentication and Authorization.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Authentication and Authorization.md",
+                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +152,14 @@
   },
   "active": "ad0a5546e933cc31",
   "lastOpenFiles": [
-    "Software Engineering/Cloud Computing/AWS.md",
     "Software Engineering/Authentication and Authorization.md",
+    "Software Engineering/Cloud Computing/AWS.md",
+    "Excalidraw/Drawing 2024-08-08 21.32.14.md",
     "Software Engineering/Cloud Computing/AWS.svg",
+    "Software Engineering/Images/Auth vs auth.png",
+    "Excalidraw/Drawing 2024-08-08 21.32.14.svg",
+    "Excalidraw",
+    "Software Engineering/Images/auth.png",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
@@ -180,7 +183,6 @@
     "Software Engineering/Agile/Feature Driven Development.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
     "Software Engineering/Agile/Drawing 2024-08-07 20.25.38.svg",
-    "Excalidraw",
     "Process Engineering/FMEA.md",
     "index.md",
     "Excalidraw/Drawing 2024-08-07 20.10.41.excalidraw.md",
@@ -193,12 +195,7 @@
     "Personal/Linux/Fn Lock.md",
     "Software Engineering/Images/cloud scaling.png",
     "Software Engineering/Process Models/V Model.md",
-    "Software Engineering/Docker/Dockerfile.md",
-    "Software Engineering/Docker/Containers.md",
     "Software Engineering/Images/classes of da.png",
-    "Pasted image 20240804215930.png",
-    "Software Engineering/Images/stop doing agile.png",
-    "Software Engineering/Images/stop doing oop.png",
     "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
     "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf"
   ]
