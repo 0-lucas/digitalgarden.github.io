@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dfeb7775908c792",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "862a8dd70d5732d5",
             "type": "leaf",
             "state": {
@@ -35,14 +23,16 @@
             "id": "ad0a5546e933cc31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md"
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -86,7 +75,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,21 +141,30 @@
   },
   "active": "ad0a5546e933cc31",
   "lastOpenFiles": [
+    "Hands-On Unsupervised Learning Using Python How to Build Applied Machine Learning Solutions from Unlabeled Data (Ankur A. Patel).pdf.md",
+    "(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf.md",
+    "Books.md",
+    "My Books/Introduction to Web Development with ASP.NET.pdf",
+    "My Books/Hands-On Unsupervised Learning Using Python  (Ankur A. Patel).pdf",
+    "My Books/James Stewart- Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf",
+    "My Books/Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf",
+    "My Books/Cloud Computing Concepts and Technology.pdf",
+    "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
+    "My Books/thinkstats2.pdf",
+    "My Books/swebok-v3.pdf",
+    "My Books/storytelling-with-data-cole-nussbaumer-knaflic.pdf",
+    "My Books/pythondatasciencehandbook.pdf",
+    "Excalidraw/One size fits all drawing.md",
     "Software Engineering/Authentication and Authorization.md",
     "Software Engineering/Cloud Computing/AWS.md",
-    "Excalidraw/Drawing 2024-08-08 21.32.14.md",
     "Software Engineering/Cloud Computing/AWS.svg",
     "Software Engineering/Images/Auth vs auth.png",
     "Excalidraw/Drawing 2024-08-08 21.32.14.svg",
-    "Excalidraw",
     "Software Engineering/Images/auth.png",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
     "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
-    "Data Engineering/My Books/Dataset Shift in Machine Learning.pdf",
-    "Books.md",
     "Software Engineering/Docker/Docker.md",
-    "Data Engineering/My Books/William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf",
     "Software Engineering/Docker/Docker x VM.md",
     "Software Engineering/Docker/Docker x VM.svg",
     "Software Engineering/Docker/Untitled.md",
@@ -176,9 +174,6 @@
     "Excalidraw/Drawing 2024-08-07 21.16.56.md",
     "Excalidraw/Drawing 2024-08-07 21.16.56.svg",
     "Software Engineering/Agile/Extreme Programming.md",
-    "Ink/Drawing/2024.8.7 - 21.08pm.drawing",
-    "Ink/Drawing",
-    "Ink",
     "Excalidraw/Drawing 2024-08-07 20.25.38.md",
     "Software Engineering/Agile/Feature Driven Development.md",
     "Software Engineering/C-Sharp/OOP in C-Sharp.md",
@@ -189,14 +184,9 @@
     "Excalidraw/Drawing 2024-08-07 19.50.44.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Untitled.canvas",
     "Personal/Linux/Fn Lock.md",
     "Software Engineering/Images/cloud scaling.png",
-    "Software Engineering/Process Models/V Model.md",
-    "Software Engineering/Images/classes of da.png",
-    "Data Engineering/My Books/Ian Sommerville - Software Engineering-Pearson (2015).pdf",
-    "Data Engineering/My Books/McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf"
+    "Software Engineering/Images/classes of da.png"
   ]
 }

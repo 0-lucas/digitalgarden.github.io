@@ -11,7 +11,7 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Thomas Nield - Essential Math for Data Science_ Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics-O'Reilly Media (2022).pdf|Essential Math for Data Science]]
 - [[Mathematics for Machine Learning.pdf|Mathematics for Machine Learning]]
 ## Calculus
-- [[James Stewart, Lothar Redlin, Saleem Watson - Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf|Precalculus - Mathematics for Calculus]]
+- [[James Stewart- Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf|Precalculus - Mathematics for Calculus]]
 - [[Calculus Early Transcendentals, 6th Edition (James Stewart).pdf|Calculus - Early Transcendentals]]
 - [[Calculus ALL IN ONE - Mark Ryan.pdf|Calculus All-in-One for Dummies]]
 ## Linear Algebra
@@ -53,7 +53,7 @@ ___
 - [[PyTorch Pocket Reference Building and Deploying Deep Learning Models (Joe Papa).pdf|PyTorch Pocket Reference]]
 - [[Programming PyTorch for Deep Learning Creating and Deploying Deep Learning Applications (Ian Pointer).pdf|Programming PyTorch for Deep Learning]]
 - [[Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning by Chris Albon.pdf|Machine Learning with Python Cookbook]]
-- [[Hands-On Unsupervised Learning Using Python How to Build Applied Machine Learning Solutions from Unlabeled Data (Ankur A. Patel).pdf|Hands-on: Unsupervised Learning]]
+- [[Hands-On Unsupervised Learning Using Python  (Ankur A. Patel).pdf|Hands-On: Unsupervised Learning]]
 - [[Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf|Pattern Recognition and Machine Learning]]
 ## ML Ops
 - [[Dataset Shift in Machine Learning.pdf|Dataset Shift in Machine Learning]]
@@ -74,7 +74,7 @@ ___
 - [[Agile Data Science 2.0.pdf|Agile Data Science]]
 - [[Data Pipelines Pocket Reference Moving and Processing Data for Analytics (James Densmore).pdf|Data Pipelines Pocket Reference]]
 - [[Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library).pdf|Fundamentals of Data Engineering]]
-- [[Martin Kleppmann - Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).pdf|Designing Data Intensive Applications]]
+- [[Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf|Designing Data Intensive Applications]]
 ## Apache Airflow, Spark and Hadoop
 - [[Learning Apache Spark with Python - ENGLISH.pdf|Learning Apache Spark with Python]]
 - [[Spark for Data Science - ENGLISH.pdf|Spark for Data Science]]
@@ -101,9 +101,9 @@ ____
 ## Operational Systems
 - [[William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf|The Linux Command Line]]
 ## C-Sharp
-- [[(Synthesis Lectures on Computer Science) Razvan Alexandru Mezei - Introduction to the Development of Web Applications Using ASP .Net (Core) MVC-Springer (2023).pdf|Introduction to Development of Web Application using ASP.NET and MVC Architecture]]
+- [[Introduction to Web Development with ASP.NET.pdf|Introduction to the Development of Web Applications Using ASP .Net (Core) MVC]]
 - [[Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf|ASP.NET Core in Action]]
-## Web Development
+## HTML, CSS and JS
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
 - [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]
 - [[JavaScriptNotesForProfessionals.pdf|Javascript Notes for Professionals]]
@@ -112,4 +112,4 @@ ____
 - [[Kurt Mehlhorn, Peter Sanders - Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf|Algorithms and Data Structures - The Basic Toolbox]]
 - [[Aditya Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf|Grokking Algorithms]]
 ## Cloud
-- [[(The Prentice Hall Service Technology Series from Thomas Erl) Thomas Erl_ Zaigham Mahmood_ Ricardo Puttini - Cloud Computing_ Concepts, Technology & Architecture-Prentice Hall (2013).pdf|Cloud Computing - Concepts, Technology & Architecture]]
+- [[Cloud Computing Concepts and Technology.pdf|Cloud Computing - Concepts, Technology & Architecture]]
