@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "9786a1b74896c1fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8016fd2b421bf088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9281ef1e50f63a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/AWS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2a0d2ae85667d05",
+    "type": "split",
+    "children": [
+      {
+        "id": "3655ff946a543448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d33f6be1ad2612bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dace71eacde5e80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "51aa7a25df957ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d58384b33ff35ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbe4aaf2165d9b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c348651817a3f703",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1d9281ef1e50f63a",
+  "lastOpenFiles": []
+}
