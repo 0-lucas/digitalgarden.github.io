@@ -14,11 +14,12 @@ The most three common factors used to *authenticate* or *authorize* users are:
 - ##### **Something you are**, such as a fingerprint
 ____
 # What's the difference?
-
 ## Authentication
+
 *Authentication* is a process that verifies **if a user is what they claim to be**, checking if the **information given by the user is correct** with that previously informed or with a **true external source**. This is normally done by **prompting the user to input** it's password or another authentication method.
 ___
 ## Authorization
+
 *Authorization*, on the other hand, is a **process which focuses on giving the user access to a specific resource**, inside a system which the **user is already authenticated**. In this case, the **user's identity is known**, and because of that, will be **analyzed to grant access or not** to a resource.
 Because of that, the *authorization* logic is done **without the user's input**, being done **internally in the system**, and maintained through the system's security.
 

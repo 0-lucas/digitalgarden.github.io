@@ -6,7 +6,7 @@ The team is composed of a *lead designer* and other developers. The *lead design
 ___
 # Crystal Clear life cycle
 
-![[Pasted image 20240810123811.png]]
+![[crystal clear.png]]
 
 ___
 # Principles of Crystal Clear
@@ -14,4 +14,22 @@ ___
 The *Crystal Clear* method presents **seven main principles to follow**:
 
 - #### Frequent delivery
-	Delivery of new functionality should happen each two months, at maximum, with 
+	Delivery of **new functionality should happen each two months**, at maximum, with **intermediary versions**.
+
+- #### Reflective improvement
+	The development team needs to **discuss frequently** if the **project is still achieving success**.
+
+- #### Osmotic communication
+	Communication should be open to all developers to participate if they want.
+
+- #### Personal safety
+	Team members should **communicate their concerns**, with **no fear of being reprehended**.
+
+- #### Focus
+	Team members should be able to **focus on two or three high priority topics** without being disturbed with new tasks.
+
+- #### Easy access to expert users
+	Developers should be able to consult business and users specialists.
+
+- #### Technical environment
+	The development environment needs to support [[Automated Testing]] and [[Continuous Integration]].

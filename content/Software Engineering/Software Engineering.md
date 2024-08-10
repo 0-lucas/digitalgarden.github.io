@@ -1,6 +1,6 @@
 # What is it?
 
-*Software engineering* is a field that concerns with the **design**, **development**, **testing**, and **maintenance** of software applications. The idea is to **manage the process of software development as a project**, instead of letting each developer write its own code, isolated. 
+*Software engineering* is a field that concerns with the **design**, **development**, **testing**, and **maintenance** of software applications. The idea is to **manage the process of software development as a project**, instead of letting each developer write its own code.
 
 In other words, it's the  **application of a systematic approach to software development**, that is, the **application of engineering to software**.
 
