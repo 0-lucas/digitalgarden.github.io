@@ -1,1 +1,0 @@
-{"path":"Data Engineering/Images/Semi-Structured data.png","text":"<2xml version=\"1.0\"2> - <birds> - <owlid=\"1201\"> <species>Bubo bubo</species> <name>Eagle Owl</name> <region>Eurasia</region> </owl> - <owlid=\"1202\"> <species>Strix occidentalis</species> <name>Spotted Owl</name> <region>North America</region> </owl> </birds>","libVersion":"0.3.2","langs":"eng"}

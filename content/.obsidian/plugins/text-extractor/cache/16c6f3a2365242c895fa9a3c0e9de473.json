@@ -1,1 +1,0 @@
-{"path":"Software Engineering/Images/cluster.png","text":"Control Plane kube-controller- cloud-controller- kube-scheduler Worker Node Worker Node Worker Node Container- Container- runtime runtime runtime","libVersion":"0.3.2","langs":"eng"}

@@ -1,6 +1,6 @@
 {
   "file-explorer": true,
-  "global-search": false,
+  "global-search": true,
   "switcher": false,
   "graph": true,
   "backlink": true,

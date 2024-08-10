@@ -1,1 +1,0 @@
-{"path":"Statistics/Images/anova example.png","text":"Analysis of Variance Table Response: response Df Sum Sq Mean Sq F value Pr(>F) a 1 2076.22 2076.22 1700.1 < 2.2e-16 *** Residuals 98 119.68 1.22 Signif. codes: @ ‘***’ @.001 ‘**’ 9.01 ‘*’ 0.05 ‘.’ 0.1 ¢ ’ 1","libVersion":"0.3.2","langs":"eng"}

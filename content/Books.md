@@ -33,12 +33,14 @@ This is a collection of the main books I use for studying. Enjoy!
 - [[Modern introduction to probability and statistics.pdf|A Modern Introduction to Probability and Statistics]]
 ___
 # Data Science
-- [[storytelling-with-data-cole-nussbaumer-knaflic.pdf|Storytelling with Data]]
 - [[o Data_Science_from_Scratch_First_Princ.pdf|Data Science from Scratch]]
 - [[pythondatasciencehandbook.pdf|Python Data Science Handbook]]
 - [[Algorithms for Data Science.pdf|Algorithms for Data Science]]
 - [[storytelling-with-data-cole-nussbaumer-knaflic.pdf|Storytelling with Data]]
 - [[Think Like a Data Scientist.pdf|Think like a Data Scientist]]
+## Data Visualization
+- [[storytelling-with-data-cole-nussbaumer-knaflic.pdf|Storytelling with Data]]
+- [[Nathan Yau - Visualize This_ The FlowingData Guide to Design, Visualization, and Statistics-Wiley (2024)_compressed.pdf|Visualize This]]
 ## R
 - [[R for Data Science_Hadley Wickham.pdf|R for Data Science]]
 - [[R in Action Data Analysis and Graphics with R, Second Edition (Robert Kabacoff).pdf|R in Action]]

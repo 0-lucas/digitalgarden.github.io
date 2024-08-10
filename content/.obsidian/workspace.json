@@ -11,9 +11,11 @@
             "id": "ba01e995f1de8afd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md"
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -39,13 +41,27 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "55c32653bc5008b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "5cf683882037ee10",
@@ -61,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -73,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +132,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "handwritten-notes:Create empty handwritten note": true,
@@ -127,6 +142,8 @@
   },
   "active": "ba01e995f1de8afd",
   "lastOpenFiles": [
+    "Software Engineering/Cloud Computing/AWS.md",
+    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Books.md",
     "Clean Agile.pdf.md",
     "My Books/Learning Agile.pdf",
@@ -143,13 +160,11 @@
     "My Books/Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf",
     "Excalidraw/One size fits all drawing.md",
     "Software Engineering/Authentication and Authorization.md",
-    "Software Engineering/Cloud Computing/AWS.md",
     "Software Engineering/Cloud Computing/AWS.svg",
     "Software Engineering/Images/Auth vs auth.png",
     "Excalidraw/Drawing 2024-08-08 21.32.14.svg",
     "Software Engineering/Images/auth.png",
     "Software Engineering/Cloud Computing/Cloud Computing.md",
-    "Software Engineering/Cloud Computing/Best Practices for Cloud.md",
     "Software Engineering/ASP.NET MVC/ASP.NET.md",
     "Software Engineering/Docker/Docker.md",
     "Software Engineering/Docker/Docker x VM.md",
