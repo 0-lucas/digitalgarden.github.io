@@ -11,10 +11,8 @@
             "id": "1d9281ef1e50f63a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -59,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "51aa7a25df957ffe",
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Cloud Computing/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,5 +112,14 @@
     }
   },
   "active": "1d9281ef1e50f63a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-07 09.07.23.excalidraw.md",
+    "Excalidraw/One size fits all drawing.md",
+    "Excalidraw/Drawing 2024-08-07 09.22.47.excalidraw.md",
+    "Software Engineering/Agile/Feature Driven Development.md",
+    "Software Engineering/Agile/Extreme Programming.md",
+    "Software Engineering/Authentication and Authorization.md",
+    "Software Engineering/Object Oriented Programming.md",
+    "Software Engineering/Cloud Computing/AWS.md"
+  ]
 }

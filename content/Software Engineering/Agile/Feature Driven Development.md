@@ -4,7 +4,6 @@ In [[Software Engineering]], the *FDD method*, which stands for **feature driven
 
 Also differently from [[Scrum]], where the *product owner* is typically seen as the user, in *FDD*, the end user is the **actual user**. *FDD* also **relies on documentation** to **communicate important information** of the project, instead of continuous communication within the team, like in [[Scrum]].
 
-![[Drawing 2024-08-07 20.25.38]]
 
 ![[fdd.png]]
 ___
