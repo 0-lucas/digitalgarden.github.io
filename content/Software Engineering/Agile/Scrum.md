@@ -2,7 +2,7 @@
 
 *Scrum* is the most used [[Agile]] method, being applied to both [[Software Engineering]] and **non-software projects**.
 
-![[Pasted image 20240810150102.png]]
+![[scrum.png]]
 
 For some reason, *Scrum* adds a dozen words to project management.
 ___
