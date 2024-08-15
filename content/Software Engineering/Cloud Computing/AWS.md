@@ -16,8 +16,8 @@ A8myeLaX: [[Containers]]
 aemgcYb1: [[Authentication and Authorization]]
 
 ## Embedded Files
-8bebac446a735145c8ba52b731df5ef07e37c6e9: [[Pasted Image 20240813193747_231.png]]
-0b71a2faab1aba8830f6e2e3ebff566512cdc9d1: [[Pasted Image 20240813200007_123.png]]
+8bebac446a735145c8ba52b731df5ef07e37c6e9: [[dynamo.png]]
+0b71a2faab1aba8830f6e2e3ebff566512cdc9d1: [[aws site host.png]]
 
 %%
 ## Drawing
