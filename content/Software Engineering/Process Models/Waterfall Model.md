@@ -2,7 +2,7 @@
 
 In [[Software Engineering]], the *waterfall model* is part of the **prescriptive** [[Process Models]], being categorized as a **sequential**, **plan-driven** process where all **actions are planned before starting the project** itself.
 
-In principle, each stage should be **documented thoroughly** and **approved before the following stage starts**. However, because **requirements are frozen** in a early stage, this creates a **inflexible architecture**, and **software that does not attend the user's needs**. 
+In principle, each stage should be **documented thoroughly** and **approved before the following stage starts**. However, because **[[Requirements|requirements]] are frozen** in a early stage, this creates a **inflexible architecture**, and **software that does not attend the user's needs**. 
 
 ![[waterfall.png]]
 ___
@@ -10,7 +10,7 @@ ___
 Each stage of the *waterfall model* reflects the activities performed:
 
  - ### Requirements analysis and definition
-	It's **business usage**, **problems to be solved**, **services**, **constraints** and **goals** are established with the team of developers and potential users, **defining each requirement in detail** to serve as a **system specification**.
+	It's **business usage**, **problems to be solved**, **services**, **constraints** and **goals** are established with the team of developers and potential users, **defining each [[Requirements|requirements]] in detail** to serve as a **system specification**.
 
 - ### System and software design
 	The *architecture* and *software* design allocate each requirement as a **hardware issue** or **software issue**. Then, abstract the entire system with its relationships.

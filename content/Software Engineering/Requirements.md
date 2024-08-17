@@ -1,0 +1,19 @@
+# What is it?
+
+In [[Software Engineering]], *requirements* are **descriptions of functionalities of the system**, how **it's offered** and **its restrictions**. A well established set of *requirements* describes the **user's needs** and all **business logic** that should be implemented into the system.
+___
+# Types of requirements
+
+*Requirements* can be divided into two types:
+
+- ##### Functional requirements
+	Descriptions of the **services that the system must offer**, how it should act given some inputs, and so on. It also states what the system cannot do. It's an high level overview.
+
+- ##### Non-functional requirements
+	Restrictions and descriptions of **how the system should attain it's functional requirements**. Normally, it's **more specific to an use-case** or component and contains specifications to follow.
+
+![[func req.png]]
+___
+# Gathering requirements
+
+*Requirements* can be gathered through interviews with the end user, where the development team can question the user about it's use cases, objectives, and possible scenarios that could happen.

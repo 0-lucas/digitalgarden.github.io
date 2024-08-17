@@ -9,10 +9,10 @@ ___
 *RUP* has four main phases, which are:
 
 - ### Inception
-	This phase gathers all information about **user's requirements**, **potential risks**, and **contribution of the project to the business**. In other words, it's about understanding **what is being developed and for what**.
+	This phase gathers all information about **user's [[Requirements|requirements]], **potential risks**, and **contribution of the project to the business**. In other words, it's about understanding **what is being developed and for what**.
 	
 - ### Elaboration
-	This phase analyzes the requirements to **design the system architecture and features**, also planning how it's going to **work in the insides.** In other words, it's about understanding **how it will be developed**.
+	This phase analyzes the [[Requirements|requirements]] to **design the system architecture and features**, also planning how it's going to **work in the insides.** In other words, it's about understanding **how it will be developed**.
 
 - ### Construction
 	This phase is about **creating a prototype of the product**. Most development will be done here, **building the product in ascending iterations** until most of the product is done.
@@ -35,7 +35,7 @@ ___
 	Creates the **functionality requirements** and the **interface for interaction with the user**.
 
 - ### Analysis and design
-	Focuses on **detailing the requirements** for better elaboration of the system.
+	Focuses on **detailing the [[Requirements|requirements]]** for better elaboration of the system.
 
 - ### Implementation
 	Actual development work: **coding and [[Unit Testing]].

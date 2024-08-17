@@ -6,7 +6,7 @@
 ___
 # Applying Extreme Programming
 
-*Extreme Programming* is **better suited for smaller teams** working with **dynamic software requirements**, **managing goals instead of activities** and working together.
+*Extreme Programming* is **better suited for smaller teams** working with **dynamic software [[Requirements|requirements]]**, **managing goals instead of activities** and working together.
 
 *Software development* in *XP* is based on [[Test Driven Development]], with the **objective of providing the better software possible**. *Pair programming* also makes a huge impact, once it can **prevent bugs from happening** at the time its being coded. This makes it so that **developers prove that the code works**, instead of the customer proving the code is broken.
 

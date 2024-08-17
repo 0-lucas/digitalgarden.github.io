@@ -1,4 +1,4 @@
-In [[Software Engineering]], a software project is a preliminary effort to create all **functionality which attends requirements**, the **back-end** and **front-end** of the software, and **how all of this is connected**. 
+In [[Software Engineering]], a software project is a preliminary effort to create all **functionality which attends [[Requirements|requirements]], the **back-end** and **front-end** of the software, and **how all of this is connected**. 
 This structure is the *architecture* of the software.
 
 # What is it?

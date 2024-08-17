@@ -16,4 +16,4 @@ Some processes are fundamental to *software engineering*, and **should be done t
 	The *software* needs to be **validated before shipping** to the user, ensuring that it **meets the user's expectation**.
 
 - #### Evolution
-	The *software* needs to **evolve to meet any changes** in the requirements or needs of the user **along it's life cycle**.
+	The *software* needs to **evolve to meet any changes** in the [[Requirements|requirements]] or needs of the user **along it's life cycle**.

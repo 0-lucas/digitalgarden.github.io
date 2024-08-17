@@ -14,7 +14,7 @@ There are three roles present in a *Scrum* project:
 	Responsible for managing the *Scrum team* in an environment which will succeed. It's a **facilitator which will manage resources** for the planning meetings, and *sprint retro* and *reviews*.
 
 - #### Product Owner
-	**Represents the end user**, responsible for the project itself. Will raise the **most important requirements** to be treated in a *sprint* and be the **middle-man** between the *Scrum team* and real end users.
+	**Represents the end user**, responsible for the project itself. Will raise the **most important [[Requirements|requirements]] to be treated in a *sprint* and be the **middle-man** between the *Scrum team* and real end users.
 
 - #### Scrum team
 	The **development team**, which can include software developers, designers, and analysts. Normally, formed of **six to ten people**.

@@ -1,13 +1,13 @@
 # What is it?
 
-In [[Software Engineering]], the [[Software Architecture]] should be thought of as soon as the project is created and communicated. The *software architect* should be able to **transform the software requirements** into an abstraction that will **solve the business problems** and be **technically viable to developers**.
+In [[Software Engineering]], the [[Software Architecture]] should be thought of as soon as the project is created and communicated. The *software architect* should be able to **transform the software [[Requirements|requirements]]** into an abstraction that will **solve the business problems** and be **technically viable to developers**.
 ___
 # The step-by-step
 
 An *architecture project* typically conforms to the following steps:
 
 - ##### Database modelling
-	All other pieces of software are **developed based on the database and it's characteristics**. In this case, the external entity the software will interact the most is its database, which should be **modeled accordingly to the project requirements**.
+	All other pieces of software are **developed based on the database and it's characteristics**. In this case, the external entity the software will interact the most is its database, which should be **modeled accordingly to the project [[Requirements|requirements]]**.
 	![[database arc.png]]
 
 - ##### Abstraction of the system
