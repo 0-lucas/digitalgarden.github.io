@@ -1,6 +1,6 @@
 # What is it?
 
-*MVC* stands for *Model-View-Controller*, a [[Architecture Patterns|architecture pattern]] used for developing software that divides a program in **three connected elements**, the *model*, the *view* and the *controller*.
+*MVC* stands for *Model-View-Controller*, which is a [[Architecture Patterns|architecture pattern]] used for developing software that divides a program in **three connected elements**, the *model*, the *view* and the *controller*.
 This way, the **front-end code is separated from the back-end**, allowing for efficient parallel development.
 
 ![[mvc example.png]]
