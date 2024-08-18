@@ -5,4 +5,3 @@ ___
 # Methods used
 
 [[Functional Point Analysis]] is an **ISO compliant** method user to measure complexity and effort of a project **based on the user perspective**.
-[[Functional Point Analysis]]
