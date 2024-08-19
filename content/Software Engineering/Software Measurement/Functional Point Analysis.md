@@ -36,6 +36,45 @@ ___
 
 ## Classify components and assign weights
 
-Each **component of a system**, each user interaction, data processing, and so on, should be **taken into consideration**. They need to be classified into one of the types shown above, and then **assigned a weight** depending on its complexity, ranging from **simple**, **average**, and **complex**.
+Each **component of a system**, each user interaction, data processing, and so on, should be **taken into consideration**. 
+They need to be classified into one of the types shown above, and then **assigned a weight** depending on its complexity, ranging from **simple**, **average**, and **complex**.
 
 ![[fpa 1.png]]
+___
+## Calculate Unadjusted Function Points - UFP
+
+Multiply the count of each type by its given weight and sum the results. This will result in *UFP*, which stands for *unadjusted function points*:
+
+$$
+UFP = EI*w + EO*w + EQ*w + ILF*w + EIF*w
+$$
+___
+## Determine the adjustment factor
+
+*VAF*, which stands for *Value Adjustment Factor*, is used to adjust *UFP* by considering **general characteristics of the system**, so that it's complexity estimate is more reliable.
+These characteristics are standardized and called *GSC*, which stands for *General System Characteristics*, and each can be given a score from **0 to 5**, depending on **how applicable it is to the system in question**. **0** represents **weak influence**, while **5** represents **strong influence**:
+
+![[gsc.png]]
+___
+## Calculate TDI and VAF
+
+With the **general characteristics defined**, we can calculate *TDI*, which stands for *Total Degree of Influence*. *TDI* will be the **sum of all points** of the fourteen *influences*.
+$$ TDI = \sum_{i_{1}}^{i_{14}} P_{n}$$
+Then the *Value Adjusment Factor*, *VAF*, can be calculated:
+$$VAF = 0.65 + (0.01 * TDI)$$
+## Calculate Adjusted Function Points - AFP
+
+With all the previous values, *AFP* can be calculated, which is the **Adjusted Function Points**, the final result of a *functional point analysis*:
+
+$$ AFP = UFP * VAF$$
+___
+# Estimating effort
+
+It's possible to determine **function points per month** of a team or a developer, using historical data, resulting in a **productivity rate**. 
+$$\text{Productivity Rate} = \frac{\text{function points done}}{\text{months of work}}$$
+With this productivity rate, one can estimate the effort of a project by applying *FPA* to it and using the **productivity rate** to discover the **effort required for the project**.
+$$\text{Effort} = \frac{AFP}{\text{Productivity Rate}}$$
+Then, one could even **estimate the cost needed**:
+$$
+\text{Cost} = \text{Effort}* \text{Cost per developer}
+$$
