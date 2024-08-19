@@ -8,7 +8,7 @@ ___
 This is a collection of the main books I use for studying. Enjoy!
 
 # Mathematics
-- [[Thomas Nield - Essential Math for Data Science_ Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics-O'Reilly Media (2022).pdf|Essential Math for Data Science]]
+- [[Thomas Nield - Essential Math for Data Science_ Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics (2022, O'Reilly Media) - libgen.li.pdf|Essential Math for Data Science]]
 - [[Mathematics for Machine Learning.pdf|Mathematics for Machine Learning]]
 ## Calculus
 - [[James Stewart- Precalculus_ Mathematics for Calculus, 5th Edition, Enhanced WebAssign Edition  -Brooks Cole (2009).pdf|Precalculus - Mathematics for Calculus]]
@@ -61,11 +61,11 @@ ___
 ## ML Ops
 - [[Dataset Shift in Machine Learning.pdf|Dataset Shift in Machine Learning]]
 - [[Introducing MLOps How to Scale Machine Learning in the Enterprise (Mark Treveil, Nicolas Omont, Clément Stenac etc.).pdf|Introducing MLOPS]]
-- [[Machine Learning Design Patterns Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, Sara Robinson etc.).pdf|Machine Learning Design Patterns]]
+- [[Valliappa Lakshmanan, Sara Robinson, Michael Munn - Machine Learning Design Patterns_ Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020, O'Reilly Media) - libgen.li.pdf|Machine Learning Design Patterns]]
 ## Natural Language Processing — NLP
 - [[Natural_Language_Processing_with_Python.pdf|Natural Language Processing with Python]]
 - [[Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf|Real World Natural Language Processing]]
-- [[Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning-O’Reilly Media (2019).pdf|Natural Language Processing with PyTorch]]
+- [[Delip Rao, Brian McMahan - Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning (2019, O’Reilly Media) - libgen.li.pdf|Natural Language Processing with PyTorch]]
 ## Time Series
 - [[Time Series Forecasting in Python.pdf|Time Series Forecasting in Python]]
 - [[Practical Time Series Analysis.pdf|Practical Time Series Analysis]]
@@ -97,6 +97,7 @@ ____
 ## Software Engineering
 - [[swebok-v3.pdf|Software Engineer Book of Knowledge]]
 - [[Ian Sommerville - Software Engineering-Pearson (2015).pdf|Software Engineering, Ian Sommerville]]
+- [[Mark Richards, Neal Ford - Fundamentals of Software Architecture_ An Engineering Approach (2020, O'Reilly Media) - libgen.li.pdf|Fundamentals of Software Architecture]]
 - [[David Thomas, Andrew Hunt - The Pragmatic Programmer - 20th Anniversary Edition-Pearson (2020).pdf|The Pragmatic Programmer]]
 - [[McConnell, Steve - Rapid development_ taming wild software schedules-Microsoft Press (2014).pdf|Rapid Development]]
 - [[Robert-C.-Martin-series_-Robert-C.-Martin-Clean-agile-_-back-to-basics-Prentice-Hall-_2020_.pdf|Clean Agile]]
