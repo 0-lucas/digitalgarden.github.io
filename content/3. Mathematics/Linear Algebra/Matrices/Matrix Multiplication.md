@@ -12,7 +12,7 @@ ___
 
 When multiplying [[Matrices|matrices]], one use the *dot product*, which is when **matching members are multiplied, and then summed up**. When working with [[Matrices|matrices]], a *row* is multiplied by a *column*, element-wise, and then summed up. For example:
 
-![[Mathematics/Images/dot product.png]]
+![[dot product.png]]
 
 $$(1, 2, 3) * (8, 10, 12) = 1*8 + 2*10 + 3*12  
     = 64$$

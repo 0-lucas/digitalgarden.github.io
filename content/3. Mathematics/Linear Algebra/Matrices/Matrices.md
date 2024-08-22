@@ -8,7 +8,7 @@ It forms a **rectangular [[Arrays|array]]**, which in itself, can also be used t
 >[!tip] A special case of a matrix: [[Vectors]]
 > *[[Vectors]]* are a special case of a *matrix* where a *matrix* **has only a single column**. It may not seem to special, but it's probably the most used *matrix* in [[Mathematics]].
 
-A common notation is $A = m \times n$, where $A$ is the *matrix variable*, $m$ the number of *rows* and $n$ the number of *columns*. We can also **express a filled *matrix*** $A = 2 \times 3$ like this:
+[](Vectors.md)tation is $A = m \times n$, where $A$ is the *matrix variable*, $m$ the number of *rows* and $n$ the number of *columns*. We can also **express a filled *[](Mathematics.md)2 \times 3$ like this:
 
 $$
 

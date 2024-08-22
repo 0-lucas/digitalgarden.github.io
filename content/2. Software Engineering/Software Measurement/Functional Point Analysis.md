@@ -10,7 +10,7 @@ ___
 
 *FPA* establishes names for components and process used in the system:
 
-![[Software Engineering/Images/fpa.png]]
+![[fpa.png]]
 
 - ##### Boundary
 	Refers to the limit where the *FPA* will apply in the system, *e.g., just a part of the system, or will include the entire system and other external services?*

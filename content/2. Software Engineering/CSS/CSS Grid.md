@@ -2,7 +2,7 @@
 
 The *grid layout* is a [[CSS]] layout system which allows to divide a [[HTML]] web page in columns and rows. The elements are then **placed inside the spaces which were created using the grid**.
 
-![[Software Engineering/Images/css grid.png]]
+![[css grid.png]]
 
 An alternative to using *[[CSS]] grid layouts* is to use [[CSS Flexbox]], which also allows for advanced positioning of web pages elements.
 ___

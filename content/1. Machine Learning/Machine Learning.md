@@ -19,7 +19,7 @@ ___
 - [[Mutual Information]]
 
 ### Supervised Learning
-- [[Machine Learning/Linear Regression]]
+- [[Linear Regression]]
 
 ### Unsupervised Learning
 - [[Dimensionality Reduction]]
