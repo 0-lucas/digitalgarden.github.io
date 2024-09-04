@@ -1,7 +1,7 @@
 # What is it?
 
 In [[Machine Learning]], *unsupervised learning* refers to **all algorithms which learn patterns** with data exclusively **without labels**, using only the *input features*. 
-This takes a more *data-driven* approach to the problem, given that all **possible outputs come directly** from the *features* itself. The focus is on *patterns* or ***structure* recognition from data**, *e.g. grouping similar data points*.
+This takes a more *data-driven* approach to the problem, given that all **possible outputs come directly** from the *features* itself. The focus is on *patterns* or ***structure* recognition from data**, *e.g., grouping similar data points*.
 
 ![[supervised vs unsuper.png]]
 
@@ -13,4 +13,4 @@ ___
 
 All use cases of *unsupervised learning* algorithms could be **boiled down** to [[Clustering]], which identify *patterns* and *structures* in data, and [[Autoencoding]], which **identify latent factors in data**.
 
-Perhaps, the common use of *unsupervised leaning* is [[Dimensionality Reduction]], applying through algorithms like [[PCA]].
+Some uses are [[Clustering]] with algorithms like [[K-Means]], and [[Autoencoding]] and [[Dimensionality Reduction]], with algorithms like [[PCA]].
