@@ -2,7 +2,12 @@
 
 *K-Means* is a [[Machine Learning]] used in [[Unsupervised Learning]] and [[Clustering]] tasks. It can be easily implemented with [[scikit-learn]].
 ___
-# Pseudo algorithm
+# How does it work?
+
+The *K-Means* algorithm need the number of *centroids* **before initiating the learning phase**,
+
+
+## Pseudo algorithm
 
 ```
 Select and initialise K centroids
