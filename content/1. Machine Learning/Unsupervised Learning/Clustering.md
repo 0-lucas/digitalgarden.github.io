@@ -23,6 +23,6 @@ ___
  - ##### Semi-supervised learning
 	When used with a badly labeled dataset, *clustering* can supplement another [[Machine Learning|ML]] algorithm **with labeled data** (which are the actual *clusters)*. This technique categorizes a [[Semi-Supervised Learning]] method.
 ___
-# Algorithms
+# How does it work?
 
-Probably the most used *clustering* algorithm is [[K-Means]].
+Probably the most used *clustering* algorithm is [[K-Means]], which is a simple and fast *clustering* algorithm.
