@@ -23,9 +23,13 @@ For a specific data point, its *silhouette coefficient* is calculated as:
 $$
 s_{i} = \frac{b_{i} - a_{i}}{\max (b_{i}, a_{i})}
 $$
-Where $b$ is **separation**, and $a$ is **cohesion**, which can be calculated for **each** data point as:
+Where $a$ is **cohesion**, the **mean distance** between $i$ and **all points in its own cluster**, and $b$ is **separation**, the **smallest mean distance** of $i$ to **all points in other clusters**, which can be calculated for **each** data point as:
 $$
 \begin{align}
-&a_{i} = \frac{1}{|C_{i}| - 1} \sum_{j \in C_{i}, i\neq j} d(i,j)
+&a_{i} = \frac{1}{|C_{I}| - 1} \sum_{j \in C_{I}, i\neq j} d(i,j) \\
+&b_{i} = \min_{j\neq i}\frac{1}{|C_{J}|}\sum_{j\in C_{J}}d(i,j)
 \end{align}
 $$
+Where $|C_{I}|$ is the **number of data points belonging to the cluster** $C_{I}$, $d(i,j)$ is the **distance between data points** $i$ and $j$.
+
+![[silhouette score.png]]
