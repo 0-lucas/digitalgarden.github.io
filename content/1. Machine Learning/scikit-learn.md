@@ -12,7 +12,7 @@ To start with *scikit-learn*, one must ensure that [[Python]] is installed. Then
 pip install scikit-learn
 ```
 
-[[Machine Learning]] algorithms and models that **returns predicted values** are called *estimators*, and the ones that **process data** are called *transformers*.
+[[Machine Learning]] [[Algorithms|algorithms]] and models that **returns predicted values** are called *estimators*, and the ones that **process data** are called *transformers*.
 *scikit-learn* also makes available various tools for creating **end-to-end** models, like *pipelines*, and tools for **model evaluation** and **hyper-parameter optimization**.
 
 Here is a simple [[Linear Regression]] model using *scikit-learn*:

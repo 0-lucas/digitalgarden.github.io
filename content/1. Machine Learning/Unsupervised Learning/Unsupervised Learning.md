@@ -11,6 +11,6 @@ In [[Supervised Learning]], training data contains **both** *features* and *targ
 ___
 # Algorithms of unsupervised ML
 
-All use cases of *unsupervised learning* algorithms could be **boiled down** to [[Clustering]], which identify *patterns* and *structures* in data, and [[Autoencoding]], which **identify latent factors in data**.
+All use cases of *unsupervised learning* [[Algorithms|algorithms]] could be **boiled down** to [[Clustering]], which identify *patterns* and *structures* in data, and [[Autoencoding]], which **identify latent factors in data**.
 
-Some uses are [[Clustering]] with algorithms like [[K-Means]], and [[Autoencoding]] and [[Dimensionality Reduction]], with algorithms like [[PCA]].
+Some uses are [[Clustering]] with [[Algorithms|algorithms]] like [[K-Means]], and [[Autoencoding]] and [[Dimensionality Reduction]], with [[Algorithms|algorithms]] like [[PCA]].

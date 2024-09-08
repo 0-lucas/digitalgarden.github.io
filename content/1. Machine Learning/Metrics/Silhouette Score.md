@@ -1,6 +1,6 @@
 # What is it?
 
-In [[Machine Learning]], the *silhouette score* is a metric used for [[Clustering]] algorithms, using the mean *silhouette coefficient* of all data samples, which **does not need labeled data**.
+In [[Machine Learning]], the *silhouette score* is a metric used for [[Clustering]] [[Algorithms|algorithms]] using the mean *silhouette coefficient* of all data samples, which **does not need labeled data**.
 
 The *silhouette coefficient* measures **how well each data point fits** into its *cluster*. It matches both **cohesion** *(how close a data point is to other points of its own cluster)*, and **separation** *(how far a data point is from points in other cluster)*.
 
