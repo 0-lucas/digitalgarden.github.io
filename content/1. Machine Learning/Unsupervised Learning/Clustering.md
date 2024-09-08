@@ -23,6 +23,18 @@ ___
  - ##### Semi-supervised learning
 	When used with a badly labeled dataset, *clustering* can supplement another [[Machine Learning|ML]] algorithm **with labeled data** (which are the actual *clusters)*. This technique categorizes a [[Semi-Supervised Learning]] method.
 ___
-# How does it work?
+# Types of clustering
 
-Probably the most used *clustering* algorithm is [[K-Means]], which is a simple and fast *clustering* algorithm.
+There are four categories of *clustering* algorithms, which each one **differ in the method used to form** the *cluster*:
+
+- ##### Centroid-based clustering
+*Clusters* are represented by a **central reference vector** which **may not be part of the original dataset**. All data points revolve around the *cluster's centroid*. *e.g. [[K-Means]].*
+
+- ##### Hierarchical clustering
+Data points are **similar to closer data points**, and different than data points which are further away. The *cluster* is defined by the **maximum distance needed to connect data points**. *e.g. [[BIRCH Clustering]] and [[Agglomerative Clustering]].*
+
+- ##### Distribution-based clustering
+Built on [[Statistical Distribution|statistical distributions]] models, which data points are **clustered together if they belong to the same distribution**. Tend to be complex models which can easily [[Overfitting|overfit]]. *e.g. [[Gaussian Mixture Clustering]]* 
+
+- ##### Density-based clustering
+*Clusters* are created based on **areas which have high density**, and data points which are in **sparse areas are considered noise**, [[Outlier|outliers]], or border points.

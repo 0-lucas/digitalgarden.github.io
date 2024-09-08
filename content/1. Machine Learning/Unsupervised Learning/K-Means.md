@@ -1,6 +1,6 @@
 # What is it?
 
-*K-Means* is a [[Machine Learning]] used in [[Unsupervised Learning]] and [[Clustering]] tasks. It can be easily implemented with [[scikit-learn]].
+*K-Means* is a  [[Machine Learning]] algorithm used in [[Unsupervised Learning]] and *centroid-based* [[Clustering]] tasks. It can be easily implemented with [[scikit-learn]].
 ___
 # How does it work?
 
