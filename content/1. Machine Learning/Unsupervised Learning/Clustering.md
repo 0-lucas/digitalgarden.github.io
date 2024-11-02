@@ -37,4 +37,6 @@ Data points are **similar to closer data points**, and different than data point
 Built on [[Statistical Distribution|statistical distributions]] models, which data points are **clustered together if they belong to the same distribution**. Tend to be complex models which can easily [[Overfitting|overfit]]. *e.g. [[Gaussian Mixture Clustering]]* 
 
 - ##### Density-based clustering
-*Clusters* are created based on **areas which have high density**, and data points which are in **sparse areas are considered noise**, [[Outlier|outliers]], or border points.
+*Clusters* are created based on **areas which have high density**, and data points which are in **sparse areas are considered noise**, [[Outlier|outliers]], or border points. *e.g. [[DBSCAN]]*
+
+![[clustring algorithms.png]]

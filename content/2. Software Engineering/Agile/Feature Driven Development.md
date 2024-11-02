@@ -1,6 +1,6 @@
 # What is it?
 
-In [[Software Engineering]], the *FDD method*, which stands for **feature driven development**, is an [[Agile]] method that emphasizes the use of [[Object Oriented Programming]], and it's a **feature-focused method**, as opposed to *delivery-focused* method like [[Scrum]].
+In [[Software Engineering]], the *FDD method*, which stands for **feature driven development**, is an [[Agile]] method that emphasizes the use of [[Object-Oriented Programming]], and it's a **feature-focused method**, as opposed to *delivery-focused* method like [[Scrum]].
 
 Also differently from [[Scrum]], where the *product owner* is typically seen as the user, in *FDD*, the end user is the **actual user**. *FDD* also **relies on documentation** to **communicate important information** of the project, instead of continuous communication within the team, like in [[Scrum]].
 
@@ -19,7 +19,7 @@ Typically, a project life cycle is divided in *initial modelling* and *model sto
 
 - ### Plan by feature
 	Analyse the **complexity of each feature** and plan **tasks to accomplish** said feature. **All members should take part in the planning** phase, so that **every facet of the development process** is approached.
-	Enter [[Object Oriented Programming]]. Each **developer will take care** of a [[Class]] for a **developing feature**, and collaboration between different classes means collaboration between developers. **Feature teams** may also exist, where **class owners get together to develop a feature**.
+	Enter [[Object-Oriented Programming]]. Each **developer will take care** of a [[Class]] for a **developing feature**, and collaboration between different classes means collaboration between developers. **Feature teams** may also exist, where **class owners get together to develop a feature**.
 
 - ### Build by feature
 	Here, each class and *program unit* is built, and a **feature prototype is created**, applying [[Unit Testing]], and then promoted to the main build.

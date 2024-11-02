@@ -78,6 +78,7 @@ ___
 - [[Data Pipelines Pocket Reference Moving and Processing Data for Analytics (James Densmore).pdf|Data Pipelines Pocket Reference]]
 - [[Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library).pdf|Fundamentals of Data Engineering]]
 - [[Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf|Designing Data Intensive Applications]]
+- [[Livro de Big Data - Tecnicas extracao de valor dos dados.pdf|Big Data - Casa do Código]]
 ## Apache Airflow, Spark and Hadoop
 - [[Learning Apache Spark with Python - ENGLISH.pdf|Learning Apache Spark with Python]]
 - [[Spark for Data Science - ENGLISH.pdf|Spark for Data Science]]
@@ -106,10 +107,13 @@ ____
 - [[Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf|Design Patterns - Elements of Reusable Object-Oriented Software]]
 ## Operational Systems
 - [[William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf|The Linux Command Line]]
+## Java
+- [[Joshua Bloch - Effective Java-Addison-Wesley Professional (2018).pdf|Effective Java]]
+- [[Core Java html - Cay S. Horstmann.pdf|Core Java for the Impatient]]
 ## C-Sharp
 - [[Introduction to Web Development with ASP.NET.pdf|Introduction to the Development of Web Applications Using ASP .Net (Core) MVC]]
 - [[Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf|ASP.NET Core in Action]]
-- [[Pro ASP.NET MVC 5.pdf| PRO ASP.NET MVC 5]]
+- [[Pro ASP.NET MVC 5.pdf|PRO ASP.NET MVC 5]]
 ## HTML, CSS and JS
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
 - [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]

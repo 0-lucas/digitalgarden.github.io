@@ -26,7 +26,7 @@ Select and initialise K centroids
 
 Repeat:
 	For each data point:
-		Assign to the nearest cluster
+							Assign to the nearest cluster
 
 	For each centroid:
 		Update coordinates, depending on the mean distance
