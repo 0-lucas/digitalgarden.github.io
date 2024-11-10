@@ -84,6 +84,7 @@ ___
 - [[Spark for Data Science - ENGLISH.pdf|Spark for Data Science]]
 - [[Data Pipelines with Airflow.pdf|Data Pipelines with Airflow]]
 - [[Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf|Hadoop - The Definitive Guide]]
+- [[Hadoop Application Architectures.pdf|Hadoop Application Architectures]]
 ## Cloud Computing
 - [[Amazon Web Services in Action (Andreas Wittig, Michael Wittig).pdf|Amazon Web Services in Action]]
 ## SQL

@@ -8,4 +8,13 @@ This is called the [[Shared Nothing Architecture]], which enables better [[Scali
 ___
 # The cluster architecture
 
-While *nodes* are independent bet
+While *nodes* are independent, they all work for the inside the **same structure**. Inside a *cluster*, a *node* can take **one of the three** forms:
+
+- ##### Worker nodes
+	*Worker nodes* are the **bulk of all available nodes** inside a *cluster*. They only **process and perform the jobs assigned to them** by the *master node*. They also run services to **supervise and manage** the its assigned job.
+
+- ##### Master node
+	The *master node* are responsible for **coordinating resource allocation** and **job assignments** to *worker nodes*. The *master node* also is **responsible for storing data** in the [[Hadoop Distributed File System|HDFS]].
+
+- ##### Client node
+	The *client node* stays **outside the master-worker hierarchy**, acting as a *gateway* between the *cluster* and outer systems. They **load the data into the cluster**, and then **fetch the results** once it's completed.
