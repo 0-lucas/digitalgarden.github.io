@@ -4,10 +4,18 @@
 ___
 # The Hadoop ecosystem
 
-*Hadoop* only really needs three components: 
-- ##### [[MapReduce]]
-- [[Hadoop Distributed File System|HDFS]]
-- [[YARN]]
+*Hadoop* originally was based on only three components: 
 
+- ##### [[MapReduce]]
+	Takes care of all processing, **dividing** the workload to multiple nodes, **processing** the workload, and then **combining the output**.
+
+- ##### [[Hadoop Distributed File System|HDFS]]
+	*HDFS*, which stands for [[Hadoop Distributed File System]], is exactly what is sounds like. It divides a **large file into smaller ones**, and **focuses on read speed** rather than write speed.
+
+- ##### [[YARN]]
+	*YARN*, which stands for *Yet Another Resource Negotiator*, it's the **brain of *Hadoop***, controlling all resources and scheduling tasks. It can support other *processing engines* like [[Apache Spark]], instead of [[MapReduce]], for example.
+
+
+However, with the advance of technology and better data processing techniques, **more components can be inserted** into a *Hadoop cluster*, **extending its functionality** and speed.
 
 ![[Pasted image 20241110105533.png]]
