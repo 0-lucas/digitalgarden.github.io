@@ -15,7 +15,6 @@ ___
 - ##### [[YARN]]
 	*YARN*, which stands for *Yet Another Resource Negotiator*, it's the **brain of *Hadoop***, controlling all resources and scheduling tasks. It can support other *processing engines* like [[Apache Spark]], instead of [[MapReduce]], for example.
 
-
 However, with the advance of technology and better data processing techniques, **more components can be inserted** into a *Hadoop cluster*, **extending its functionality** and speed.
 
-![[Pasted image 20241110105533.png]]
+![[hadoop ecosystem.png]]
