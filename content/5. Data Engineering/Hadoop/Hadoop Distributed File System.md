@@ -6,5 +6,5 @@ The *HDFS*, which stands for *[[Apache Hadoop|Hadoop]] Distributed File System*,
 ___
 # The write-once, read-many approach
 
-*HDFS* is built around the idea that the 
+*HDFS* is built around the idea that the file will be **written only once**, but will be **read multiple times**. This way, it focuses on **fastest retrieval time**, while **not allowing to edit existing data**.
 
