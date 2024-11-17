@@ -13,9 +13,9 @@ The *MapReduce* has three steps: *mapping*, *sorting and shuffling*, and  *reduc
 	The *mapping function* splits large data inputs **into smaller chunks**, applying pre-defined rules to **convert into *key-value pairs***. A simple *mapping function* could be the count of each word in a text input, for example.
 
 - ##### Sort and shuffle
-	*Sorting* and *shuffling* the resulting key-value pairs, enables the algorithm to **aggregate similar key-values** which were **processed on different machines**, forming a single key to the multiple values.
+	*Sorting* and *shuffling* the resulting key-value pairs, enables the algorithm to **aggregate similar key-values** which were **processed on different machines**.
 
 - ##### Reduce
-	The *reduce function* 
+	The *reduce function* processes the sorted key-values into the **final desired output**. It could be a sum of each key-value pair, for example.
 
-![[Pasted image 20241117160905.png]]
+![[map reduce.png]]
