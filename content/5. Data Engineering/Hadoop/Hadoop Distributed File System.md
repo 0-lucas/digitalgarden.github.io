@@ -15,4 +15,4 @@ This happens because the *writer module* has a lock to ensure **data coherency**
 ___
 # The architecture of HDFS
 
-*HDFS* has two main components: *Name Nodes* and *Data Nodes*
+*HDFS* has two main components, which is normally divided iA single *Name Node* and multiple *Data Nodes*.
