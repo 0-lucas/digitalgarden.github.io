@@ -79,6 +79,8 @@ ___
 - [[Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library).pdf|Fundamentals of Data Engineering]]
 - [[Martin Kleppmann - Designing Data-Intensive Applications_-O’Reilly Media (2017).pdf|Designing Data Intensive Applications]]
 - [[Livro de Big Data - Tecnicas extracao de valor dos dados.pdf|Big Data - Casa do Código]]
+- [[Nathan Marz, James Warren Big Data Principles and best practices of scalable realtime data systems.pdf|Big Data - Principles and Best Practices of Scalable Realtime Data Systems]]
+
 ## Apache Airflow, Spark and Hadoop
 - [[Learning Apache Spark with Python - ENGLISH.pdf|Learning Apache Spark with Python]]
 - [[Spark for Data Science - ENGLISH.pdf|Spark for Data Science]]
