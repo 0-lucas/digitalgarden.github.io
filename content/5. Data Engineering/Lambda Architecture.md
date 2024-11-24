@@ -7,3 +7,13 @@ This is the *lambda architecture*. It proposes that a [[Big Data]] system should
 ![[lambda.png]]
 ___
 # The layers of lambda
+The *lambda architecture* is separated by three main layers: the *batch*, *speed* and *serving* layers.
+
+- ##### Batch layer
+	Stores the **raw master data in distributed storage** like [[Hadoop Distributed File System|HDFS]] or [[AWS]]' *S3*. **Pre-compute views** for faster consulting on a **scheduled basis**, defining its **latency based on the schedule** of its *batch processing*.
+
+- ##### Speed layer
+	Designed to handle **real-time data processing**, with **low-latency views** of the data, using *stream processing* to achieve this.
+
+- ##### Serving layer
+	Merges the result of both the *batch* and *speed* layers, providing a unified view of the data. This is wh
