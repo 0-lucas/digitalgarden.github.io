@@ -16,4 +16,7 @@ The *lambda architecture* is separated by three main layers: the *batch*, *speed
 	Designed to handle **real-time data processing**, with **low-latency views** of the data, using *stream processing* to achieve this.
 
 - ##### Serving layer
-	Merges the result of both the *batch* and *speed* layers, providing a unified view of the data. This is wh
+	**Merges the result** of both the *batch* and *speed* layers, providing an **unified view** of the data. This is where end-users, applications and queries have access to the system. By merging both layers, the *serving layer* achieves **real-time**, **consistent**, and l**ow-latency queries to the data**.
+
+## How a query would work?
+
