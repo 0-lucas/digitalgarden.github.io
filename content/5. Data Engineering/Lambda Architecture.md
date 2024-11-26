@@ -20,3 +20,4 @@ The *lambda architecture* is separated by three main layers: the *batch*, *speed
 
 ## How a query would work?
 
+![[Pasted image 20241125205634.png]]
