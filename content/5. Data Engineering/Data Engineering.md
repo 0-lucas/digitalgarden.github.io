@@ -7,5 +7,5 @@ ___
 Check some links about **Data Engineering**:
 - [[Types of Data]]
 - [[Data Orchestration]]
-- [[Apache Airflow]]
+- [[Airflow]]
 - [[DAGs]]

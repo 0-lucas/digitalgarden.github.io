@@ -1,6 +1,6 @@
 # What is it?
 
-The *HDFS*, which stands for *[[Apache Hadoop|Hadoop]] Distributed File System*, is a data storage technique designed to **handle massive amounts of data**, be **fault tolerable**, while still being able to **[[Scaling|scale]] with standard machines**.
+The *HDFS*, which stands for *[[Hadoop|Hadoop]] Distributed File System*, is a data storage technique designed to **handle massive amounts of data**, be **fault tolerable**, while still being able to **[[Scaling|scale]] with standard machines**.
 
 ![[hadoop file.png]]
 ___

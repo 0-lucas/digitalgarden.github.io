@@ -14,7 +14,7 @@ While the **flexibility** of upgrading only the needed resource like *RAM* or *C
 ## Horizontal scaling
 
 *Horizontal scaling*, however, is based on adding more **compute nodes**, **increasing the quantity of machines**, instead improving their actual hardware.
-This works really well with [[Distributed Computing]] and [[Apache Hadoop]], making it more **cost-effective in the long run**. However, the **development overhead** to connect all the different nodes and the **harder maintenance** can make it very **expensive in the short-term**.
+This works really well with [[Distributed Computing]] and [[Hadoop]], making it more **cost-effective in the long run**. However, the **development overhead** to connect all the different nodes and the **harder maintenance** can make it very **expensive in the short-term**.
 
 
 

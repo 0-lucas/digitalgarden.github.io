@@ -3,7 +3,7 @@
 *MapReduce* is a [[Software Engineering|programming]] model which enables fast [[Distributed Computing]] of **large datasets**, mainly used for [[Big Data]] applications in [[Data Engineering]].
 
 Originally published in **2004** by *Google*'s engineers, the [MapReduce paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) is still widely used in [[Cloud Computing|cloud]], spawning [[AWS]] *Elastic MapReduce*, which is basically a *MapReduce* module for **managing data processing**.
-Probably it's **most famous implementation** is in the [[Big Data]] *framework*, [[Apache Hadoop]].
+Probably it's **most famous implementation** is in the [[Big Data]] *framework*, [[Hadoop]].
 ___
 # How does it work?
 

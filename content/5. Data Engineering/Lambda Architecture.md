@@ -18,6 +18,7 @@ The *lambda architecture* is separated by three main layers: the *batch*, *speed
 - ##### Serving layer
 	**Merges the result** of both the *batch* and *speed* layers, providing an **unified view** of the data. This is where end-users, applications and queries have access to the system. By merging both layers, the *serving layer* achieves **real-time**, **consistent**, and l**ow-latency queries to the data**.
 
-## How a query would work?
+___
+# How a query would work?
 
-![[Pasted image 20241125205634.png]]
+![[lambda arch.png]]

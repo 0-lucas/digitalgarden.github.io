@@ -1,6 +1,6 @@
 # What is it?
 
-*DAGs* are an acronym for **Directed Acyclic [[Graphs|Graph]]**, which is a representation of a series of activities. It can be considered the **mathematical abstraction of a data pipeline**.
+*DAGs* are an acronym for **Directed Acyclic [[Graphs|Graph]]**, which is a representation of a series of activities. In [[Data Engineering]], it's considered to be a **mathematical abstraction of a data pipeline**.
 ___
 # Deciphering DAGs
 

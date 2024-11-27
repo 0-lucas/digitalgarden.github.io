@@ -1,4 +1,4 @@
-Scheduling in [[Apache Airflow]] can be a bit confusing at times. One should always keep in mind the intricacies of Airflow and work around it.
+Scheduling in [[Airflow]] can be a bit confusing at times. One should always keep in mind the intricacies of Airflow and work around it.
 
 ![[airflow schedule patric.png]]
 ___

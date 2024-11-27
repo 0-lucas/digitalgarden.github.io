@@ -13,7 +13,7 @@ ___
 	*HDFS*, which stands for [[Hadoop Distributed File System]], is exactly what is sounds like. It divides a **large file into smaller ones**, and **focuses on read speed** rather than write speed.
 
 - ##### [[YARN]]
-	*YARN*, which stands for *Yet Another Resource Negotiator*, it's the **brain of *Hadoop***, controlling all resources and scheduling tasks. It can support other *processing engines* like [[Apache Spark]], instead of [[MapReduce]], for example.
+	*YARN*, which stands for *Yet Another Resource Negotiator*, it's the **brain of *Hadoop***, controlling all resources and scheduling tasks. It can support other *processing engines* like [[Spark]], instead of [[MapReduce]], for example.
 
 However, with the advance of technology and better data processing techniques, **more components can be inserted** into a *Hadoop cluster*, **extending its functionality** and speed.
 

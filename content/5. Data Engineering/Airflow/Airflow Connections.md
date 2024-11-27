@@ -1,4 +1,4 @@
-*Connections* in [[Apache Airflow]] are used for **storing credentials** and **parameters** used for connecting with external services. 
+*Connections* in [[Airflow]] are used for **storing credentials** and **parameters** used for connecting with external services. 
 
 They can be defined as *environment variables* in the Airflow [[Docker]] image, or inside the *Web Server*, using the user interface. 
 
