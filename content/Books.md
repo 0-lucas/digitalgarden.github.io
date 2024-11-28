@@ -82,8 +82,9 @@ ___
 - [[Nathan Marz, James Warren Big Data Principles and best practices of scalable realtime data systems.pdf|Big Data - Principles and Best Practices of Scalable Realtime Data Systems]]
 
 ## Apache Airflow, Spark and Hadoop
-- [[Learning Apache Spark with Python - ENGLISH.pdf|Learning Apache Spark with Python]]
 - [[Spark for Data Science - ENGLISH.pdf|Spark for Data Science]]
+- [[Spark-The Definitive Guide.pdf|Spark - The Definitive Guide]]
+- [[Learning_Spark_Lightning-Fast_Big_Data_Analysis.pdf|Learning Spark]]
 - [[Data Pipelines with Airflow.pdf|Data Pipelines with Airflow]]
 - [[Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf|Hadoop - The Definitive Guide]]
 - [[Hadoop Application Architectures.pdf|Hadoop Application Architectures]]
