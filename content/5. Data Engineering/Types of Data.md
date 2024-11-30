@@ -4,7 +4,7 @@ In [[Data Engineering]], we can classify data based on how structured it is.
 ___
 # Structured Data
 
-*Structured Data* refers to all data that follows a fixed format and can be organized into **rows** and **columns** can be defined as **structured**. Any **Excel or SQL table**, for example, is defined as **structured**.
+*Structured Data* refers to all data that follows a fixed format and can be organized into **rows** and **columns** can be defined as **structured**. Any **Excel or [[SQL]] table**, for example, is defined as **structured**.
 
 ![[Example table.png]]
 ___

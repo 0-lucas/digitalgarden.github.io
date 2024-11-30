@@ -1,4 +1,3 @@
 You know what *SQL* is.
 
-
-[[sql.webp]]
+![[sql.webp]]
