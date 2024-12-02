@@ -26,3 +26,4 @@ A *Spark* cluster could integrate many **different components** which have their
 
 - ##### GraphX
 	*GraphX* is a **standard library** for manipulating [[Graphs|graph data]], extending the [[Resilient Distributed Datasets]] [[API]], along other common [[Graphs|graph]] [[Algorithms|algorithms]].
+
