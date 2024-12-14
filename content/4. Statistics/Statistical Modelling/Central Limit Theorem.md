@@ -11,8 +11,11 @@ ___
 In order to apply the *central limit theorem*, some conditions must be met:
 
 - ##### The variable must be *i.i.d.* - independent and identically distributed.
+
 - ##### The population's distribution must have **finite variance**.
+
 - ##### Sampling must be random and sufficiently large. The rule of thumb is $n \geq 30$,
+
 - ##### Some statisticians also say that the sample size cannot be greater than 10% of the population.
 ___
 # Applying the theorem
