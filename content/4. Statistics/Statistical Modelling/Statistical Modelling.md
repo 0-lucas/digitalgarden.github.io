@@ -1,5 +1,5 @@
 # What is it?
-*Statistical modelling* is the use of [[Mathematics|mathematical]] models and [[Statistics|statistical]] concepts to **analyze and understand complex data sets**, making informed decisions and predictions.
+*Statistical modelling* is the use of [[Mathematics|mathematical]] models and [[Statistics|statistical]] concepts to **analyze and understand complex data sets**. The two main use cases are [[Inference and Prediction]] and *prediction*.
 ___
 # Statistical models
 
