@@ -36,7 +36,7 @@ However, there are **four main assumptions** related with a *linear regression m
 ___
 ## Estimating the model parameters
 
-To determine the **best fitting line** that captures the data, one can use **several metrics**. The most used method is the *Least Squares* method, also called *OLS*, standing for *Ordinary Least Squares*.
+To determine the **best fitting line** that captures the data, one can use **several metrics**. The most used method is the [[Least Squares Method|Least Squares method]], also called *OLS*, standing for *Ordinary Least Squares*.
 
 The idea is to **estimate parameters** that **minimize the error $\epsilon$**, meaning the *fitted line* is close to the observed values. The *sum of squared errors* is given by:
 

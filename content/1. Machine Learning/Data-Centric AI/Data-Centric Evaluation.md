@@ -83,7 +83,7 @@ For an arbitrary classifier, it's possible to **approximate influence** via Mont
 ___
 ## Closed-form Computation of Influence
 
-For [[Linear Regression]] with ***Least Ordinary Squares***—*MSE*, the **LOO Influence *I(x)*** can be easily calculated via a formula known as ***Cook's Distance***, which shows the influence of **each data point** on the **fitted response values**. This happens because the parameters of a linear regression model are, mathematically, a closed form function of the data itself.
+For [[Linear Regression]] with [[Least Squares Method]]—*MSE*, the **LOO Influence *I(x)*** can be easily calculated via a formula known as ***Cook's Distance***, which shows the influence of **each data point** on the **fitted response values**. This happens because the parameters of a linear regression model are, mathematically, a closed form function of the data itself.
 ___
 # Reference
 
