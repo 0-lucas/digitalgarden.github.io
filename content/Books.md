@@ -41,7 +41,7 @@ ___
 ## Data Visualization
 - [[storytelling-with-data-cole-nussbaumer-knaflic.pdf|Storytelling with Data]]
 - [[Nathan Yau - Visualize This_ The FlowingData Guide to Design, Visualization, and Statistics-Wiley (2024)_compressed.pdf|Visualize This]]
-## R
+## R parameter expression. See th
 - [[R for Data Science_Hadley Wickham.pdf|R for Data Science]]
 - [[R in Action Data Analysis and Graphics with R, Second Edition (Robert Kabacoff).pdf|R in Action]]
 ## Data Analysis
