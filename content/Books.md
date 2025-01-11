@@ -118,6 +118,8 @@ ____
 - [[Introduction to Web Development with ASP.NET.pdf|Introduction to the Development of Web Applications Using ASP .Net (Core) MVC]]
 - [[Andrew Lock - ASP.NET Core in Action-Manning Publications (2021).pdf|ASP.NET Core in Action]]
 - [[Pro ASP.NET MVC 5.pdf|PRO ASP.NET MVC 5]]
+- [[Blazor in Action.pdf|Blazor in Action]]
+- [[Jimmy Engström - Web Development with Blazor - Third Edition_ A practical guide to start building interactive UIs with C_ 12 and .NET 8 (2024, Packt Publishing) - libgen.li.pdf|Web Development with Blazor]]
 ## HTML, CSS and JS
 - [[HTML5NotesForProfessionals.pdf|HTML5 Notes for Professionals]]
 - [[CSSNotesForProfessionals.pdf|CSS Notes for Professionals]]
